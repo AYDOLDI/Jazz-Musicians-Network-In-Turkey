@@ -1,7 +1,9 @@
+import numpy as np
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 import pandas as pd
+
 
 ser = Service(r"C:\chromedriver.exe")
 op = webdriver.ChromeOptions()
@@ -18,7 +20,7 @@ for x in range(50):
     pageLink = "https://cazkolik.com/turk-caz-albumleri?page=" + str(x+1)
     driver.get(pageLink)
     soup = BeautifulSoup(driver.page_source, "html.parser")
-
+    print(x)
     albumCountInPage = 0
     for h in soup.findAll('h4', attrs={'class': 'post_title'}):
         albumRouteLink = h.find('a', href=True)
@@ -43,11 +45,13 @@ for x in range(50):
             mainCounter += 1
             print(mainCounter)
 
-
-
-
-
 print(len(artists))
+df = pd.DataFrame(artists, columns=["artists"])
+df2 = pd.DataFrame(albumName, columns=["Albums"])
+df_concat = pd.concat([df2, df], axis=1)
+df_concat.to_csv("example.csv", index=False)
+
+veriler = pd.read_csv("example.csv")
 
 #her linke gidince sanatcılar kısmını da arraylere ekleyip diğer sayfaya geçince '*' karakteri eklenebilir
 #daha sonra substringle ayrım ypaılabilir.
