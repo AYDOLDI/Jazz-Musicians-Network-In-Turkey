@@ -1,0 +1,4124 @@
+Elif Çağlar, Nedim Ruacan --> 1, 12
+Nedim Ruacan, Neşet Ruacan --> 1, 12
+Elif Çağlar, Meriç Demirkol --> 1, 9
+Elif Çağlar, Neşet Ruacan --> 1, 12
+Emir Ersoy, Kenan Doğulu --> 2, 572
+Ayça Varlıer, Emir Ersoy --> 2, 572
+Emir Ersoy, Yaşar --> 2, 572
+Deniz Seki, Emir Ersoy --> 2, 572
+Ayça Varlıer, Kenan Doğulu --> 2, 572
+Kenan Doğulu, Yaşar --> 2, 572
+Deniz Seki, Kenan Doğulu --> 2, 572
+Ayça Varlıer, Yaşar --> 2, 572
+Ayça Varlıer, Deniz Seki --> 2, 572
+Deniz Seki, Yaşar --> 2, 572
+Cengiz Baysal, Kerem Görsev --> 3, 9, 633, 797
+Fundagül İnce, Seren Akyoldaş --> 3, 18
+Ece Özbaylı, Seren Akyoldaş --> 3, 18
+Recep Gül, Seren Akyoldaş --> 3, 18, 340
+Seren Akyoldaş, İbrahim Halaçoğlu --> 3, 18
+Ali Göktürk, Seren Akyoldaş --> 3, 18, 340
+Ece Özbaylı, Fundagül İnce --> 3, 18
+Fundagül İnce, Recep Gül --> 3, 18
+Fundagül İnce, İbrahim Halaçoğlu --> 3, 18
+Ali Göktürk, Fundagül İnce --> 3, 18
+Ece Özbaylı, Recep Gül --> 3, 18
+Ece Özbaylı, İbrahim Halaçoğlu --> 3, 18
+Ali Göktürk, Ece Özbaylı --> 3, 18
+Recep Gül, İbrahim Halaçoğlu --> 3, 18
+Ali Göktürk, Recep Gül --> 3, 18, 340
+Ali Göktürk, İbrahim Halaçoğlu --> 3, 18
+David Sanborn, Dianne Reeves --> 3, 52
+Hakan Erken, Özgür Aydın --> 4, 889
+Anıl Şallıel, Tolga Erzurumlu --> 5, 661, 1083
+Anıl Şallıel, Cahit Kutrafalı --> 5, 661, 1083
+Anıl Şallıel, Ekin Cengizkan --> 5, 1083
+Anıl Şallıel, Deniz Taşar --> 5, 6, 1083
+Anıl Şallıel, Önder Focan --> 5, 102, 388, 389
+Anıl Şallıel, Batu Şallıel --> 5, 6, 228, 332, 1083, 1130
+Anıl Şallıel, Hasan Gözetlik --> 5, 6, 1130
+Anıl Şallıel, Hüsnü Şenlendirici --> 5, 6
+Anıl Şallıel, Memduh Akatay --> 5, 661, 1083
+Anıl Şallıel, Mustafa İpekçioğlu --> 5, 1083
+Cahit Kutrafalı, Tolga Erzurumlu --> 5, 91, 358, 661, 1061, 1083
+Ekin Cengizkan, Tolga Erzurumlu --> 5, 1083
+Deniz Taşar, Tolga Erzurumlu --> 5, 1083
+Cenk Erdoğan, Tolga Erzurumlu --> 5, 91, 1061
+Batu Şallıel, Tolga Erzurumlu --> 5, 1083
+Memduh Akatay, Tolga Erzurumlu --> 5, 661, 1083
+Mustafa İpekçioğlu, Tolga Erzurumlu --> 5, 1083
+Cahit Kutrafalı, Ekin Cengizkan --> 5, 1083
+Cahit Kutrafalı, Deniz Taşar --> 5, 1083
+Cahit Kutrafalı, Cenk Erdoğan --> 5, 91, 1061
+Batu Şallıel, Cahit Kutrafalı --> 5, 1083
+Cahit Kutrafalı, Memduh Akatay --> 5, 661, 1083
+Cahit Kutrafalı, Mustafa İpekçioğlu --> 5, 1083
+Deniz Taşar, Ekin Cengizkan --> 5, 12, 795, 1083, 1113
+Ekin Cengizkan, Önder Focan --> 5, 12
+Cenk Erdoğan, Ekin Cengizkan --> 5, 12, 719, 844
+Batu Şallıel, Ekin Cengizkan --> 5, 407, 616, 1039, 1083
+Ekin Cengizkan, Memduh Akatay --> 5, 1083
+Ekin Cengizkan, Mustafa İpekçioğlu --> 5, 1083
+Deniz Taşar, Önder Focan --> 5, 12
+Cenk Erdoğan, Deniz Taşar --> 5, 12
+Batu Şallıel, Deniz Taşar --> 5, 6, 1083
+Deniz Taşar, Hasan Gözetlik --> 5, 6
+Deniz Taşar, Hüsnü Şenlendirici --> 5, 6
+Deniz Taşar, Memduh Akatay --> 5, 1083
+Deniz Taşar, Mustafa İpekçioğlu --> 5, 1083
+Cenk Erdoğan, Önder Focan --> 5, 12
+Cenk Erdoğan, Hasan Gözetlik --> 5, 1012
+Cenk Erdoğan, Hüsnü Şenlendirici --> 5, 1012
+Cenk Erdoğan, Mustafa İpekçioğlu --> 5, 199
+Batu Şallıel, Hasan Gözetlik --> 5, 6, 1130
+Batu Şallıel, Hüsnü Şenlendirici --> 5, 6
+Batu Şallıel, Memduh Akatay --> 5, 1083
+Batu Şallıel, Mustafa İpekçioğlu --> 5, 1083
+Hasan Gözetlik, Hüsnü Şenlendirici --> 5, 6, 1012
+Memduh Akatay, Mustafa İpekçioğlu --> 5, 1083
+Anıl Şallıel, Ergün Şenlendirici --> 6, 1083
+Batu Şallıel, Ergün Şenlendirici --> 6, 1083
+Deniz Taşar, Ergün Şenlendirici --> 6, 1083
+Atahan Çiftçi, Orkun Akyol --> 7, 1036
+Cengiz Baysal, Demirhan Baylan --> 8, 66, 132, 220, 411, 466, 982
+Demirhan Baylan, Yahya Dai --> 8, 982
+Cengiz Baysal, Yahya Dai --> 8, 9, 910, 982, 1124, 1152, 1161
+Aaron Parks, Harish Raghavan --> 9, 689
+Aaron Parks, Eric Harland --> 9, 689
+Aaron Parks, Elif Çağlar --> 9, 689
+Aaron Parks, İlhan Erşahin --> 9, 689
+Aaron Parks, İmer Demirer --> 9, 689
+Aydın Esen, Ayşe Tütüncü --> 9, 12
+Aydın Esen, Baki Duyarlar --> 9, 12
+Aydın Esen, Burak Bedikyan --> 9, 12
+Aydın Esen, Çağrı Sertel --> 9, 12
+Aydın Esen, Ercüment Orkut --> 9, 12
+Aydın Esen, Kerem Görsev --> 9, 12
+Aydın Esen, Kürşad Deniz --> 9, 12
+Aydın Esen, Selen Gülün --> 9, 12
+Alp Ersönmez, Aydın Esen --> 9, 12
+Aydın Esen, Baron Browne --> 9, 1052
+Aydın Esen, Kağan Yıldız --> 9, 12
+Aydın Esen, Ozan Musluoğlu --> 9, 12, 104
+Aydın Esen, Volkan Hürsever --> 9, 12
+Aydın Esen, Cem Aksel --> 9, 12, 169
+Aydın Esen, Ediz Hafızoğlu --> 9, 12
+Aydın Esen, Ferit Odman --> 9, 12
+Aydın Esen, Steve Smith --> 9, 364, 1052
+Aydın Esen, Turgut Alp Bekoğlu --> 9, 12
+Aydın Esen, Volkan Öktem --> 9, 12, 1142
+Aydın Esen, Çağıl Kaya --> 9, 12
+Aydın Esen, Elif Çağlar --> 9, 12
+Aydın Esen, Jülide Özçelik --> 9, 12
+Aydın Esen, Randy Esen --> 9, 140, 536, 840, 1052, 1060
+Aydın Esen, Cem Tuncer --> 9, 12
+Aydın Esen, Erkan Oğur --> 9, 169
+Aydın Esen, Eylül Biçer --> 9, 12
+Aydın Esen, Önder Focan --> 9, 12, 104
+Aydın Esen, Sarp Maden --> 9, 12
+Aydın Esen, Engin Recepoğulları --> 9, 12
+Aydın Esen, İlhan Erşahin --> 9, 12
+Aydın Esen, Serhan Erkol --> 9, 12
+Aydın Esen, Tamer Temel --> 9, 12
+Aydın Esen, Barış Doğukan Yazıcı --> 9, 12
+Aydın Esen, İmer Demirer --> 9, 12
+Aydın Esen, Şenova Ülker --> 9, 12
+Aydın Esen, Oğuz Büyükberber --> 9, 12
+Aydın Esen, İzzet Kızıl --> 9, 12
+Ayşe Tütüncü, Baki Duyarlar --> 9, 12, 712
+Ayşe Tütüncü, Burak Bedikyan --> 9, 12
+Ayşe Tütüncü, Çağrı Sertel --> 9, 12, 712, 947
+Ayşe Tütüncü, Ercüment Orkut --> 9, 12, 712
+Ayşe Tütüncü, Kerem Görsev --> 9, 12, 712
+Ayşe Tütüncü, Kürşad Deniz --> 9, 12
+Ayşe Tütüncü, Selen Gülün --> 9, 12, 712, 1152
+Ayşe Tütüncü, Serkan Özyılmaz --> 9, 712
+Ayşe Tütüncü, Tuluğ Tırpan --> 9, 712
+Alp Ersönmez, Ayşe Tütüncü --> 9, 12, 947
+Ayşe Tütüncü, İlkin Deniz --> 9, 518, 1115
+Ayşe Tütüncü, Kağan Yıldız --> 9, 12, 947
+Ayşe Tütüncü, Ozan Musluoğlu --> 9, 12, 712, 947
+Ayşe Tütüncü, Özgür Salıcı --> 9, 518, 1152
+Ayşe Tütüncü, Volkan Hürsever --> 9, 12
+Ayşe Tütüncü, Cem Aksel --> 9, 12, 448, 518
+Ayşe Tütüncü, Cengiz Baysal --> 9, 1152
+Ayşe Tütüncü, Ediz Hafızoğlu --> 9, 12, 947
+Ayşe Tütüncü, Ferit Odman --> 9, 12, 712
+Ayşe Tütüncü, Turgut Alp Bekoğlu --> 9, 12, 518, 1152
+Ayşe Tütüncü, Volkan Öktem --> 9, 12
+Ayşe Tütüncü, Çağıl Kaya --> 9, 12
+Ayşe Tütüncü, Elif Çağlar --> 9, 12
+Ayşe Tütüncü, Jülide Özçelik --> 9, 12
+Ayşe Tütüncü, Cem Tuncer --> 9, 12
+Ayşe Tütüncü, Erkan Oğur --> 9, 518
+Ayşe Tütüncü, Eylül Biçer --> 9, 12
+Ayşe Tütüncü, Önder Focan --> 9, 12
+Ayşe Tütüncü, Sarp Maden --> 9, 12
+Ayşe Tütüncü, Engin Recepoğulları --> 9, 12
+Ayşe Tütüncü, İlhan Erşahin --> 9, 12
+Ayşe Tütüncü, Meriç Demirkol --> 9, 947
+Ayşe Tütüncü, Serhan Erkol --> 9, 12, 448, 947
+Ayşe Tütüncü, Tamer Temel --> 9, 12, 448
+Ayşe Tütüncü, Yahya Dai --> 9, 518, 816, 1152
+Ayşe Tütüncü, Barış Doğukan Yazıcı --> 9, 12
+Ayşe Tütüncü, İmer Demirer --> 9, 12
+Ayşe Tütüncü, Şenova Ülker --> 9, 12
+Ayşe Tütüncü, Oğuz Büyükberber --> 9, 12, 241, 816, 947, 1152
+Ayşe Tütüncü, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Ayşe Tütüncü --> 9, 947
+Baki Duyarlar, Burak Bedikyan --> 9, 12
+Baki Duyarlar, Çağrı Sertel --> 9, 12, 712
+Baki Duyarlar, Ercüment Orkut --> 9, 12, 712
+Baki Duyarlar, Kerem Görsev --> 9, 12, 712, 1077
+Baki Duyarlar, Kürşad Deniz --> 9, 12
+Baki Duyarlar, Selen Gülün --> 9, 12, 712, 1156
+Baki Duyarlar, Serkan Özyılmaz --> 9, 712, 1077
+Baki Duyarlar, Tuluğ Tırpan --> 9, 712
+Alp Ersönmez, Baki Duyarlar --> 9, 12
+Alper Yılmaz, Baki Duyarlar --> 9, 1156
+Baki Duyarlar, Erdal Akyol --> 9, 579, 1022
+Baki Duyarlar, Janek Gwizdala --> 9, 1050
+Baki Duyarlar, Kağan Yıldız --> 9, 12, 207, 232, 1156
+Baki Duyarlar, Ozan Musluoğlu --> 9, 12, 712, 1077
+Baki Duyarlar, Özgür Salıcı --> 9, 1077
+Baki Duyarlar, Volkan Hürsever --> 9, 12
+Baki Duyarlar, Cem Aksel --> 9, 12, 207, 233, 579, 738, 760
+Baki Duyarlar, Ediz Hafızoğlu --> 9, 12, 1077
+Baki Duyarlar, Ferit Odman --> 9, 12, 712, 1077
+Baki Duyarlar, Louie Palmer --> 9, 1050
+Baki Duyarlar, Turgut Alp Bekoğlu --> 9, 12
+Baki Duyarlar, Volkan Öktem --> 9, 12
+Baki Duyarlar, Çağıl Kaya --> 9, 12
+Baki Duyarlar, Elif Çağlar --> 9, 12
+Baki Duyarlar, Jülide Özçelik --> 9, 12
+Baki Duyarlar, Cem Tuncer --> 9, 12
+Baki Duyarlar, Erkan Oğur --> 9, 232, 233, 815, 1022
+Baki Duyarlar, Eylül Biçer --> 9, 12
+Baki Duyarlar, Önder Focan --> 9, 12
+Baki Duyarlar, Sarp Maden --> 9, 12
+Baki Duyarlar, Engin Recepoğulları --> 9, 12, 1077
+Baki Duyarlar, İlhan Erşahin --> 9, 12
+Baki Duyarlar, Justin Vasques --> 9, 1050
+Baki Duyarlar, Meriç Demirkol --> 9, 1077
+Baki Duyarlar, Serhan Erkol --> 9, 12, 207, 1077, 1156
+Baki Duyarlar, Tamer Temel --> 9, 12, 207
+Baki Duyarlar, Yahya Dai --> 9, 738, 760
+Baki Duyarlar, Barış Doğukan Yazıcı --> 9, 12
+Baki Duyarlar, Halil İbrahim Işık --> 9, 1077
+Baki Duyarlar, İmer Demirer --> 9, 12, 760, 1075, 1077
+Baki Duyarlar, Şenova Ülker --> 9, 12, 207, 232, 233, 579
+Baki Duyarlar, Hakan Çimenot --> 9, 1075, 1077
+Baki Duyarlar, Oğuz Büyükberber --> 9, 12
+Baki Duyarlar, İzzet Kızıl --> 9, 12
+Burak Bedikyan, Çağrı Sertel --> 9, 12
+Burak Bedikyan, Ercüment Orkut --> 9, 12
+Burak Bedikyan, Kerem Görsev --> 9, 12
+Burak Bedikyan, Kürşad Deniz --> 9, 12
+Burak Bedikyan, Selen Gülün --> 9, 12
+Alp Ersönmez, Burak Bedikyan --> 9, 12
+Burak Bedikyan, Kağan Yıldız --> 9, 12
+Burak Bedikyan, Matt Hall (Matthew Hall) --> 9, 529
+Burak Bedikyan, Ozan Musluoğlu --> 9, 12
+Burak Bedikyan, Peter Washington --> 9, 251, 753
+Burak Bedikyan, Volkan Hürsever --> 9, 12
+Burak Bedikyan, Cem Aksel --> 9, 12
+Burak Bedikyan, Ediz Hafızoğlu --> 9, 12
+Burak Bedikyan, Ferit Odman --> 9, 12, 753
+Burak Bedikyan, Turgut Alp Bekoğlu --> 9, 12
+Burak Bedikyan, Volkan Öktem --> 9, 12
+Burak Bedikyan, Çağıl Kaya --> 9, 12
+Burak Bedikyan, Elif Çağlar --> 9, 12
+Burak Bedikyan, Jülide Özçelik --> 9, 12
+Burak Bedikyan, Cem Tuncer --> 9, 12
+Burak Bedikyan, Eylül Biçer --> 9, 12
+Burak Bedikyan, Önder Focan --> 9, 12
+Burak Bedikyan, Sarp Maden --> 9, 12
+Burak Bedikyan, Engin Recepoğulları --> 9, 12
+Burak Bedikyan, İlhan Erşahin --> 9, 12
+Burak Bedikyan, Serhan Erkol --> 9, 12
+Burak Bedikyan, Tamer Temel --> 9, 12
+Burak Bedikyan, Vincent Herring --> 9, 753
+Barış Doğukan Yazıcı, Burak Bedikyan --> 9, 12
+Brian Lynch, Burak Bedikyan --> 9, 753
+Burak Bedikyan, İmer Demirer --> 9, 12, 193
+Burak Bedikyan, Şenova Ülker --> 9, 12
+Burak Bedikyan, Oğuz Büyükberber --> 9, 12
+Burak Bedikyan, İzzet Kızıl --> 9, 12, 120
+Burçin Büke, Volkan Hürsever --> 9, 420, 449, 906
+Burçin Büke, Cengiz Baysal --> 9, 906
+Burçin Büke, Volkan Öktem --> 9, 449
+Burçin Büke, Yahya Dai --> 9, 420
+Ercüment Orkut, Çağrı Sertel --> 9, 12, 199, 712
+Kerem Görsev, Çağrı Sertel --> 9, 12, 712
+Kürşad Deniz, Çağrı Sertel --> 9, 12
+Selen Gülün, Çağrı Sertel --> 9, 12, 198, 712
+Serkan Özyılmaz, Çağrı Sertel --> 9, 712
+Tuluğ Tırpan, Çağrı Sertel --> 9, 712
+Alp Ersönmez, Çağrı Sertel --> 9, 12, 198, 199, 200, 365, 748, 848, 947
+Alper Yılmaz, Çağrı Sertel --> 9, 199
+Kağan Yıldız, Çağrı Sertel --> 9, 12, 127, 740, 947
+Ozan Musluoğlu, Çağrı Sertel --> 9, 12, 74, 712, 947, 1145
+Volkan Hürsever, Çağrı Sertel --> 9, 12, 198, 335, 512, 1013
+Cem Aksel, Çağrı Sertel --> 9, 12
+Ediz Hafızoğlu, Çağrı Sertel --> 9, 12, 127, 198, 200, 335, 740, 947, 1013, 1145
+Ferit Odman, Çağrı Sertel --> 9, 12, 712
+Turgut Alp Bekoğlu, Çağrı Sertel --> 9, 12
+Volkan Öktem, Çağrı Sertel --> 9, 12, 198, 199, 200, 512, 748, 848
+Çağrı Sertel, Çağıl Kaya --> 9, 12
+Elif Çağlar, Çağrı Sertel --> 9, 12, 198, 200, 748, 848, 1013
+Jülide Özçelik, Çağrı Sertel --> 9, 12
+Cem Tuncer, Çağrı Sertel --> 9, 12
+Eylül Biçer, Çağrı Sertel --> 9, 12
+Çağrı Sertel, Önder Focan --> 9, 12, 127
+Sarp Maden, Çağrı Sertel --> 9, 12, 198, 199, 512
+Engin Recepoğulları, Çağrı Sertel --> 9, 12, 127, 198, 200, 512, 1145
+Çağrı Sertel, İlhan Erşahin --> 9, 12
+Meriç Demirkol, Çağrı Sertel --> 9, 947
+Serhan Erkol, Çağrı Sertel --> 9, 12, 947, 1145
+Tamer Temel, Çağrı Sertel --> 9, 12, 335
+Barış Doğukan Yazıcı, Çağrı Sertel --> 9, 12, 198, 200, 1145
+Halil İbrahim Işık, Çağrı Sertel --> 9, 1145
+Çağrı Sertel, İmer Demirer --> 9, 12
+Çağrı Sertel, Şenova Ülker --> 9, 12, 1145
+Hakan Çimenot, Çağrı Sertel --> 9, 1145
+Oğuz Büyükberber, Çağrı Sertel --> 9, 12, 947
+Çağrı Sertel, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Çağrı Sertel --> 9, 947
+Ercüment Orkut, Kerem Görsev --> 9, 12, 712
+Ercüment Orkut, Kürşad Deniz --> 9, 12
+Ercüment Orkut, Selen Gülün --> 9, 12, 220, 712
+Ercüment Orkut, Serkan Özyılmaz --> 9, 712, 1173
+Ercüment Orkut, Tuluğ Tırpan --> 9, 712
+Alp Ersönmez, Ercüment Orkut --> 9, 12, 199, 726
+Alper Yılmaz, Ercüment Orkut --> 9, 160, 199, 295, 580, 649, 703
+Ercüment Orkut, Kağan Yıldız --> 9, 12, 484, 547, 1079, 1097
+Ercüment Orkut, Matt Hall (Matthew Hall) --> 9, 833, 926
+Ercüment Orkut, Ozan Musluoğlu --> 9, 12, 56, 194, 488, 712
+Ercüment Orkut, Volkan Hürsever --> 9, 12, 201, 600, 732, 952, 1171
+Ercüment Orkut, Volkan Topakoğlu --> 9, 109, 720
+Cem Aksel, Ercüment Orkut --> 9, 12, 926, 1058, 1059
+Cengiz Baysal, Ercüment Orkut --> 9, 78, 220, 473, 547
+Derin Bayhan, Ercüment Orkut --> 9, 160
+Ediz Hafızoğlu, Ercüment Orkut --> 9, 12, 94, 109, 201, 304, 484, 580, 600, 602, 726, 727, 728, 729, 732, 952, 1023, 1097, 1171
+Ercüment Orkut, Ferit Odman --> 9, 12, 56, 194, 488, 712, 1079
+Ercüment Orkut, Turgut Alp Bekoğlu --> 9, 12, 1173
+Ercüment Orkut, Volkan Öktem --> 9, 12, 39, 78, 199, 295, 442, 649, 703, 833, 894, 1151, 1173
+Ercüment Orkut, Çağıl Kaya --> 9, 12, 926
+Elif Çağlar, Ercüment Orkut --> 9, 12, 304, 726, 727
+Ercüment Orkut, Jülide Özçelik --> 9, 12, 547, 727, 729, 732
+Cem Tuncer, Ercüment Orkut --> 9, 12, 94, 109, 304, 484, 547, 580, 600, 602, 726, 727, 728, 729, 732, 952, 1171
+Ercüment Orkut, Eylül Biçer --> 9, 12, 201, 926
+Ercüment Orkut, Önder Focan --> 9, 12, 388
+Ercüment Orkut, Sarp Maden --> 9, 12, 78, 160, 199, 220, 473, 649, 1151
+Engin Recepoğulları, Ercüment Orkut --> 9, 12, 160, 201, 488, 602, 726, 727, 952, 1171
+Ercüment Orkut, İlhan Erşahin --> 9, 12
+Ercüment Orkut, Serhan Erkol --> 9, 12, 304, 703, 727, 729
+Ercüment Orkut, Tamer Temel --> 9, 12, 720, 926, 1058, 1059
+Ercüment Orkut, Yahya Dai --> 9, 484, 1097, 1171
+Barış Doğukan Yazıcı, Ercüment Orkut --> 9, 12, 194, 304, 600, 602, 726, 727, 728, 1151, 1171
+Doruk Gönentür, Ercüment Orkut --> 9, 726
+Ercüment Orkut, Halil İbrahim Işık --> 9, 39, 952
+Ercüment Orkut, İmer Demirer --> 9, 12, 201
+Ercüment Orkut, Şenova Ülker --> 9, 12, 442, 484, 488, 547
+Ercüment Orkut, Oğuz Büyükberber --> 9, 12
+Ercüment Orkut, İzzet Kızıl --> 9, 12
+Alp Ersönmez, Genco Arı --> 9, 306, 307, 1150
+Genco Arı, İlkin Deniz --> 9, 645
+Genco Arı, Kağan Yıldız --> 9, 546, 1011
+Derin Bayhan, Genco Arı --> 9, 91, 699
+Ediz Hafızoğlu, Genco Arı --> 9, 546, 1011
+Genco Arı, Turgut Alp Bekoğlu --> 9, 83, 95, 645, 1150, 1165
+Genco Arı, Volkan Öktem --> 9, 148, 306, 307, 599, 730, 1070
+Genco Arı, Jülide Özçelik --> 9, 546
+Cem Tuncer, Genco Arı --> 9, 546
+Erkan Oğur, Genco Arı --> 9, 95, 645, 1011
+Genco Arı, Önder Focan --> 9, 209
+Genco Arı, Sarp Maden --> 9, 83, 148, 306, 307, 599, 1070
+Genco Arı, Meriç Demirkol --> 9, 546
+Genco Arı, Halil İbrahim Işık --> 9, 546, 598
+Genco Arı, İmer Demirer --> 9, 83
+Genco Arı, Hakan Çimenot --> 9, 546
+Kerem Görsev, Kürşad Deniz --> 9, 12
+Kerem Görsev, Selen Gülün --> 9, 12, 712
+Kerem Görsev, Serkan Özyılmaz --> 9, 712, 1077
+Kerem Görsev, Tuluğ Tırpan --> 9, 712
+Alp Ersönmez, Kerem Görsev --> 9, 12
+Kağan Yıldız, Kerem Görsev --> 9, 12, 302, 328, 381, 633, 829, 999, 1041, 1054
+Kerem Görsev, Ozan Musluoğlu --> 9, 12, 712, 1077
+Kerem Görsev, Özgür Salıcı --> 9, 1077
+Kerem Görsev, Peter Washington --> 9, 37
+Kerem Görsev, Volkan Hürsever --> 9, 12, 436, 482, 641, 797
+Cem Aksel, Kerem Görsev --> 9, 12
+Ediz Hafızoğlu, Kerem Görsev --> 9, 12, 1077
+Ferit Odman, Kerem Görsev --> 9, 12, 37, 302, 328, 381, 641, 712, 829, 999, 1041, 1054, 1077
+Kerem Görsev, Turgut Alp Bekoğlu --> 9, 12
+Kerem Görsev, Volkan Öktem --> 9, 12
+Kerem Görsev, Çağıl Kaya --> 9, 12
+Elif Çağlar, Kerem Görsev --> 9, 12
+Jülide Özçelik, Kerem Görsev --> 9, 12
+Cem Tuncer, Kerem Görsev --> 9, 12
+Eylül Biçer, Kerem Görsev --> 9, 12
+Kerem Görsev, Önder Focan --> 9, 12, 373
+Kerem Görsev, Sarp Maden --> 9, 12
+Engin Recepoğulları, Kerem Görsev --> 9, 12, 641, 1077
+Kerem Görsev, İlhan Erşahin --> 9, 12, 373
+Kerem Görsev, Meriç Demirkol --> 9, 1077
+Kerem Görsev, Serhan Erkol --> 9, 12, 1077
+Kerem Görsev, Tamer Temel --> 9, 12
+Barış Doğukan Yazıcı, Kerem Görsev --> 9, 12
+Halil İbrahim Işık, Kerem Görsev --> 9, 1077
+Kerem Görsev, İmer Demirer --> 9, 12, 436, 482, 1077
+Kerem Görsev, Şenova Ülker --> 9, 12
+Hakan Çimenot, Kerem Görsev --> 9, 373, 436, 1077
+Kerem Görsev, Oğuz Büyükberber --> 9, 12
+Kerem Görsev, İzzet Kızıl --> 9, 12
+Kürşad Deniz, Selen Gülün --> 9, 12
+Alp Ersönmez, Kürşad Deniz --> 9, 12
+Kağan Yıldız, Kürşad Deniz --> 9, 12, 170
+Kürşad Deniz, Ozan Musluoğlu --> 9, 12
+Kürşad Deniz, Volkan Hürsever --> 9, 12
+Kürşad Deniz, Volkan Topakoğlu --> 9, 177
+Cem Aksel, Kürşad Deniz --> 9, 12, 170
+Ediz Hafızoğlu, Kürşad Deniz --> 9, 12
+Ferit Odman, Kürşad Deniz --> 9, 12
+Kürşad Deniz, Turgut Alp Bekoğlu --> 9, 12
+Kürşad Deniz, Volkan Öktem --> 9, 12
+Kürşad Deniz, Çağıl Kaya --> 9, 12, 170
+Elif Çağlar, Kürşad Deniz --> 9, 12
+Jülide Özçelik, Kürşad Deniz --> 9, 12
+Cem Tuncer, Kürşad Deniz --> 9, 12
+Eylül Biçer, Kürşad Deniz --> 9, 12, 177
+Kürşad Deniz, Önder Focan --> 9, 12
+Kürşad Deniz, Sarp Maden --> 9, 12
+Engin Recepoğulları, Kürşad Deniz --> 9, 12
+Kürşad Deniz, İlhan Erşahin --> 9, 12
+Kürşad Deniz, Serhan Erkol --> 9, 12, 170
+Kürşad Deniz, Tamer Temel --> 9, 12, 170
+Barış Doğukan Yazıcı, Kürşad Deniz --> 9, 12
+Kürşad Deniz, İmer Demirer --> 9, 12
+Kürşad Deniz, Şenova Ülker --> 9, 12
+Kürşad Deniz, Oğuz Büyükberber --> 9, 12
+Kürşad Deniz, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Kürşad Deniz --> 9, 170
+Selen Gülün, Serkan Özyılmaz --> 9, 712, 1161
+Selen Gülün, Tuluğ Tırpan --> 9, 712
+Alp Ersönmez, Selen Gülün --> 9, 12, 198
+Alper Yılmaz, Selen Gülün --> 9, 1156
+Kağan Yıldız, Selen Gülün --> 9, 12, 1156
+Ozan Musluoğlu, Selen Gülün --> 9, 12, 132, 183, 712
+Selen Gülün, Özgür Salıcı --> 9, 1152
+Patrick Zambonin, Selen Gülün --> 9, 75, 555
+Selen Gülün, Volkan Hürsever --> 9, 12, 198
+Cem Aksel, Selen Gülün --> 9, 12
+Cengiz Baysal, Selen Gülün --> 9, 132, 220, 555, 982, 1152, 1161
+Ediz Hafızoğlu, Selen Gülün --> 9, 12, 132, 198
+Ferit Odman, Selen Gülün --> 9, 12, 712
+Jörg Mikula, Selen Gülün --> 9, 75
+Selen Gülün, Turgut Alp Bekoğlu --> 9, 12, 1152
+Selen Gülün, Volkan Öktem --> 9, 12, 198, 749
+Selen Gülün, Çağıl Kaya --> 9, 12, 558
+Elif Çağlar, Selen Gülün --> 9, 12, 132, 198
+Jülide Özçelik, Selen Gülün --> 9, 12
+Cem Tuncer, Selen Gülün --> 9, 12
+Eylül Biçer, Selen Gülün --> 9, 12
+Selen Gülün, Önder Focan --> 9, 12
+Sarp Maden, Selen Gülün --> 9, 12, 198, 220, 555, 749
+Engin Recepoğulları, Selen Gülün --> 9, 12, 183, 198
+Selen Gülün, İlhan Erşahin --> 9, 12
+Mike Wilkens, Selen Gülün --> 9, 749
+Selen Gülün, Serhan Erkol --> 9, 12, 132, 183, 558, 1156
+Selen Gülün, Tamer Temel --> 9, 12, 132
+Selen Gülün, Yahya Dai --> 9, 749, 982, 1152, 1161
+Barış Doğukan Yazıcı, Selen Gülün --> 9, 12, 183, 198
+Halil İbrahim Işık, Selen Gülün --> 9, 132, 183
+Selen Gülün, İmer Demirer --> 9, 12, 132, 749
+Selen Gülün, Şenova Ülker --> 9, 12, 555, 982, 1161
+Oğuz Büyükberber, Selen Gülün --> 9, 12, 749, 1152
+Selen Gülün, İzzet Kızıl --> 9, 12
+Serkan Özyılmaz, Tuluğ Tırpan --> 9, 712
+Serkan Özyılmaz, İlkin Deniz --> 9, 777
+Matt Hall (Matthew Hall), Serkan Özyılmaz --> 9, 114, 214, 321, 914, 1168
+Ozan Musluoğlu, Serkan Özyılmaz --> 9, 712, 1077, 1078
+Serkan Özyılmaz, Özgür Salıcı --> 9, 1074, 1077
+Serkan Özyılmaz, Volkan Topakoğlu --> 9, 167
+Cem Aksel, Serkan Özyılmaz --> 9, 167, 214, 1168
+Cengiz Baysal, Serkan Özyılmaz --> 9, 114, 224, 1159, 1161
+Derin Bayhan, Serkan Özyılmaz --> 9, 321
+Ediz Hafızoğlu, Serkan Özyılmaz --> 9, 1077, 1078
+Ferit Odman, Serkan Özyılmaz --> 9, 712, 1077, 1078
+Serkan Özyılmaz, Turgut Alp Bekoğlu --> 9, 777, 1173
+Serkan Özyılmaz, Volkan Öktem --> 9, 26, 531, 744, 914, 1055, 1173
+Cem Tuncer, Serkan Özyılmaz --> 9, 1078
+Eylül Biçer, Serkan Özyılmaz --> 9, 167, 914
+Sarp Maden, Serkan Özyılmaz --> 9, 114, 321
+Engin Recepoğulları, Serkan Özyılmaz --> 9, 114, 321, 1077, 1078
+Meriç Demirkol, Serkan Özyılmaz --> 9, 214, 531, 1074, 1077, 1078
+Serhan Erkol, Serkan Özyılmaz --> 9, 1077, 1078
+Serkan Özyılmaz, Tamer Temel --> 9, 167, 914, 1078
+Serkan Özyılmaz, Yahya Dai --> 9, 531, 1161
+Halil İbrahim Işık, Serkan Özyılmaz --> 9, 531, 1074, 1077, 1078
+Serkan Özyılmaz, İmer Demirer --> 9, 114, 214, 777, 1074, 1076, 1077, 1078, 1159, 1168
+Serkan Özyılmaz, Şenova Ülker --> 9, 26, 531, 1055, 1161
+Hakan Çimenot, Serkan Özyılmaz --> 9, 1074, 1077, 1078
+Oğuz Büyükberber, Serkan Özyılmaz --> 9, 114
+Juan Garcia Herreros, Tuluğ Tırpan --> 9, 715
+Ozan Musluoğlu, Tuluğ Tırpan --> 9, 712
+Tuluğ Tırpan, Volkan Hürsever --> 9, 714
+Antonio Sanchez, Tuluğ Tırpan --> 9, 715
+Ediz Hafızoğlu, Tuluğ Tırpan --> 9, 714
+Ferit Odman, Tuluğ Tırpan --> 9, 712
+Jörg Mikula, Tuluğ Tırpan --> 9, 717
+Sarp Maden, Tuluğ Tırpan --> 9, 717
+Alper Yılmaz, Ülkem Özsezen --> 9, 687
+Ozan Musluoğlu, Ülkem Özsezen --> 9, 256, 409
+Ferit Odman, Ülkem Özsezen --> 9, 256, 409
+Engin Recepoğulları, Ülkem Özsezen --> 9, 256, 409, 687
+Ülkem Özsezen, İmer Demirer --> 9, 256
+Alp Ersönmez, Alper Yılmaz --> 9, 199
+Alp Ersönmez, Kağan Yıldız --> 9, 12, 947
+Alp Ersönmez, Ozan Musluoğlu --> 9, 12, 947
+Alp Ersönmez, Volkan Hürsever --> 9, 12, 198
+Alp Ersönmez, Cem Aksel --> 9, 12, 1093
+Alp Ersönmez, Ediz Hafızoğlu --> 9, 12, 198, 200, 726, 947
+Alp Ersönmez, Ferit Odman --> 9, 12
+Alp Ersönmez, Turgut Alp Bekoğlu --> 9, 12, 176, 520, 530, 532, 746, 944, 1150
+Alp Ersönmez, Volkan Öktem --> 9, 12, 198, 199, 200, 306, 307, 694, 709, 748, 750, 848, 1009
+Alp Ersönmez, Çağıl Kaya --> 9, 12
+Alp Ersönmez, Elif Çağlar --> 9, 12, 198, 200, 726, 748, 848
+Alp Ersönmez, Jülide Özçelik --> 9, 12
+Alp Ersönmez, Cem Tuncer --> 9, 12, 726
+Alp Ersönmez, Eylül Biçer --> 9, 12
+Alp Ersönmez, Önder Focan --> 9, 12
+Alp Ersönmez, Sarp Maden --> 9, 12, 198, 199, 306, 307, 694, 750
+Alp Ersönmez, Engin Recepoğulları --> 9, 12, 198, 200, 726
+Alp Ersönmez, İlhan Erşahin --> 9, 12, 176, 240, 520, 530, 532, 746, 944, 1009
+Alp Ersönmez, Meriç Demirkol --> 9, 947
+Alp Ersönmez, Serhan Erkol --> 9, 12, 239, 947
+Alp Ersönmez, Tamer Temel --> 9, 12
+Alp Ersönmez, Barış Doğukan Yazıcı --> 9, 12, 198, 200, 726
+Alp Ersönmez, Doruk Gönentür --> 9, 240, 726
+Alp Ersönmez, İmer Demirer --> 9, 12
+Alp Ersönmez, Şenova Ülker --> 9, 12
+Alp Ersönmez, Oğuz Büyükberber --> 9, 12, 947
+Alp Ersönmez, İzzet Kızıl --> 9, 12, 176, 520, 530, 532, 746, 944, 1009
+Alp Ersönmez, Amy Salsgiver --> 9, 947
+Alper Yılmaz, Kağan Yıldız --> 9, 1156
+Alper Yılmaz, Derin Bayhan --> 9, 160
+Alper Yılmaz, Ediz Hafızoğlu --> 9, 580
+Alper Yılmaz, Volkan Öktem --> 9, 171, 199, 254, 295, 649, 703, 808, 837, 1043
+Alper Yılmaz, Çağıl Kaya --> 9, 171
+Alper Yılmaz, Cem Tuncer --> 9, 580
+Alper Yılmaz, Nir Felder --> 9, 808
+Alper Yılmaz, Sarp Maden --> 9, 160, 199, 649, 837, 1043
+Alper Yılmaz, David Binney --> 9, 254, 808
+Alper Yılmaz, Engin Recepoğulları --> 9, 49, 160, 687, 837
+Alper Yılmaz, Serhan Erkol --> 9, 171, 703, 1156
+Alper Yılmaz, Tamer Temel --> 9, 171
+Alper Yılmaz, Yahya Dai --> 9, 948
+Alper Yılmaz, Barış Doğukan Yazıcı --> 9, 49, 837
+Alper Yılmaz, Halil İbrahim Işık --> 9, 49
+Baron Browne, Steve Smith --> 9, 1052
+Baron Browne, Randy Esen --> 9, 1052
+Cem Aksel, Erdal Akyol --> 9, 579, 984
+Ediz Hafızoğlu, Erdal Akyol --> 9, 13
+Erdal Akyol, Ferit Odman --> 9, 493, 984
+Erdal Akyol, Erkan Oğur --> 9, 1022
+Erdal Akyol, Önder Focan --> 9, 13, 984
+Engin Recepoğulları, Erdal Akyol --> 9, 13
+Erdal Akyol, Yahya Dai --> 9, 493
+Erdal Akyol, Şenova Ülker --> 9, 13, 579, 984
+Erdal Akyol, Hakan Çimenot --> 9, 13
+Eric Harland, Harish Raghavan --> 9, 689
+Elif Çağlar, Harish Raghavan --> 9, 689
+Harish Raghavan, İlhan Erşahin --> 9, 689
+Harish Raghavan, İmer Demirer --> 9, 689
+Özgür Salıcı, İlkin Deniz --> 9, 518
+Cem Aksel, İlkin Deniz --> 9, 518
+Turgut Alp Bekoğlu, İlkin Deniz --> 9, 81, 133, 225, 417, 518, 645, 777, 1006
+Erkan Oğur, İlkin Deniz --> 9, 225, 305, 518, 645, 1006
+Önder Focan, İlkin Deniz --> 9, 543
+Yahya Dai, İlkin Deniz --> 9, 518
+İlkin Deniz, İmer Demirer --> 9, 539, 777
+Janek Gwizdala, Louie Palmer --> 9, 1050
+Janek Gwizdala, Justin Vasques --> 9, 1050
+Antonio Sanchez, Juan Garcia Herreros --> 9, 715
+Kağan Yıldız, Ozan Musluoğlu --> 9, 12, 113, 447, 947
+Kağan Yıldız, Volkan Hürsever --> 9, 12
+Cem Aksel, Kağan Yıldız --> 9, 12, 170, 207
+Cengiz Baysal, Kağan Yıldız --> 9, 547, 633
+Ediz Hafızoğlu, Kağan Yıldız --> 9, 12, 113, 127, 484, 546, 740, 947, 1011, 1097
+Ferit Odman, Kağan Yıldız --> 9, 12, 113, 222, 302, 328, 381, 535, 785, 829, 934, 999, 1041, 1054, 1079
+Kağan Yıldız, Turgut Alp Bekoğlu --> 9, 12, 1144
+Kağan Yıldız, Volkan Öktem --> 9, 12, 113, 228, 309
+Kağan Yıldız, Çağıl Kaya --> 9, 12, 170
+Elif Çağlar, Kağan Yıldız --> 9, 12
+Jülide Özçelik, Kağan Yıldız --> 9, 12, 546, 547, 1002
+Cem Tuncer, Kağan Yıldız --> 9, 12, 113, 484, 546, 547
+Erkan Oğur, Kağan Yıldız --> 9, 232, 1011
+Eylül Biçer, Kağan Yıldız --> 9, 12
+Kağan Yıldız, Önder Focan --> 9, 12, 127
+Kağan Yıldız, Sarp Maden --> 9, 12, 934
+Engin Recepoğulları, Kağan Yıldız --> 9, 12, 127, 934
+Kağan Yıldız, İlhan Erşahin --> 9, 12
+Kağan Yıldız, Meriç Demirkol --> 9, 546, 947
+Kağan Yıldız, Serhan Erkol --> 9, 12, 170, 207, 222, 279, 947, 1156
+Kağan Yıldız, Tamer Temel --> 9, 12, 170, 172, 207, 279, 1095
+Kağan Yıldız, Yahya Dai --> 9, 484, 1095, 1097
+Barış Doğukan Yazıcı, Kağan Yıldız --> 9, 12, 228
+Halil İbrahim Işık, Kağan Yıldız --> 9, 113, 546
+Kağan Yıldız, İmer Demirer --> 9, 12, 222, 785
+Kağan Yıldız, Şenova Ülker --> 9, 12, 207, 222, 228, 232, 309, 484, 547, 1095
+Hakan Çimenot, Kağan Yıldız --> 9, 113, 546
+Kağan Yıldız, Oğuz Büyükberber --> 9, 12, 947
+Kağan Yıldız, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Kağan Yıldız --> 9, 170, 172, 947
+Cem Aksel, Matt Hall (Matthew Hall) --> 9, 214, 926, 1168
+Cengiz Baysal, Matt Hall (Matthew Hall) --> 9, 114
+Derin Bayhan, Matt Hall (Matthew Hall) --> 9, 320, 321
+Matt Hall (Matthew Hall), Turgut Alp Bekoğlu --> 9, 585
+Matt Hall (Matthew Hall), Volkan Öktem --> 9, 833, 914
+Matt Hall (Matthew Hall), Çağıl Kaya --> 9, 926
+Erkan Oğur, Matt Hall (Matthew Hall) --> 9, 585
+Eylül Biçer, Matt Hall (Matthew Hall) --> 9, 914, 926
+Matt Hall (Matthew Hall), Sarp Maden --> 9, 114, 320, 321
+Engin Recepoğulları, Matt Hall (Matthew Hall) --> 9, 114, 320, 321
+Matt Hall (Matthew Hall), Meriç Demirkol --> 9, 214, 685, 686
+Matt Hall (Matthew Hall), Serhan Erkol --> 9, 70
+Matt Hall (Matthew Hall), Tamer Temel --> 9, 914, 926
+Matt Hall (Matthew Hall), İmer Demirer --> 9, 114, 214, 1168
+Matt Hall (Matthew Hall), Oğuz Büyükberber --> 9, 114
+Ozan Musluoğlu, Özgür Salıcı --> 9, 1077
+Ozan Musluoğlu, Volkan Hürsever --> 9, 12
+Cem Aksel, Ozan Musluoğlu --> 9, 12
+Cengiz Baysal, Ozan Musluoğlu --> 9, 132
+Ediz Hafızoğlu, Ozan Musluoğlu --> 9, 12, 113, 132, 414, 622, 947, 1077, 1078, 1145
+Ferit Odman, Ozan Musluoğlu --> 9, 12, 56, 113, 134, 194, 243, 256, 325, 409, 488, 712, 713, 823, 841, 950, 974, 1077, 1078
+Ozan Musluoğlu, Turgut Alp Bekoğlu --> 9, 12, 949
+Ozan Musluoğlu, Volkan Öktem --> 9, 12, 113
+Ozan Musluoğlu, Çağıl Kaya --> 9, 12
+Elif Çağlar, Ozan Musluoğlu --> 9, 12, 132
+Jülide Özçelik, Ozan Musluoğlu --> 9, 12
+Cem Tuncer, Ozan Musluoğlu --> 9, 12, 113, 1078
+Eylül Biçer, Ozan Musluoğlu --> 9, 12
+Ozan Musluoğlu, Önder Focan --> 9, 12, 104, 622, 713, 950, 974
+Ozan Musluoğlu, Sarp Maden --> 9, 12, 713
+Engin Recepoğulları, Ozan Musluoğlu --> 9, 12, 183, 256, 409, 488, 713, 823, 841, 974, 1077, 1078, 1145
+Ozan Musluoğlu, İlhan Erşahin --> 9, 12
+Meriç Demirkol, Ozan Musluoğlu --> 9, 226, 947, 1077, 1078
+Ozan Musluoğlu, Serhan Erkol --> 9, 12, 132, 183, 844, 947, 1077, 1078, 1113, 1145
+Ozan Musluoğlu, Tamer Temel --> 9, 12, 132, 1078
+Ozan Musluoğlu, Yahya Dai --> 9, 407
+Barış Doğukan Yazıcı, Ozan Musluoğlu --> 9, 12, 134, 183, 194, 1145
+Doruk Gönentür, Ozan Musluoğlu --> 9, 243
+Halil İbrahim Işık, Ozan Musluoğlu --> 9, 113, 132, 183, 1077, 1078, 1145
+Ozan Musluoğlu, İmer Demirer --> 9, 12, 132, 256, 1077, 1078
+Ozan Musluoğlu, Şenova Ülker --> 9, 12, 407, 488, 622, 713, 844, 950, 974, 1113, 1145
+Hakan Çimenot, Ozan Musluoğlu --> 9, 113, 1077, 1078, 1145
+Ozan Musluoğlu, Oğuz Büyükberber --> 9, 12, 947
+Ozan Musluoğlu, İzzet Kızıl --> 9, 12, 325
+Amy Salsgiver, Ozan Musluoğlu --> 9, 947
+Cem Aksel, Özgür Salıcı --> 9, 518
+Cengiz Baysal, Özgür Salıcı --> 9, 1152
+Ediz Hafızoğlu, Özgür Salıcı --> 9, 1077
+Ferit Odman, Özgür Salıcı --> 9, 1077
+Turgut Alp Bekoğlu, Özgür Salıcı --> 9, 518, 1152
+Erkan Oğur, Özgür Salıcı --> 9, 518
+Engin Recepoğulları, Özgür Salıcı --> 9, 1077
+Meriç Demirkol, Özgür Salıcı --> 9, 1074, 1077
+Serhan Erkol, Özgür Salıcı --> 9, 1077
+Yahya Dai, Özgür Salıcı --> 9, 518, 1152
+Halil İbrahim Işık, Özgür Salıcı --> 9, 1074, 1077
+Özgür Salıcı, İmer Demirer --> 9, 1074, 1077
+Hakan Çimenot, Özgür Salıcı --> 9, 1074, 1077
+Oğuz Büyükberber, Özgür Salıcı --> 9, 1152
+Cengiz Baysal, Patrick Zambonin --> 9, 555
+Jörg Mikula, Patrick Zambonin --> 9, 75
+Patrick Zambonin, Sarp Maden --> 9, 555
+Patrick Zambonin, Şenova Ülker --> 9, 555
+Ferit Odman, Peter Washington --> 9, 37, 105, 753
+Peter Washington, Vincent Herring --> 9, 105, 753
+Brian Lynch, Peter Washington --> 9, 753
+Cem Aksel, Volkan Hürsever --> 9, 12, 416, 819
+Cengiz Baysal, Volkan Hürsever --> 9, 797, 906, 910, 1124
+Ediz Hafızoğlu, Volkan Hürsever --> 9, 12, 57, 198, 201, 335, 600, 714, 732, 952, 1013, 1171
+Ferit Odman, Volkan Hürsever --> 9, 12, 641
+Turgut Alp Bekoğlu, Volkan Hürsever --> 9, 12, 625, 1090
+Volkan Hürsever, Volkan Öktem --> 9, 12, 103, 198, 449, 512, 570, 788
+Volkan Hürsever, Çağıl Kaya --> 9, 12
+Elif Çağlar, Volkan Hürsever --> 9, 12, 198, 1013
+Jülide Özçelik, Volkan Hürsever --> 9, 12, 732
+Cem Tuncer, Volkan Hürsever --> 9, 12, 57, 600, 732, 952, 1171
+Eylül Biçer, Volkan Hürsever --> 9, 12, 201
+Volkan Hürsever, Önder Focan --> 9, 12, 910
+Sarp Maden, Volkan Hürsever --> 9, 12, 198, 512
+Engin Recepoğulları, Volkan Hürsever --> 9, 12, 57, 103, 198, 201, 512, 641, 952, 1171
+Volkan Hürsever, İlhan Erşahin --> 9, 12
+Serhan Erkol, Volkan Hürsever --> 9, 12, 416, 819, 1124
+Tamer Temel, Volkan Hürsever --> 9, 12, 335
+Volkan Hürsever, Yahya Dai --> 9, 103, 420, 910, 1090, 1124, 1171
+Barış Doğukan Yazıcı, Volkan Hürsever --> 9, 12, 198, 600, 1171
+Halil İbrahim Işık, Volkan Hürsever --> 9, 952
+Volkan Hürsever, İmer Demirer --> 9, 12, 201, 436, 482
+Volkan Hürsever, Şenova Ülker --> 9, 12, 416, 788, 910
+Hakan Çimenot, Volkan Hürsever --> 9, 436
+Oğuz Büyükberber, Volkan Hürsever --> 9, 12, 910
+Volkan Hürsever, İzzet Kızıl --> 9, 12
+Cem Aksel, Volkan Topakoğlu --> 9, 167
+Ediz Hafızoğlu, Volkan Topakoğlu --> 9, 109
+Volkan Topakoğlu, Çağıl Kaya --> 9, 557
+Cem Tuncer, Volkan Topakoğlu --> 9, 109
+Eylül Biçer, Volkan Topakoğlu --> 9, 167, 177
+Meriç Demirkol, Volkan Topakoğlu --> 9, 264
+Tamer Temel, Volkan Topakoğlu --> 9, 167, 342, 362, 557, 720
+Barış Doğukan Yazıcı, Volkan Topakoğlu --> 9, 264
+Volkan Topakoğlu, İmer Demirer --> 9, 264
+Volkan Topakoğlu, Şenova Ülker --> 9, 264
+Cem Aksel, Cengiz Baysal --> 9, 411
+Cem Aksel, Ediz Hafızoğlu --> 9, 12
+Cem Aksel, Ferit Odman --> 9, 12, 984
+Cem Aksel, Turgut Alp Bekoğlu --> 9, 12, 518
+Cem Aksel, Volkan Öktem --> 9, 12
+Cem Aksel, Çağıl Kaya --> 9, 12, 170, 926
+Cem Aksel, Elif Çağlar --> 9, 12
+Cem Aksel, Jülide Özçelik --> 9, 12
+Cem Aksel, Cem Tuncer --> 9, 12
+Cem Aksel, Erkan Oğur --> 9, 130, 169, 233, 518
+Cem Aksel, Eylül Biçer --> 9, 12, 167, 926
+Cem Aksel, Önder Focan --> 9, 12, 984
+Cem Aksel, Sarp Maden --> 9, 12, 197
+Cem Aksel, Engin Recepoğulları --> 9, 12
+Cem Aksel, İlhan Erşahin --> 9, 12
+Cem Aksel, Meriç Demirkol --> 9, 214
+Cem Aksel, Serhan Erkol --> 9, 12, 170, 207, 416, 448, 819
+Cem Aksel, Tamer Temel --> 9, 12, 167, 170, 207, 448, 875, 926, 1058, 1059
+Cem Aksel, Yahya Dai --> 9, 518, 738, 760
+Barış Doğukan Yazıcı, Cem Aksel --> 9, 12
+Cem Aksel, İmer Demirer --> 9, 12, 214, 760, 1168
+Cem Aksel, Şenova Ülker --> 9, 12, 207, 233, 416, 579, 984
+Cem Aksel, Oğuz Büyükberber --> 9, 12, 411
+Cem Aksel, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Cem Aksel --> 9, 170
+Cengiz Baysal, Ediz Hafızoğlu --> 9, 132
+Cengiz Baysal, Turgut Alp Bekoğlu --> 9, 1152
+Cengiz Baysal, Volkan Öktem --> 9, 78
+Cengiz Baysal, Elif Çağlar --> 9, 132
+Cengiz Baysal, Jülide Özçelik --> 9, 547
+Cem Tuncer, Cengiz Baysal --> 9, 547
+Cengiz Baysal, Önder Focan --> 9, 910, 964
+Cengiz Baysal, Sarp Maden --> 9, 78, 114, 220, 466, 473, 555
+Cengiz Baysal, Engin Recepoğulları --> 9, 114
+Cengiz Baysal, Serhan Erkol --> 9, 132, 1124
+Cengiz Baysal, Tamer Temel --> 9, 132, 908
+Cengiz Baysal, Halil İbrahim Işık --> 9, 132
+Cengiz Baysal, İmer Demirer --> 9, 114, 132, 1159
+Cengiz Baysal, Şenova Ülker --> 9, 547, 555, 910, 982, 1161
+Cengiz Baysal, Oğuz Büyükberber --> 9, 114, 411, 910, 1152
+Derin Bayhan, Elif Çağlar --> 9, 131
+Derin Bayhan, Sarp Maden --> 9, 160, 320, 321
+Derin Bayhan, Engin Recepoğulları --> 9, 160, 320, 321
+Derin Bayhan, Yahya Dai --> 9, 776, 1089
+Barış Doğukan Yazıcı, Derin Bayhan --> 9, 656
+Ediz Hafızoğlu, Ferit Odman --> 9, 12, 113, 1077, 1078
+Ediz Hafızoğlu, Turgut Alp Bekoğlu --> 9, 12
+Ediz Hafızoğlu, Volkan Öktem --> 9, 12, 113, 198, 200
+Ediz Hafızoğlu, Çağıl Kaya --> 9, 12
+Ediz Hafızoğlu, Elif Çağlar --> 9, 12, 132, 198, 200, 304, 726, 727, 1013
+Ediz Hafızoğlu, Jülide Özçelik --> 9, 12, 546, 727, 729, 732
+Cem Tuncer, Ediz Hafızoğlu --> 9, 12, 57, 94, 109, 113, 304, 484, 546, 580, 600, 602, 604, 726, 727, 728, 729, 732, 952, 1078, 1171
+Ediz Hafızoğlu, Erkan Oğur --> 9, 1011
+Ediz Hafızoğlu, Eylül Biçer --> 9, 12, 201
+Ediz Hafızoğlu, Önder Focan --> 9, 12, 13, 127, 622
+Ediz Hafızoğlu, Sarp Maden --> 9, 12, 198, 959, 960
+Ediz Hafızoğlu, Engin Recepoğulları --> 9, 12, 13, 57, 127, 198, 200, 201, 430, 602, 726, 727, 952, 959, 960, 1077, 1078, 1145, 1171
+Ediz Hafızoğlu, İlhan Erşahin --> 9, 12
+Ediz Hafızoğlu, Meriç Demirkol --> 9, 546, 947, 1077, 1078
+Ediz Hafızoğlu, Serhan Erkol --> 9, 12, 132, 304, 677, 727, 729, 887, 947, 1077, 1078, 1145
+Ediz Hafızoğlu, Tamer Temel --> 9, 12, 132, 335, 1078
+Ediz Hafızoğlu, Yahya Dai --> 9, 484, 1097, 1171
+Barış Doğukan Yazıcı, Ediz Hafızoğlu --> 9, 12, 198, 200, 304, 430, 600, 602, 677, 726, 727, 728, 1145, 1171
+Doruk Gönentür, Ediz Hafızoğlu --> 9, 726
+Ediz Hafızoğlu, Halil İbrahim Işık --> 9, 113, 132, 546, 952, 1077, 1078, 1145
+Ediz Hafızoğlu, İmer Demirer --> 9, 12, 132, 201, 1077, 1078
+Ediz Hafızoğlu, Şenova Ülker --> 9, 12, 13, 484, 622, 1145
+Ediz Hafızoğlu, Hakan Çimenot --> 9, 13, 113, 546, 1077, 1078, 1145
+Ediz Hafızoğlu, Oğuz Büyükberber --> 9, 12, 947
+Ediz Hafızoğlu, İzzet Kızıl --> 9, 12, 887
+Amy Salsgiver, Ediz Hafızoğlu --> 9, 947
+Elif Çağlar, Eric Harland --> 9, 689
+Eric Harland, İlhan Erşahin --> 9, 689
+Eric Harland, İmer Demirer --> 9, 689
+Ferit Odman, Turgut Alp Bekoğlu --> 9, 12
+Ferit Odman, Volkan Öktem --> 9, 12, 113
+Ferit Odman, Çağıl Kaya --> 9, 12
+Elif Çağlar, Ferit Odman --> 9, 12
+Ferit Odman, Jülide Özçelik --> 9, 12
+Cem Tuncer, Ferit Odman --> 9, 12, 113, 1078
+Eylül Biçer, Ferit Odman --> 9, 12
+Ferit Odman, Önder Focan --> 9, 12, 713, 950, 974, 984
+Ferit Odman, Sarp Maden --> 9, 12, 713, 934
+Engin Recepoğulları, Ferit Odman --> 9, 12, 256, 409, 488, 641, 713, 823, 841, 934, 974, 1077, 1078
+Ferit Odman, İlhan Erşahin --> 9, 12
+Ferit Odman, Meriç Demirkol --> 9, 1077, 1078
+Ferit Odman, Serhan Erkol --> 9, 12, 222, 1077, 1078
+Ferit Odman, Tamer Temel --> 9, 12, 1078
+Ferit Odman, Vincent Herring --> 9, 105, 753
+Ferit Odman, Yahya Dai --> 9, 493
+Barış Doğukan Yazıcı, Ferit Odman --> 9, 12, 134, 194
+Brian Lynch, Ferit Odman --> 9, 753
+Doruk Gönentür, Ferit Odman --> 9, 243
+Ferit Odman, Halil İbrahim Işık --> 9, 113, 1077, 1078
+Ferit Odman, İmer Demirer --> 9, 12, 222, 256, 785, 1077, 1078
+Ferit Odman, Şenova Ülker --> 9, 12, 222, 488, 713, 950, 974, 984
+Ferit Odman, Hakan Çimenot --> 9, 113, 1077, 1078
+Ferit Odman, Oğuz Büyükberber --> 9, 12
+Ferit Odman, İzzet Kızıl --> 9, 12, 325
+Jörg Mikula, Sarp Maden --> 9, 717
+Justin Vasques, Louie Palmer --> 9, 1050
+Randy Esen, Steve Smith --> 9, 1052
+Turgut Alp Bekoğlu, Volkan Öktem --> 9, 12, 1173
+Turgut Alp Bekoğlu, Çağıl Kaya --> 9, 12
+Elif Çağlar, Turgut Alp Bekoğlu --> 9, 12
+Jülide Özçelik, Turgut Alp Bekoğlu --> 9, 12
+Cem Tuncer, Turgut Alp Bekoğlu --> 9, 12
+Erkan Oğur, Turgut Alp Bekoğlu --> 9, 95, 225, 518, 585, 645, 1006
+Eylül Biçer, Turgut Alp Bekoğlu --> 9, 12
+Turgut Alp Bekoğlu, Önder Focan --> 9, 12
+Sarp Maden, Turgut Alp Bekoğlu --> 9, 12, 83
+Engin Recepoğulları, Turgut Alp Bekoğlu --> 9, 12
+Turgut Alp Bekoğlu, İlhan Erşahin --> 9, 12, 176, 520, 530, 532, 746, 944
+Serhan Erkol, Turgut Alp Bekoğlu --> 9, 12
+Tamer Temel, Turgut Alp Bekoğlu --> 9, 12
+Turgut Alp Bekoğlu, Yahya Dai --> 9, 518, 1090, 1152
+Barış Doğukan Yazıcı, Turgut Alp Bekoğlu --> 9, 12
+Turgut Alp Bekoğlu, İmer Demirer --> 9, 12, 83, 162, 777
+Turgut Alp Bekoğlu, Şenova Ülker --> 9, 12
+Oğuz Büyükberber, Turgut Alp Bekoğlu --> 9, 12, 1152
+Turgut Alp Bekoğlu, İzzet Kızıl --> 9, 12, 176, 520, 530, 532, 746, 944
+Volkan Öktem, Çağıl Kaya --> 9, 12, 171
+Elif Çağlar, Volkan Öktem --> 9, 12, 198, 200, 748, 848
+Jülide Özçelik, Volkan Öktem --> 9, 12
+Cem Tuncer, Volkan Öktem --> 9, 12, 113
+Erkan Oğur, Volkan Öktem --> 9, 461
+Eylül Biçer, Volkan Öktem --> 9, 12, 914
+Nir Felder, Volkan Öktem --> 9, 808
+Volkan Öktem, Önder Focan --> 9, 12
+Sarp Maden, Volkan Öktem --> 9, 12, 78, 148, 198, 199, 306, 307, 512, 599, 649, 694, 749, 750, 837, 1043, 1069, 1070, 1127, 1151
+David Binney, Volkan Öktem --> 9, 254, 808
+Engin Recepoğulları, Volkan Öktem --> 9, 12, 103, 198, 200, 512, 837, 1127
+Volkan Öktem, İlhan Erşahin --> 9, 12, 1009
+Meriç Demirkol, Volkan Öktem --> 9, 531
+Mike Wilkens, Volkan Öktem --> 9, 749, 1116
+Serhan Erkol, Volkan Öktem --> 9, 12, 171, 703
+Tamer Temel, Volkan Öktem --> 9, 12, 171, 914
+Volkan Öktem, Yahya Dai --> 9, 103, 531, 749, 1066, 1116
+Barış Doğukan Yazıcı, Volkan Öktem --> 9, 12, 198, 200, 228, 572, 837, 1151
+Halil İbrahim Işık, Volkan Öktem --> 9, 39, 113, 531
+Volkan Öktem, İmer Demirer --> 9, 12, 749
+Volkan Öktem, Şenova Ülker --> 9, 12, 26, 34, 36, 228, 309, 367, 422, 442, 461, 462, 531, 572, 706, 788, 1055
+Hakan Çimenot, Volkan Öktem --> 9, 113
+Oğuz Büyükberber, Volkan Öktem --> 9, 12, 749, 1116
+Alpay Dinletir, Volkan Öktem --> 9, 1116
+Volkan Öktem, İzzet Kızıl --> 9, 12, 1009
+Elif Çağlar, Çağıl Kaya --> 9, 12
+Jülide Özçelik, Çağıl Kaya --> 9, 12
+Cem Tuncer, Çağıl Kaya --> 9, 12
+Eylül Biçer, Çağıl Kaya --> 9, 12, 926
+Çağıl Kaya, Önder Focan --> 9, 12
+Sarp Maden, Çağıl Kaya --> 9, 12
+Engin Recepoğulları, Çağıl Kaya --> 9, 12
+Çağıl Kaya, İlhan Erşahin --> 9, 12
+Serhan Erkol, Çağıl Kaya --> 9, 12, 170, 171, 558
+Tamer Temel, Çağıl Kaya --> 9, 12, 170, 171, 557, 926
+Barış Doğukan Yazıcı, Çağıl Kaya --> 9, 12
+Çağıl Kaya, İmer Demirer --> 9, 12
+Çağıl Kaya, Şenova Ülker --> 9, 12
+Oğuz Büyükberber, Çağıl Kaya --> 9, 12
+Çağıl Kaya, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Çağıl Kaya --> 9, 170
+Elif Çağlar, Jülide Özçelik --> 9, 12, 727
+Cem Tuncer, Elif Çağlar --> 9, 12, 304, 726, 727
+Elif Çağlar, Erkan Oğur --> 9, 775
+Elif Çağlar, Eylül Biçer --> 9, 12
+Elif Çağlar, Önder Focan --> 9, 12
+Elif Çağlar, Sarp Maden --> 9, 12, 198
+Elif Çağlar, Engin Recepoğulları --> 9, 12, 198, 200, 726, 727
+Elif Çağlar, İlhan Erşahin --> 9, 12, 689
+Elif Çağlar, Serhan Erkol --> 9, 12, 132, 304, 727
+Elif Çağlar, Tamer Temel --> 9, 12, 132
+Barış Doğukan Yazıcı, Elif Çağlar --> 9, 12, 198, 200, 304, 726, 727
+Doruk Gönentür, Elif Çağlar --> 9, 726
+Elif Çağlar, Halil İbrahim Işık --> 9, 132
+Elif Çağlar, İmer Demirer --> 9, 12, 132, 689
+Elif Çağlar, Şenova Ülker --> 9, 12
+Elif Çağlar, Oğuz Büyükberber --> 9, 12
+Elif Çağlar, İzzet Kızıl --> 9, 12
+Cem Tuncer, Jülide Özçelik --> 9, 12, 546, 547, 727, 729, 732
+Eylül Biçer, Jülide Özçelik --> 9, 12
+Jülide Özçelik, Önder Focan --> 9, 12
+Jülide Özçelik, Sarp Maden --> 9, 12
+Engin Recepoğulları, Jülide Özçelik --> 9, 12, 727
+Jülide Özçelik, İlhan Erşahin --> 9, 12
+Jülide Özçelik, Meriç Demirkol --> 9, 546
+Jülide Özçelik, Serhan Erkol --> 9, 12, 727, 729
+Jülide Özçelik, Tamer Temel --> 9, 12
+Barış Doğukan Yazıcı, Jülide Özçelik --> 9, 12, 727
+Halil İbrahim Işık, Jülide Özçelik --> 9, 546
+Jülide Özçelik, İmer Demirer --> 9, 12
+Jülide Özçelik, Şenova Ülker --> 9, 12, 492, 547
+Hakan Çimenot, Jülide Özçelik --> 9, 546
+Jülide Özçelik, Oğuz Büyükberber --> 9, 12
+Jülide Özçelik, İzzet Kızıl --> 9, 12
+Cem Tuncer, Eylül Biçer --> 9, 12
+Cem Tuncer, Önder Focan --> 9, 12
+Cem Tuncer, Sarp Maden --> 9, 12
+Cem Tuncer, Engin Recepoğulları --> 9, 12, 57, 602, 726, 727, 952, 1078, 1171
+Cem Tuncer, İlhan Erşahin --> 9, 12
+Cem Tuncer, Meriç Demirkol --> 9, 546, 1078
+Cem Tuncer, Serhan Erkol --> 9, 12, 304, 727, 729, 1078
+Cem Tuncer, Tamer Temel --> 9, 12, 1078
+Cem Tuncer, Yahya Dai --> 9, 484, 1171
+Barış Doğukan Yazıcı, Cem Tuncer --> 9, 12, 304, 600, 602, 726, 727, 728, 1171
+Cem Tuncer, Doruk Gönentür --> 9, 726
+Cem Tuncer, Halil İbrahim Işık --> 9, 113, 546, 952, 1078
+Cem Tuncer, İmer Demirer --> 9, 12, 1078
+Cem Tuncer, Şenova Ülker --> 9, 12, 484, 547
+Cem Tuncer, Hakan Çimenot --> 9, 113, 546, 1078
+Cem Tuncer, Oğuz Büyükberber --> 9, 12
+Cem Tuncer, İzzet Kızıl --> 9, 12
+Erkan Oğur, Önder Focan --> 9, 886
+Erkan Oğur, Sarp Maden --> 9, 683
+Erkan Oğur, Yahya Dai --> 9, 518, 683
+Erkan Oğur, İmer Demirer --> 9, 354
+Erkan Oğur, Şenova Ülker --> 9, 232, 233, 354, 461, 886
+Erkan Oğur, Oğuz Büyükberber --> 9, 672
+Eylül Biçer, Önder Focan --> 9, 12
+Eylül Biçer, Sarp Maden --> 9, 12
+Engin Recepoğulları, Eylül Biçer --> 9, 12, 201
+Eylül Biçer, İlhan Erşahin --> 9, 12
+Eylül Biçer, Serhan Erkol --> 9, 12
+Eylül Biçer, Tamer Temel --> 9, 12, 167, 914, 926
+Barış Doğukan Yazıcı, Eylül Biçer --> 9, 12
+Eylül Biçer, İmer Demirer --> 9, 12, 201
+Eylül Biçer, Şenova Ülker --> 9, 12
+Eylül Biçer, Oğuz Büyükberber --> 9, 12
+Eylül Biçer, İzzet Kızıl --> 9, 12
+David Binney, Nir Felder --> 9, 808
+Sarp Maden, Önder Focan --> 9, 12, 713
+Engin Recepoğulları, Önder Focan --> 9, 12, 13, 127, 713, 974
+Önder Focan, İlhan Erşahin --> 9, 12, 373, 784
+Serhan Erkol, Önder Focan --> 9, 12
+Tamer Temel, Önder Focan --> 9, 12
+Yahya Dai, Önder Focan --> 9, 331, 910
+Barış Doğukan Yazıcı, Önder Focan --> 9, 12
+Brian Lynch, Önder Focan --> 9, 1080
+Halil İbrahim Işık, Önder Focan --> 9, 389
+Önder Focan, İmer Demirer --> 9, 12
+Önder Focan, Şenova Ülker --> 9, 12, 13, 102, 331, 622, 713, 886, 910, 950, 974, 984
+Hakan Çimenot, Önder Focan --> 9, 13, 373
+Oğuz Büyükberber, Önder Focan --> 9, 12, 910
+Önder Focan, İzzet Kızıl --> 9, 12
+Engin Recepoğulları, Sarp Maden --> 9, 12, 114, 160, 198, 320, 321, 512, 713, 837, 934, 959, 960, 1127
+Sarp Maden, İlhan Erşahin --> 9, 12
+Mike Wilkens, Sarp Maden --> 9, 749
+Sarp Maden, Serhan Erkol --> 9, 12
+Sarp Maden, Tamer Temel --> 9, 12, 437
+Sarp Maden, Yahya Dai --> 9, 683, 749
+Barış Doğukan Yazıcı, Sarp Maden --> 9, 12, 198, 837, 917, 1151
+Sarp Maden, İmer Demirer --> 9, 12, 83, 114, 749
+Sarp Maden, Şenova Ülker --> 9, 12, 555, 713
+Oğuz Büyükberber, Sarp Maden --> 9, 12, 114, 637, 749
+Sarp Maden, İzzet Kızıl --> 9, 12, 917
+Engin Recepoğulları, İlhan Erşahin --> 9, 12
+Engin Recepoğulları, Meriç Demirkol --> 9, 1077, 1078
+Engin Recepoğulları, Serhan Erkol --> 9, 12, 183, 727, 1077, 1078, 1145
+Engin Recepoğulları, Tamer Temel --> 9, 12, 1078
+Engin Recepoğulları, Yahya Dai --> 9, 103, 1171
+Barış Doğukan Yazıcı, Engin Recepoğulları --> 9, 12, 49, 183, 198, 200, 430, 602, 726, 727, 837, 1145, 1171
+Doruk Gönentür, Engin Recepoğulları --> 9, 726
+Engin Recepoğulları, Halil İbrahim Işık --> 9, 49, 183, 952, 1077, 1078, 1145
+Engin Recepoğulları, İmer Demirer --> 9, 12, 114, 201, 256, 671, 1077, 1078
+Engin Recepoğulları, Şenova Ülker --> 9, 12, 13, 488, 713, 974, 1145
+Engin Recepoğulları, Hakan Çimenot --> 9, 13, 1077, 1078, 1145
+Engin Recepoğulları, Oğuz Büyükberber --> 9, 12, 114
+Engin Recepoğulları, İzzet Kızıl --> 9, 12
+Serhan Erkol, İlhan Erşahin --> 9, 12
+Tamer Temel, İlhan Erşahin --> 9, 12
+Barış Doğukan Yazıcı, İlhan Erşahin --> 9, 12
+Doruk Gönentür, İlhan Erşahin --> 9, 240
+İlhan Erşahin, İmer Demirer --> 9, 12, 689
+İlhan Erşahin, Şenova Ülker --> 9, 12
+Hakan Çimenot, İlhan Erşahin --> 9, 373
+Oğuz Büyükberber, İlhan Erşahin --> 9, 12
+İlhan Erşahin, İzzet Kızıl --> 9, 12, 176, 520, 530, 532, 746, 944, 1009
+Meriç Demirkol, Serhan Erkol --> 9, 947, 1077, 1078
+Meriç Demirkol, Tamer Temel --> 9, 1078
+Meriç Demirkol, Yahya Dai --> 9, 531
+Barış Doğukan Yazıcı, Meriç Demirkol --> 9, 264
+Halil İbrahim Işık, Meriç Demirkol --> 9, 531, 546, 1074, 1077, 1078
+Meriç Demirkol, İmer Demirer --> 9, 214, 264, 1074, 1077, 1078
+Meriç Demirkol, Şenova Ülker --> 9, 264, 531
+Hakan Çimenot, Meriç Demirkol --> 9, 546, 1074, 1077, 1078
+Meriç Demirkol, Oğuz Büyükberber --> 9, 947
+Amy Salsgiver, Meriç Demirkol --> 9, 947
+Mike Wilkens, Yahya Dai --> 9, 749, 1116
+Mike Wilkens, İmer Demirer --> 9, 749
+Mike Wilkens, Oğuz Büyükberber --> 9, 749, 1116
+Alpay Dinletir, Mike Wilkens --> 9, 1116
+Serhan Erkol, Tamer Temel --> 9, 12, 132, 170, 171, 207, 279, 448, 1078
+Serhan Erkol, Yahya Dai --> 9, 1124
+Barış Doğukan Yazıcı, Serhan Erkol --> 9, 12, 183, 304, 677, 727, 1145
+Halil İbrahim Işık, Serhan Erkol --> 9, 132, 183, 1077, 1078, 1145
+Serhan Erkol, İmer Demirer --> 9, 12, 132, 222, 1077, 1078
+Serhan Erkol, Şenova Ülker --> 9, 12, 207, 222, 416, 844, 1113, 1145
+Hakan Çimenot, Serhan Erkol --> 9, 1077, 1078, 1145
+Oğuz Büyükberber, Serhan Erkol --> 9, 12, 947
+Serhan Erkol, İzzet Kızıl --> 9, 12, 887
+Amy Salsgiver, Serhan Erkol --> 9, 170, 947
+Tamer Temel, Yahya Dai --> 9, 1095
+Barış Doğukan Yazıcı, Tamer Temel --> 9, 12, 711
+Halil İbrahim Işık, Tamer Temel --> 9, 132, 1078
+Tamer Temel, İmer Demirer --> 9, 12, 132, 1078
+Tamer Temel, Şenova Ülker --> 9, 12, 207, 759, 1095
+Hakan Çimenot, Tamer Temel --> 9, 1078
+Oğuz Büyükberber, Tamer Temel --> 9, 12
+Tamer Temel, İzzet Kızıl --> 9, 12, 236
+Amy Salsgiver, Tamer Temel --> 9, 170, 172
+Brian Lynch, Vincent Herring --> 9, 753
+Barış Doğukan Yazıcı, Yahya Dai --> 9, 1171
+Halil İbrahim Işık, Yahya Dai --> 9, 531
+Yahya Dai, İmer Demirer --> 9, 749, 760
+Yahya Dai, Şenova Ülker --> 9, 331, 407, 484, 531, 910, 982, 1095, 1161
+Oğuz Büyükberber, Yahya Dai --> 9, 749, 816, 910, 1116, 1152
+Alpay Dinletir, Yahya Dai --> 9, 1116
+Barış Doğukan Yazıcı, Doruk Gönentür --> 9, 726
+Barış Doğukan Yazıcı, Halil İbrahim Işık --> 9, 49, 183, 1145
+Barış Doğukan Yazıcı, İmer Demirer --> 9, 12, 264
+Barış Doğukan Yazıcı, Şenova Ülker --> 9, 12, 228, 264, 572, 976, 1145
+Barış Doğukan Yazıcı, Hakan Çimenot --> 9, 1145
+Barış Doğukan Yazıcı, Oğuz Büyükberber --> 9, 12
+Barış Doğukan Yazıcı, İzzet Kızıl --> 9, 12, 917
+Doruk Gönentür, Şenova Ülker --> 9, 813
+Halil İbrahim Işık, İmer Demirer --> 9, 132, 1074, 1077, 1078
+Halil İbrahim Işık, Şenova Ülker --> 9, 531, 795, 1145
+Hakan Çimenot, Halil İbrahim Işık --> 9, 113, 546, 1074, 1077, 1078, 1145
+İmer Demirer, Şenova Ülker --> 9, 12, 222, 264, 354, 497
+Hakan Çimenot, İmer Demirer --> 9, 436, 1074, 1075, 1077, 1078
+Oğuz Büyükberber, İmer Demirer --> 9, 12, 114, 749
+İmer Demirer, İzzet Kızıl --> 9, 12
+Hakan Çimenot, Şenova Ülker --> 9, 13, 1145
+Oğuz Büyükberber, Şenova Ülker --> 9, 12, 910
+İzzet Kızıl, Şenova Ülker --> 9, 12
+Alpay Dinletir, Oğuz Büyükberber --> 9, 1116
+Oğuz Büyükberber, İzzet Kızıl --> 9, 12
+Amy Salsgiver, Oğuz Büyükberber --> 9, 947
+Can Çankaya, Kerem Görsev --> 12, 712
+Kerem Görsev, Tuna Ötenel --> 12, 1077
+Kerem Görsev, Neşet Ruacan --> 12, 436, 482
+Kamil Özler, Kerem Görsev --> 12, 373, 1077
+Kerem Görsev, Çağdaş Oruç --> 12, 1077
+Bulut Gülen, Kerem Görsev --> 12, 641
+Can Çankaya, Selen Gülün --> 12, 712
+Orhan Deniz, Selen Gülün --> 12, 198
+Selen Gülün, Sibel Köse --> 12, 1152
+Deniz Taşar, Selen Gülün --> 12, 198
+Cenk Erdoğan, Selen Gülün --> 12, 132
+Korhan Futacı, Selen Gülün --> 12, 198
+Bulut Gülen, Selen Gülün --> 12, 183, 198, 1156
+Ayşe Tütüncü, Can Çankaya --> 12, 712
+Ayşe Tütüncü, Sibel Köse --> 12, 1152
+Ayşe Tütüncü, Cenk Erdoğan --> 12, 947
+Can Çankaya, Çağrı Sertel --> 12, 712
+Can Çankaya, Ercüment Orkut --> 12, 488, 712, 1171
+Baki Duyarlar, Can Çankaya --> 12, 712
+Can Çankaya, Volkan Hürsever --> 12, 1171
+Can Çankaya, Ozan Musluoğlu --> 12, 488, 712, 713, 974
+Can Çankaya, Kağan Yıldız --> 12, 309, 1051, 1095
+Alp Ersönmez, Can Çankaya --> 12, 240
+Can Çankaya, Ferit Odman --> 12, 488, 712, 713, 974
+Can Çankaya, Mehmet İkiz --> 12, 488, 671
+Can Çankaya, Turgut Alp Bekoğlu --> 12, 585, 653
+Can Çankaya, Volkan Öktem --> 12, 309
+Can Çankaya, Ediz Hafızoğlu --> 12, 1171
+Can Çankaya, Sibel Köse --> 12, 713
+Can Çankaya, Cem Tuncer --> 12, 1171
+Can Çankaya, Neşet Ruacan --> 12, 713
+Can Çankaya, Kamil Özler --> 12, 713
+Can Çankaya, Önder Focan --> 12, 713, 974
+Can Çankaya, Cenk Erdoğan --> 12, 1171
+Can Çankaya, Eylül Biçer --> 12, 216
+Can Çankaya, Sarp Maden --> 12, 713
+Can Çankaya, Engin Recepoğulları --> 12, 488, 671, 713, 974, 1171
+Can Çankaya, Tamer Temel --> 12, 1095
+Can Çankaya, İlhan Erşahin --> 12, 240
+Can Çankaya, Şenova Ülker --> 12, 309, 488, 713, 974, 1095
+Can Çankaya, İmer Demirer --> 12, 671
+Barış Doğukan Yazıcı, Can Çankaya --> 12, 1171
+Bulut Gülen, Can Çankaya --> 12, 488, 671, 713, 1095
+Adem Gülşen, Kaan Bıyıkoğlu --> 12, 677
+Kaan Bıyıkoğlu, Ozan Musluoğlu --> 12, 407
+Kaan Bıyıkoğlu, Orhan Deniz --> 12, 677
+Ekin Cengizkan, Kaan Bıyıkoğlu --> 12, 70, 407, 511, 677
+Ediz Hafızoğlu, Kaan Bıyıkoğlu --> 12, 677
+Kaan Bıyıkoğlu, Serhan Erkol --> 12, 70, 677
+Kaan Bıyıkoğlu, Şenova Ülker --> 12, 407, 813
+Barış Doğukan Yazıcı, Kaan Bıyıkoğlu --> 12, 677
+Bulut Gülen, Kaan Bıyıkoğlu --> 12, 407
+Baki Duyarlar, Tuna Ötenel --> 12, 815, 1077
+Ozan Musluoğlu, Tuna Ötenel --> 12, 1077
+Ferit Odman, Tuna Ötenel --> 12, 1077
+Mehmet İkiz, Tuna Ötenel --> 12, 497
+Ediz Hafızoğlu, Tuna Ötenel --> 12, 1077
+Sibel Köse, Tuna Ötenel --> 12, 850, 948
+Neşet Ruacan, Tuna Ötenel --> 12, 474, 1076
+Kamil Özler, Tuna Ötenel --> 12, 1077
+Engin Recepoğulları, Tuna Ötenel --> 12, 1077
+Tuna Ötenel, Çağdaş Oruç --> 12, 1077
+Serhan Erkol, Tuna Ötenel --> 12, 1077
+Tuna Ötenel, Şenova Ülker --> 12, 497
+Tuna Ötenel, İmer Demirer --> 12, 474, 497, 1076, 1077
+Okay Temiz, Tuna Ötenel --> 12, 248, 1175
+Burak Bedikyan, Çağdaş Oruç --> 12, 658
+Burak Bedikyan, Okay Temiz --> 12, 658
+Orhan Deniz, Çağrı Sertel --> 12, 198
+Nedim Ruacan, Çağrı Sertel --> 12, 365
+Mehmet İkiz, Çağrı Sertel --> 12, 74
+Deniz Taşar, Çağrı Sertel --> 12, 198
+Neşet Ruacan, Çağrı Sertel --> 12, 1145
+Cenk Erdoğan, Çağrı Sertel --> 12, 199, 335, 947, 1145
+Efe Demiral, Çağrı Sertel --> 12, 335
+Korhan Futacı, Çağrı Sertel --> 12, 198
+Bulut Gülen, Çağrı Sertel --> 12, 198, 1145
+Aydın Esen, Çağdaş Oruç --> 12, 104
+Aydın Esen, Okay Temiz --> 12, 104
+Burak Irmak, Korhan Futacı --> 12, 350, 920
+Ercüment Orkut, Orhan Deniz --> 12, 304, 726, 727, 728
+Ercüment Orkut, Mehmet İkiz --> 12, 488
+Ercüment Orkut, Neşet Ruacan --> 12, 1079
+Cenk Erdoğan, Ercüment Orkut --> 12, 199, 201, 547, 726, 727, 728, 1171
+Ercüment Orkut, Korhan Futacı --> 12, 727
+Ercüment Orkut, Çağdaş Oruç --> 12, 442, 894, 1151, 1173
+Bulut Gülen, Ercüment Orkut --> 12, 194, 201, 488, 602, 728
+Ercüment Orkut, Okay Temiz --> 12, 1173
+Kağan Yıldız, Nilüfer Verdi --> 12, 537
+Nedim Ruacan, Nilüfer Verdi --> 12, 537
+Kamil Özler, Nilüfer Verdi --> 12, 537
+Adem Gülşen, Volkan Hürsever --> 12, 416, 819
+Adem Gülşen, Ozan Musluoğlu --> 12, 844, 1113
+Adem Gülşen, Kağan Yıldız --> 12, 222
+Adem Gülşen, Orhan Deniz --> 12, 430, 604, 677, 844
+Adem Gülşen, Ferit Odman --> 12, 222
+Adem Gülşen, Cem Aksel --> 12, 416, 819
+Adem Gülşen, Ekin Cengizkan --> 12, 22, 677, 795, 844, 1113
+Adem Gülşen, Ediz Hafızoğlu --> 12, 430, 604, 677
+Adem Gülşen, Deniz Taşar --> 12, 795, 1113
+Adem Gülşen, Cem Tuncer --> 12, 604
+Adem Gülşen, Cenk Erdoğan --> 12, 80, 711, 844
+Adem Gülşen, Engin Recepoğulları --> 12, 430
+Adem Gülşen, Çağdaş Oruç --> 12, 604, 1176
+Adem Gülşen, Tamer Temel --> 12, 711
+Adem Gülşen, Serhan Erkol --> 12, 222, 416, 677, 819, 844, 1113
+Adem Gülşen, Şenova Ülker --> 12, 222, 416, 795, 844, 1113
+Adem Gülşen, İmer Demirer --> 12, 222
+Adem Gülşen, Barış Doğukan Yazıcı --> 12, 430, 656, 677, 711
+Adem Gülşen, Bulut Gülen --> 12, 416, 711, 819
+Adem Gülşen, Taşkın Akarsu --> 12, 656, 795
+Baki Duyarlar, Ekin Cengizkan --> 12, 232
+Baki Duyarlar, Neşet Ruacan --> 12, 1075
+Baki Duyarlar, Kamil Özler --> 12, 1075, 1077
+Baki Duyarlar, Çağdaş Oruç --> 12, 232, 1077
+Baki Duyarlar, Bulut Gülen --> 12, 232, 1156
+Orhan Deniz, Volkan Hürsever --> 12, 198
+Nedim Ruacan, Volkan Hürsever --> 12, 1170
+Ekin Cengizkan, Volkan Hürsever --> 12, 570
+Sibel Köse, Volkan Hürsever --> 12, 103
+Deniz Taşar, Volkan Hürsever --> 12, 198
+Neşet Ruacan, Volkan Hürsever --> 12, 436, 482, 940
+Cenk Erdoğan, Volkan Hürsever --> 12, 201, 335, 1171
+Efe Demiral, Volkan Hürsever --> 12, 335
+Korhan Futacı, Volkan Hürsever --> 12, 198
+Bulut Gülen, Volkan Hürsever --> 12, 198, 201, 416, 641, 819
+Orhan Deniz, Ozan Musluoğlu --> 12, 844
+Ekin Cengizkan, Ozan Musluoğlu --> 12, 407, 844, 1113
+Mehmet İkiz, Ozan Musluoğlu --> 12, 74, 488
+Ozan Musluoğlu, Sibel Köse --> 12, 713
+Deniz Taşar, Ozan Musluoğlu --> 12, 1113
+Neşet Ruacan, Ozan Musluoğlu --> 12, 713, 1145
+Kamil Özler, Ozan Musluoğlu --> 12, 713, 1077, 1078
+Cenk Erdoğan, Ozan Musluoğlu --> 12, 132, 447, 844, 936, 947, 1145
+Ozan Musluoğlu, Çağdaş Oruç --> 12, 104, 113, 1077
+Bulut Gülen, Ozan Musluoğlu --> 12, 113, 134, 183, 194, 407, 488, 622, 713, 823, 950, 1145
+Okay Temiz, Ozan Musluoğlu --> 12, 104
+Kağan Yıldız, Nedim Ruacan --> 12, 537
+Berkan Tilavel, Kağan Yıldız --> 12, 1002
+Fırtına Kıral, Kağan Yıldız --> 12, 911
+Ekin Cengizkan, Kağan Yıldız --> 12, 232
+Kağan Yıldız, Sibel Köse --> 12, 934
+Kağan Yıldız, Neşet Ruacan --> 12, 1079
+Kamil Özler, Kağan Yıldız --> 12, 537
+Cenk Erdoğan, Kağan Yıldız --> 12, 279, 447, 547, 947, 1002, 1011
+Kağan Yıldız, Çağdaş Oruç --> 12, 113, 232
+Bulut Gülen, Kağan Yıldız --> 12, 113, 232, 535, 911, 1095, 1156
+Eren Turgut, Fırtına Kıral --> 12, 455, 465
+Efe Demiral, Eren Turgut --> 12, 53, 592, 1109
+Alp Ersönmez, Orhan Deniz --> 12, 198, 726
+Fırtına Kıral, Orhan Deniz --> 12, 918
+Ekin Cengizkan, Orhan Deniz --> 12, 677, 844
+Orhan Deniz, Volkan Öktem --> 12, 198
+Ediz Hafızoğlu, Orhan Deniz --> 12, 198, 304, 430, 604, 677, 726, 727, 728
+Jülide Özçelik, Orhan Deniz --> 12, 727
+Elif Çağlar, Orhan Deniz --> 12, 198, 304, 726, 727
+Deniz Taşar, Orhan Deniz --> 12, 198
+Cem Tuncer, Orhan Deniz --> 12, 304, 604, 726, 727, 728
+Cenk Erdoğan, Orhan Deniz --> 12, 726, 727, 728, 844
+Efe Demiral, Orhan Deniz --> 12, 1007
+Orhan Deniz, Sarp Maden --> 12, 198
+Engin Recepoğulları, Orhan Deniz --> 12, 198, 430, 726, 727
+Korhan Futacı, Orhan Deniz --> 12, 198, 727
+Orhan Deniz, Çağdaş Oruç --> 12, 604
+Orhan Deniz, Serhan Erkol --> 12, 304, 677, 727, 844
+Orhan Deniz, Şenova Ülker --> 12, 844
+Barış Doğukan Yazıcı, Orhan Deniz --> 12, 198, 304, 430, 677, 726, 727, 728
+Bulut Gülen, Orhan Deniz --> 12, 198, 728
+Alp Ersönmez, Nedim Ruacan --> 12, 365
+Alp Ersönmez, Deniz Taşar --> 12, 198
+Alp Ersönmez, Cenk Erdoğan --> 12, 199, 726, 947
+Alp Ersönmez, Korhan Futacı --> 12, 198
+Alp Ersönmez, Bulut Gülen --> 12, 198
+Fırtına Kıral, Tolga Tohumcu --> 12, 360
+Tibet Akarca, Tolga Tohumcu --> 12, 348
+Efe Demiral, Tolga Tohumcu --> 12, 348
+Tolga Tohumcu, Şenova Ülker --> 12, 360
+Barış Demirel, Tolga Tohumcu --> 12, 348
+Ferit Odman, Mehmet İkiz --> 12, 488
+Ferit Odman, Sibel Köse --> 12, 713, 934
+Ferit Odman, Neşet Ruacan --> 12, 713, 1079
+Ferit Odman, Kamil Özler --> 12, 713, 1077, 1078
+Ferit Odman, Çağdaş Oruç --> 12, 113, 1077
+Bulut Gülen, Ferit Odman --> 12, 113, 134, 194, 488, 535, 641, 713, 823, 950
+Kamil Özler, Nedim Ruacan --> 12, 537
+Bulut Gülen, Cem Aksel --> 12, 416, 819
+Berkan Tilavel, Jülide Özçelik --> 12, 1002
+Berkan Tilavel, Umut Çağlar --> 12, 595
+Berkan Tilavel, Cenk Erdoğan --> 12, 1002
+Berkan Tilavel, Korhan Futacı --> 12, 595
+Cenk Erdoğan, Fırtına Kıral --> 12, 397
+Fırtına Kıral, Şenova Ülker --> 12, 360
+Bulut Gülen, Fırtına Kıral --> 12, 911
+Ekin Cengizkan, Volkan Öktem --> 12, 570
+Ediz Hafızoğlu, Ekin Cengizkan --> 12, 677
+Ekin Cengizkan, Engin Recepoğulları --> 12, 687
+Ekin Cengizkan, Çağdaş Oruç --> 12, 232, 264
+Ekin Cengizkan, Serhan Erkol --> 12, 70, 677, 844, 1113
+Ekin Cengizkan, Şenova Ülker --> 12, 232, 264, 407, 795, 844, 1113
+Ekin Cengizkan, İmer Demirer --> 12, 264
+Barış Doğukan Yazıcı, Ekin Cengizkan --> 12, 264, 677
+Bulut Gülen, Ekin Cengizkan --> 12, 190, 232, 407, 616, 1120
+Ekin Cengizkan, Taşkın Akarsu --> 12, 795
+Cenk Erdoğan, Mehmet İkiz --> 12, 356, 607, 608
+Engin Recepoğulları, Mehmet İkiz --> 12, 488, 671
+Mehmet İkiz, Şenova Ülker --> 12, 488, 497
+Mehmet İkiz, İmer Demirer --> 12, 497, 671
+Bulut Gülen, Mehmet İkiz --> 12, 488, 671
+Sibel Köse, Turgut Alp Bekoğlu --> 12, 1152
+Kamil Özler, Turgut Alp Bekoğlu --> 12, 162, 1165
+Cem Nasuhoğlu, Turgut Alp Bekoğlu --> 12, 1165
+Turgut Alp Bekoğlu, Çağdaş Oruç --> 12, 1173
+Okay Temiz, Turgut Alp Bekoğlu --> 12, 1173
+Efe Demiral, Tibet Akarca --> 12, 348
+Barış Demirel, Tibet Akarca --> 12, 348
+Sibel Köse, Volkan Öktem --> 12, 103, 148, 1020, 1116
+Deniz Taşar, Volkan Öktem --> 12, 198
+Cenk Erdoğan, Volkan Öktem --> 12, 54, 199, 572
+Korhan Futacı, Volkan Öktem --> 12, 198
+Volkan Öktem, Çağdaş Oruç --> 12, 113, 442, 655, 701, 894, 1151, 1173
+Bulut Gülen, Volkan Öktem --> 12, 113, 198, 837
+Taşkın Akarsu, Volkan Öktem --> 12, 572
+Okay Temiz, Volkan Öktem --> 12, 1173
+Deniz Taşar, Ediz Hafızoğlu --> 12, 198
+Ediz Hafızoğlu, Neşet Ruacan --> 12, 1145
+Ediz Hafızoğlu, Kamil Özler --> 12, 1077, 1078
+Cenk Erdoğan, Ediz Hafızoğlu --> 12, 132, 201, 335, 726, 727, 728, 947, 1011, 1145, 1171
+Ediz Hafızoğlu, Efe Demiral --> 12, 335
+Ediz Hafızoğlu, Korhan Futacı --> 12, 198, 727
+Ediz Hafızoğlu, Çağdaş Oruç --> 12, 113, 604, 1077
+Bulut Gülen, Ediz Hafızoğlu --> 12, 113, 198, 201, 602, 622, 728, 1145
+Neşet Ruacan, Sibel Köse --> 12, 713
+Kamil Özler, Sibel Köse --> 12, 713
+Sibel Köse, Önder Focan --> 12, 713, 1080
+Sarp Maden, Sibel Köse --> 12, 148, 713, 934
+Engin Recepoğulları, Sibel Köse --> 12, 103, 713, 934
+Sibel Köse, Şenova Ülker --> 12, 713
+Bulut Gülen, Sibel Köse --> 12, 713
+Oğuz Büyükberber, Sibel Köse --> 12, 1116, 1152
+Cenk Erdoğan, Jülide Özçelik --> 12, 547, 727, 1002
+Jülide Özçelik, Korhan Futacı --> 12, 727
+Deniz Taşar, Elif Çağlar --> 12, 198
+Cenk Erdoğan, Elif Çağlar --> 12, 132, 689, 726, 727
+Elif Çağlar, Korhan Futacı --> 12, 198, 727
+Bulut Gülen, Elif Çağlar --> 12, 198
+Deniz Taşar, Sarp Maden --> 12, 198
+Deniz Taşar, Engin Recepoğulları --> 12, 198
+Deniz Taşar, Korhan Futacı --> 12, 198
+Deniz Taşar, Serhan Erkol --> 12, 1113
+Deniz Taşar, Şenova Ülker --> 12, 795, 1113
+Barış Doğukan Yazıcı, Deniz Taşar --> 12, 198
+Bulut Gülen, Deniz Taşar --> 12, 198
+Deniz Taşar, Taşkın Akarsu --> 12, 795
+Cem Tuncer, Kamil Özler --> 12, 1078
+Cem Tuncer, Cenk Erdoğan --> 12, 547, 726, 727, 728, 1171
+Cem Tuncer, Korhan Futacı --> 12, 727
+Cem Tuncer, Çağdaş Oruç --> 12, 113, 604
+Bulut Gülen, Cem Tuncer --> 12, 113, 602, 728
+Kamil Özler, Neşet Ruacan --> 12, 713, 1075
+Neşet Ruacan, Önder Focan --> 12, 713, 886
+Cenk Erdoğan, Neşet Ruacan --> 12, 1145
+Neşet Ruacan, Sarp Maden --> 12, 713
+Engin Recepoğulları, Neşet Ruacan --> 12, 713, 1145
+Neşet Ruacan, Serhan Erkol --> 12, 1145
+Neşet Ruacan, Şenova Ülker --> 12, 713, 886, 1145
+Neşet Ruacan, İmer Demirer --> 12, 436, 474, 482, 1075, 1076
+Barış Doğukan Yazıcı, Neşet Ruacan --> 12, 1145
+Bulut Gülen, Neşet Ruacan --> 12, 713, 1145
+Cem Nasuhoğlu, Kamil Özler --> 12, 1165
+Kamil Özler, Önder Focan --> 12, 373, 713
+Kamil Özler, Sarp Maden --> 12, 713
+Engin Recepoğulları, Kamil Özler --> 12, 713, 1077, 1078
+Kamil Özler, Çağdaş Oruç --> 12, 1077
+Kamil Özler, Tamer Temel --> 12, 1078
+Kamil Özler, İlhan Erşahin --> 12, 373
+Kamil Özler, Serhan Erkol --> 12, 1077, 1078
+Kamil Özler, Şenova Ülker --> 12, 713
+Kamil Özler, İmer Demirer --> 12, 162, 1074, 1075, 1077, 1078
+Bulut Gülen, Kamil Özler --> 12, 713
+Çağdaş Oruç, Önder Focan --> 12, 104
+Bulut Gülen, Önder Focan --> 12, 622, 713, 950
+Okay Temiz, Önder Focan --> 12, 104
+Korhan Futacı, Umut Çağlar --> 12, 47, 308, 486, 595, 631, 695, 1026, 1086
+Okay Temiz, Umut Çağlar --> 12, 631, 1037, 1086
+Cenk Erdoğan, Efe Demiral --> 12, 335
+Cenk Erdoğan, Eylül Biçer --> 12, 201
+Cenk Erdoğan, Sarp Maden --> 12, 199
+Cenk Erdoğan, Engin Recepoğulları --> 12, 201, 726, 727, 1145, 1171
+Cenk Erdoğan, Korhan Futacı --> 12, 727
+Cenk Erdoğan, Tamer Temel --> 12, 132, 279, 335, 711
+Cenk Erdoğan, İlhan Erşahin --> 12, 689
+Cenk Erdoğan, Serhan Erkol --> 12, 132, 279, 727, 844, 947, 1145
+Cenk Erdoğan, Şenova Ülker --> 12, 547, 572, 844, 1145
+Cenk Erdoğan, İmer Demirer --> 12, 132, 201, 689
+Barış Doğukan Yazıcı, Cenk Erdoğan --> 12, 565, 572, 711, 726, 727, 728, 1145, 1171
+Bulut Gülen, Cenk Erdoğan --> 12, 201, 711, 728, 1061, 1145
+Cenk Erdoğan, Taşkın Akarsu --> 12, 572
+Cenk Erdoğan, Oğuz Büyükberber --> 12, 947
+Efe Demiral, Tamer Temel --> 12, 335
+Barış Demirel, Efe Demiral --> 12, 348
+Bulut Gülen, Eylül Biçer --> 12, 201
+Korhan Futacı, Sarp Maden --> 12, 198
+Sarp Maden, Çağdaş Oruç --> 12, 917, 1151
+Bulut Gülen, Sarp Maden --> 12, 198, 713, 837
+Engin Recepoğulları, Korhan Futacı --> 12, 198, 727
+Engin Recepoğulları, Çağdaş Oruç --> 12, 49, 1077
+Bulut Gülen, Engin Recepoğulları --> 12, 183, 198, 201, 488, 602, 641, 671, 713, 823, 837, 1145
+Korhan Futacı, Serhan Erkol --> 12, 727
+Barış Doğukan Yazıcı, Korhan Futacı --> 12, 198, 727
+Bulut Gülen, Korhan Futacı --> 12, 198
+Korhan Futacı, Okay Temiz --> 12, 631, 1086
+Serhan Erkol, Çağdaş Oruç --> 12, 1077
+Çağdaş Oruç, Şenova Ülker --> 12, 232, 264, 442, 976
+Çağdaş Oruç, İmer Demirer --> 12, 264, 1077
+Barış Doğukan Yazıcı, Çağdaş Oruç --> 12, 49, 264, 917, 976, 1151
+Bulut Gülen, Çağdaş Oruç --> 12, 113, 232
+Okay Temiz, Çağdaş Oruç --> 12, 104, 658, 1173
+Çağdaş Oruç, İzzet Kızıl --> 12, 917
+Bulut Gülen, Tamer Temel --> 12, 711, 1095
+Bulut Gülen, Serhan Erkol --> 12, 183, 416, 819, 1145, 1156
+Bulut Gülen, Şenova Ülker --> 12, 232, 407, 416, 488, 622, 713, 950, 1095, 1145
+Taşkın Akarsu, Şenova Ülker --> 12, 572, 795
+Bulut Gülen, İmer Demirer --> 12, 201, 671
+Barış Doğukan Yazıcı, Bulut Gülen --> 12, 134, 183, 194, 198, 602, 711, 728, 837, 1145
+Barış Doğukan Yazıcı, Taşkın Akarsu --> 12, 572, 656
+Baran Say, Burçin Büke --> 15, 415, 453
+Burçin Büke, Erhan Seçkin --> 15, 453
+Burçin Büke, Güvenç Dağüstün --> 15, 415
+Burçin Büke, Gürtuğ Gök --> 15, 415
+Baran Say, Erhan Seçkin --> 15, 453
+Baran Say, Güvenç Dağüstün --> 15, 415
+Baran Say, Gürtuğ Gök --> 15, 415
+Gürtuğ Gök, Güvenç Dağüstün --> 15, 415
+Feyza Eren, Steve Davis --> 19, 20, 463, 483, 499, 796
+Funda Akyazıcı, Yavuz Akyazıcı --> 21, 434, 812, 922
+Enver Muhamedi, Funda Akyazıcı --> 21, 434, 812, 922
+Cengiz Baysal, Funda Akyazıcı --> 21, 434, 812
+Enver Muhamedi, Yavuz Akyazıcı --> 21, 434, 812, 922
+Cengiz Baysal, Yavuz Akyazıcı --> 21, 434, 812, 1124
+Cengiz Baysal, Enver Muhamedi --> 21, 434, 812
+Adem Gülşen, Başak Yavuz --> 22, 656
+Alper Yılmaz, Başak Yavuz --> 22, 1156
+Başak Yavuz, Cansun Küçüktürk --> 22, 1156
+Adem Gülşen, Cansun Küçüktürk --> 22, 1176
+Alper Yılmaz, Ekin Cengizkan --> 22, 687
+Alper Yılmaz, Cansun Küçüktürk --> 22, 1156
+Burak Yücesoy, Koray Ergünay --> 23, 32, 480
+Aycan Teztel, Okan Ersan --> 26, 36, 228
+Okan Ersan, Serkan Özyılmaz --> 26, 744, 1055
+Eylem Pelit, Okan Ersan --> 26, 744, 1055
+Okan Ersan, Volkan Öktem --> 26, 36, 39, 228, 744, 1055
+Levent Altındağ, Okan Ersan --> 26, 1055
+Okan Ersan, Şenova Ülker --> 26, 36, 228, 1055
+Aycan Teztel, Serkan Özyılmaz --> 26, 531
+Aycan Teztel, Eylem Pelit --> 26, 62, 442, 462, 531, 572, 788
+Aycan Teztel, Volkan Öktem --> 26, 36, 62, 228, 229, 309, 332, 367, 422, 442, 462, 531, 572, 705, 706, 788, 916, 1020, 1021, 1066
+Aycan Teztel, Levent Altındağ --> 26, 62, 354, 531, 788, 1066
+Aycan Teztel, Şenova Ülker --> 26, 36, 228, 233, 271, 309, 354, 367, 422, 442, 462, 531, 572, 706, 788, 860
+Aycan Teztel, Ercan Irmak --> 26, 62, 233, 531
+Eylem Pelit, Serkan Özyılmaz --> 26, 531, 744, 1055, 1173
+Levent Altındağ, Serkan Özyılmaz --> 26, 531, 1055
+Ercan Irmak, Serkan Özyılmaz --> 26, 531
+Eylem Pelit, Volkan Öktem --> 26, 34, 54, 62, 78, 148, 215, 429, 442, 461, 462, 531, 572, 599, 655, 701, 744, 788, 894, 1055, 1151, 1173
+Eylem Pelit, Levent Altındağ --> 26, 62, 531, 788, 1055, 1151
+Eylem Pelit, Şenova Ülker --> 26, 34, 442, 461, 462, 484, 531, 572, 788, 1055
+Ercan Irmak, Eylem Pelit --> 26, 62, 461, 531
+Levent Altındağ, Volkan Öktem --> 26, 62, 531, 788, 1055, 1066, 1151
+Ercan Irmak, Volkan Öktem --> 26, 62, 461, 531
+Levent Altındağ, Şenova Ülker --> 26, 354, 531, 788, 886, 1055
+Ercan Irmak, Levent Altındağ --> 26, 62, 531, 540, 545
+Ercan Irmak, Şenova Ülker --> 26, 46, 233, 461, 531
+Ercan Irmak, Mısırlı Ahmet --> 26, 428
+Attila Özdemiroğlu, Durul Gence --> 28, 174
+Ahit Oben, Durul Gence --> 28, 174
+Durul Gence, Mehmet Horoz --> 28, 174
+Durul Gence, Mehmet Şahinbaş --> 28, 174
+Ahit Oben, Attila Özdemiroğlu --> 28, 174
+Attila Özdemiroğlu, Mehmet Horoz --> 28, 174
+Attila Özdemiroğlu, Mehmet Şahinbaş --> 28, 174
+Ahit Oben, Mehmet Horoz --> 28, 174
+Ahit Oben, Mehmet Şahinbaş --> 28, 174
+Mehmet Horoz, Mehmet Şahinbaş --> 28, 174
+Koray Ergünay, Şinasi Celayiroğlu --> 32, 480, 698
+Burak Yücesoy, Şinasi Celayiroğlu --> 32, 480
+Erdem Göymen, Volkan Topakoğlu --> 35, 362
+Aycan Teztel, Gülden Teztel --> 36, 531
+Aycan Teztel, Duygu Tarhan --> 36, 572
+Aycan Teztel, Ercüment Ateş --> 36, 462, 531
+Aycan Teztel, Erdem Sökmen --> 36, 62, 572
+Aycan Teztel, Batu Şallıel --> 36, 228, 332, 367, 705, 706, 916, 975
+Aycan Teztel, Burak Dursun --> 36, 228
+Aycan Teztel, Gökay Gökşen --> 36, 228, 531
+Aycan Teztel, Mehmet Akatay --> 36, 62, 531
+Gülden Teztel, Volkan Öktem --> 36, 531
+Ercüment Ateş, Gülden Teztel --> 36, 531
+Gülden Teztel, Şenova Ülker --> 36, 531
+Gökay Gökşen, Gülden Teztel --> 36, 531
+Gülden Teztel, Mehmet Akatay --> 36, 531
+Duygu Tarhan, Volkan Öktem --> 36, 39, 572
+Ercüment Ateş, Volkan Öktem --> 36, 215, 461, 462, 531
+Erdem Sökmen, Volkan Öktem --> 36, 62, 572
+Batu Şallıel, Volkan Öktem --> 36, 228, 332, 367, 705, 706, 916
+Burak Dursun, Volkan Öktem --> 36, 228
+Gökay Gökşen, Volkan Öktem --> 36, 228, 531
+Mehmet Akatay, Volkan Öktem --> 36, 62, 154, 429, 458, 531
+Duygu Tarhan, Erdem Sökmen --> 36, 572
+Duygu Tarhan, Okan Ersan --> 36, 39
+Batu Şallıel, Duygu Tarhan --> 36, 1130
+Duygu Tarhan, Şenova Ülker --> 36, 572
+Ercüment Ateş, Şenova Ülker --> 36, 461, 462, 531
+Ercüment Ateş, Gökay Gökşen --> 36, 531
+Ercüment Ateş, Mehmet Akatay --> 36, 531
+Batu Şallıel, Erdem Sökmen --> 36, 443
+Erdem Sökmen, Şenova Ülker --> 36, 572
+Erdem Sökmen, Mehmet Akatay --> 36, 62
+Batu Şallıel, Okan Ersan --> 36, 228
+Burak Dursun, Okan Ersan --> 36, 228
+Gökay Gökşen, Okan Ersan --> 36, 228, 391
+Batu Şallıel, Şenova Ülker --> 36, 228, 367, 407, 706, 976
+Batu Şallıel, Burak Dursun --> 36, 228, 976, 1039, 1083
+Batu Şallıel, Gökay Gökşen --> 36, 228
+Burak Dursun, Şenova Ülker --> 36, 102, 228, 759, 976
+Gökay Gökşen, Şenova Ülker --> 36, 228, 531
+Mehmet Akatay, Şenova Ülker --> 36, 232, 531
+Burak Dursun, Gökay Gökşen --> 36, 228
+Burak Dursun, Mehmet Akatay --> 36, 335
+Gökay Gökşen, Mehmet Akatay --> 36, 531
+Peter Washington, Terell Stafford --> 37, 105
+Ferit Odman, Terell Stafford --> 37, 105
+Kenny Wollesen, İlhan Erşahin --> 38, 515, 647, 763, 766, 781, 924, 944, 1129
+Mamelo Sound System, İlhan Erşahin --> 38, 202
+Duygu Tarhan, Halil İbrahim Işık --> 39, 1130
+Halil İbrahim Işık, Okan Ersan --> 39, 49
+Alper Kekeç, Mehmet Polat --> 41, 1031
+Mehmet Polat, Zoumana Diarra --> 41, 741
+Ayşe Nur Yağız, Volkan Ergen --> 42, 471
+Berkay Küçükbaşlar, Işık Üstündağ --> 42, 88
+Hans Hartmann, Tayfun Erdem --> 45, 285, 919
+Tayfun Erdem, Topo Gioia --> 45, 919
+Hans Hartmann, Topo Gioia --> 45, 919
+Lennart Aberg, Okay Temiz --> 45, 137, 248, 534, 571, 618, 629, 799, 1062
+Ara Dinkjian, Arto Tunçboyacıyan --> 46, 502, 697, 794, 834, 839, 1065
+Arto Tunçboyacıyan, Ercan Irmak --> 46, 169
+İsmail Soyberk, Şenova Ülker --> 46, 354, 678
+Ercan Irmak, İsmail Soyberk --> 46, 540, 545
+Korhan Argüden, Korhan Futacı --> 47, 308, 486, 1026, 1086
+Korhan Futacı, Özün Usta --> 47, 308, 350, 486, 631, 1026, 1086
+Korhan Argüden, Umut Çağlar --> 47, 308, 486, 867, 1015, 1026, 1086
+Umut Çağlar, Özün Usta --> 47, 308, 486, 631, 867, 1026, 1086
+Korhan Argüden, Özün Usta --> 47, 308, 486, 867, 1026, 1086
+Halil İbrahim Işık, Çağdaş Oruç --> 49, 113, 1077
+Okan Ersan, Oytun Ersan --> 49, 324, 391
+Umut Pelit, Çağdaş Oruç --> 49, 1173
+Okan Ersan, Çağdaş Oruç --> 49, 917
+Barış Doğukan Yazıcı, Okan Ersan --> 49, 228, 917
+Arif Mardin, Randy Brecker --> 52, 554
+Eren Turgut, Mert Can Bilgin --> 53, 1000
+Cenk Erdoğan, Eylem Pelit --> 54, 572
+Eylem Pelit, Hamdi Akatay --> 54, 531
+Hamdi Akatay, Volkan Öktem --> 54, 531
+Anıl Şallıel, Cengiz Tural --> 58, 1130
+Sinan Ayyıldız, Tolgahan Çoğulu --> 59, 192
+Ara Dinkjian, Zohar Fresco --> 60, 825
+George Lernis, Mehmet Ali Sanlıkol --> 61, 871, 1034
+Halil Karaduman, Levent Altındağ --> 62, 540
+Levent Altındağ, Mehmet Akatay --> 62, 531, 540, 545
+Cengiz Özdemir, Eylem Pelit --> 62, 368, 655
+Cengiz Özdemir, Volkan Öktem --> 62, 655
+Cengiz Özdemir, Erdem Sökmen --> 62, 1062
+Cengiz Özdemir, Erdal Erzincan --> 62, 655
+Cem Erman, Eylem Pelit --> 62, 760
+Erdem Sökmen, Eylem Pelit --> 62, 443, 572
+Erdal Erzincan, Eylem Pelit --> 62, 655
+Eylem Pelit, Mehmet Akatay --> 62, 429, 531
+Erdal Erzincan, Volkan Öktem --> 62, 655
+Ercan Irmak, Erdem Sökmen --> 62, 169
+Ercan Irmak, Halil Karaduman --> 62, 540
+Ercan Irmak, Mehmet Akatay --> 62, 531, 540, 545
+Halil Karaduman, Mehmet Akatay --> 62, 540
+Anthony Jackson, Aydın Esen --> 63, 364
+Aydın Esen, Dave Liebman --> 63, 364
+Anthony Jackson, Dave Liebman --> 63, 364
+Bob Mintzer, Bob Mintzer --> 63, 347
+Baturay Yarkın, Nağme Yarkın --> 64, 106, 406, 787, 858, 973, 1107
+Baturay Yarkın, Enver Muhammedi --> 64, 973, 1107
+Baturay Yarkın, Burak Cihangirli --> 64, 106, 374, 973, 1107
+Baturay Yarkın, Fahrettin Yarkın --> 64, 640
+Enver Muhammedi, Nağme Yarkın --> 64, 973, 1107
+Burak Cihangirli, Nağme Yarkın --> 64, 106, 973, 1107
+Burak Cihangirli, Enver Muhammedi --> 64, 973, 1107
+Fahrettin Yarkın, Murat Salim Tokaç --> 64, 672
+Elif Canfeza Gündüz, Serhan Erkol --> 70, 448
+Ercüment Gül, Tolga Bedir --> 73, 778
+Semih Burcu, Tolga Bedir --> 73, 798
+Hami Ünlü, Tolga Bedir --> 73, 828
+Engin Recepoğulları, Serdar Barçın --> 73, 103, 127
+Onur Aymergen, Ozan Musluoğlu --> 74, 524, 949
+Onur Aymergen, Su İdil --> 74, 275
+Kirk Lightsey, Özay Fecht --> 76, 704
+Eylem Pelit, Sarp Maden --> 78, 83, 148, 599, 1151
+Ercüment Orkut, Eylem Pelit --> 78, 442, 484, 894, 1023, 1097, 1151, 1173
+Oğuz Büyükberber, Tobias Klein --> 79, 227, 774, 874, 947
+Akın Eldes, İlkin Deniz --> 81, 133, 225, 417, 518
+Akın Eldes, Turgut Alp Bekoğlu --> 81, 133, 225, 417, 518
+Sibel Gürsoy, Sibel Köse --> 82, 1152
+Sarp Maden, Şevval Sam --> 83, 713, 1127
+Eylem Pelit, Genco Arı --> 83, 148, 599, 1165
+Eylem Pelit, Turgut Alp Bekoğlu --> 83, 274, 1165, 1173
+Eylem Pelit, İmer Demirer --> 83, 760
+Ayşe Tütüncü, Saruhan Erim --> 84, 241, 846, 1152
+Ayşe Tütüncü, Bülent Somay --> 84, 846
+Ayşe Tütüncü, Timuçin Gürer --> 84, 241, 846, 1152
+Bülent Somay, Saruhan Erim --> 84, 846
+Saruhan Erim, Timuçin Gürer --> 84, 241, 846, 1152
+Bülent Somay, Timuçin Gürer --> 84, 846
+Tolga Bilgin, Turgut Alp Bekoğlu --> 85, 653
+Alpay Çiftçi, Bora Peynirci --> 85, 670
+Bora Peynirci, Tolga Bilgin --> 85, 408
+Alp Özdayı, Tolga Bilgin --> 85, 230
+Cahit Kutrafalı, Fuat Kutrafalı --> 91, 358
+Andreas Panteli, Cahit Kutrafalı --> 91, 1061
+Cahit Kutrafalı, Stelios Xydias --> 91, 101, 358, 1061
+Cahit Kutrafalı, Ermis Michail --> 91, 1061
+Cahit Kutrafalı, Charis Ioannou --> 91, 1061
+Cahit Kutrafalı, Chris Byars --> 91, 358
+Fuat Kutrafalı, Tolga Erzurumlu --> 91, 358
+Fuat Kutrafalı, Stelios Xydias --> 91, 358
+Chris Byars, Fuat Kutrafalı --> 91, 358
+Cenk Erdoğan, Genco Arı --> 91, 1011
+Andreas Panteli, Cenk Erdoğan --> 91, 1061
+Cenk Erdoğan, Stelios Xydias --> 91, 1061
+Cenk Erdoğan, Ermis Michail --> 91, 1061
+Cenk Erdoğan, Charis Ioannou --> 91, 1061
+Andreas Panteli, Tolga Erzurumlu --> 91, 1061
+Stelios Xydias, Tolga Erzurumlu --> 91, 358, 1061
+Ermis Michail, Tolga Erzurumlu --> 91, 1061
+Charis Ioannou, Tolga Erzurumlu --> 91, 1061
+Chris Byars, Tolga Erzurumlu --> 91, 358
+Andreas Panteli, Stelios Xydias --> 91, 1061
+Andreas Panteli, Ermis Michail --> 91, 1061
+Andreas Panteli, Charis Ioannou --> 91, 1061
+Ermis Michail, Stelios Xydias --> 91, 1061
+Charis Ioannou, Stelios Xydias --> 91, 1061
+Chris Byars, Stelios Xydias --> 91, 358
+Charis Ioannou, Ermis Michail --> 91, 1061
+Fernando Huego, Mehmet Ali Sanlıkol --> 92, 182
+Cengiz Baysal, Mehmet Ali Sanlıkol --> 92, 182
+Mehmet Ali Sanlıkol, Onur Türkmen --> 92, 182
+Mehmet Ali Sanlıkol, Ryan Woodward --> 92, 182
+Cem Mutlu, Mehmet Ali Sanlıkol --> 92, 1134
+Grup Adı: Audio Fact / AudioFact, Mehmet Ali Sanlıkol --> 92, 182
+Cengiz Baysal, Fernando Huego --> 92, 182
+Fernando Huego, Onur Türkmen --> 92, 182
+Fernando Huego, Ryan Woodward --> 92, 182
+Fernando Huego, Grup Adı: Audio Fact / AudioFact --> 92, 182
+Cengiz Baysal, Onur Türkmen --> 92, 182, 555, 982
+Cengiz Baysal, Ryan Woodward --> 92, 182
+Cengiz Baysal, Grup Adı: Audio Fact / AudioFact --> 92, 182
+Onur Türkmen, Ryan Woodward --> 92, 182
+Grup Adı: Audio Fact / AudioFact, Onur Türkmen --> 92, 182
+Grup Adı: Audio Fact / AudioFact, Ryan Woodward --> 92, 182
+Bülent Altınbaş, Mehmet Akatay --> 92, 545
+Aykut Gürel, Ercüment Orkut --> 94, 109
+Ercüment Orkut, Siney Yılmaz --> 94, 109
+Aykut Gürel, Ediz Hafızoğlu --> 94, 109
+Aykut Gürel, Cem Tuncer --> 94, 109
+Aykut Gürel, Siney Yılmaz --> 94, 109
+Ediz Hafızoğlu, Siney Yılmaz --> 94, 109, 132
+Cem Tuncer, Siney Yılmaz --> 94, 109
+Caner Üstündağ, Genco Arı --> 95, 209, 645, 699, 730
+Caner Üstündağ, Turgut Alp Bekoğlu --> 95, 588, 645, 1169
+Caner Üstündağ, Erkan Oğur --> 95, 645
+Derya Türkan, Erkan Oğur --> 95, 232, 305
+Mehmet Polat, Sinan Arat --> 97, 741, 1031
+Steve Willis, Sıla Shaman (Sıla Çevikçe) --> 99, 359
+Dave Storrs, Sıla Shaman (Sıla Çevikçe) --> 99, 359
+Dave Storrs, Steve Willis --> 99, 359
+Sinan Cem Eroğlu, Tolgahan Çoğulu --> 100, 682
+Enver Muhamedi, Önder Focan --> 102, 762
+Burak Cihangirli, Önder Focan --> 102, 762
+Burak Cihangirli, Enver Muhamedi --> 102, 106, 762
+Enver Muhamedi, Şenova Ülker --> 102, 407, 844
+Burak Dursun, Enver Muhamedi --> 102, 1039
+Anıl Şallıel, Şenova Ülker --> 102, 228, 422
+Anıl Şallıel, Burak Dursun --> 102, 228, 1083
+Türker Çolak, Volkan Hürsever --> 103, 495, 570
+Serdar Barçın, Volkan Öktem --> 103, 531, 1055
+Türker Çolak, Volkan Öktem --> 103, 570
+Sibel Köse, Yahya Dai --> 103, 948, 1116, 1152
+Engin Recepoğulları, Engin Recepoğulları --> 103, 114, 127, 160, 183, 198, 200, 201, 256, 320, 321, 409, 430, 488, 512, 602, 641, 671, 687, 713, 726, 727, 823, 837, 841, 934, 952, 959, 960, 974, 993, 1077, 1078, 1127, 1145, 1171
+Serdar Barçın, Yahya Dai --> 103, 531
+Yahya Dai, Yahya Dai --> 103, 331, 407, 420, 484, 493, 518, 531, 577, 578, 638, 639, 683, 738, 749, 760, 776, 816, 910, 912, 943, 948, 982, 1066, 1089, 1090, 1095, 1097, 1110, 1116, 1124, 1152, 1161, 1171
+Ahmet Özden, Okay Temiz --> 104, 361
+Burcu Karadağ, Ozan Musluoğlu --> 104, 447
+Aykut Gürel, Bergüzar Korel --> 109, 110
+Cem Nasuhoğlu, Genco Arı --> 111, 1165
+Oğuz Büyükberber, Çağlayan Yıldız --> 112, 227, 749, 774, 1116
+Bulut Gülen, Halil İbrahim Işık --> 113, 183, 1145
+Ali Emre Kayhan, Volkan Öktem --> 113, 1173
+Hakan Çimenot, Çağdaş Oruç --> 113, 1077
+Ali Emre Kayhan, Çağdaş Oruç --> 113, 1173
+Bulut Gülen, Hakan Çimenot --> 113, 1145
+Allan Harris, Kerem Görsev --> 116, 373, 609, 1100
+Meni Welt, Yinon Muallem --> 117, 673
+Vaselin Vaselinov, Yıldız İbrahimova --> 118, 123, 951
+Hristo Yotsov, Yıldız İbrahimova --> 118, 124, 255, 440, 516
+Timuçin Şahin, Tyshawn Sorey --> 119, 503
+John O' Gallagher, Timuçin Şahin --> 119, 503
+John O' Gallagher, Tyshawn Sorey --> 119, 503
+Vasil Parmakov, Yıldız İbrahimova --> 123, 255, 951
+Ivo Papazov, Yıldız İbrahimova --> 123, 124
+Tahir Aydoğdu, Yıldız İbrahimova --> 123, 124
+Vaselin Vaselinov, Vasil Parmakov --> 123, 951
+Ivo Papazov, Okay Temiz --> 123, 181
+Ivo Papazov, Tahir Aydoğdu --> 123, 124
+Nevriye Alieva, Yıldız İbrahimova --> 124, 255
+Suna Dinçer, Yıldız İbrahimova --> 124, 255
+Hristo Yotsov, Nevriye Alieva --> 124, 255
+Hristo Yotsov, Suna Dinçer --> 124, 255
+Bilgin Canaz, Tahir Aydoğdu --> 124, 278
+Nevriye Alieva, Suna Dinçer --> 124, 255
+Kağan Yıldız, Serdar Barçın --> 127, 207
+Gürol Ağırbaş, Ozan Doğulu --> 129, 130
+Cem Aksel, Gürol Ağırbaş --> 129, 130, 169, 559
+Gürol Ağırbaş, Vural Şerifoğlu --> 129, 130
+Birol Ağırbaş, Gürol Ağırbaş --> 129, 130, 131
+Cem Aksel, Ozan Doğulu --> 129, 130
+Ozan Doğulu, Vural Şerifoğlu --> 129, 130
+Birol Ağırbaş, Ozan Doğulu --> 129, 130
+Cem Aksel, Vural Şerifoğlu --> 129, 130
+Birol Ağırbaş, Cem Aksel --> 129, 130
+Birol Ağırbaş, Vural Şerifoğlu --> 129, 130
+Bülent Ortaçgil, Gürol Ağırbaş --> 130, 131, 169
+Erkan Oğur, Gürol Ağırbaş --> 130, 169
+Akın Eldes, Gürol Ağırbaş --> 130, 131, 559
+Bülent Ortaçgil, Cem Aksel --> 130, 169, 207
+Akın Eldes, Cem Aksel --> 130, 518, 559, 738, 1093
+Bülent Ortaçgil, Erkan Oğur --> 130, 169, 489, 886
+Bülent Ortaçgil, Bülent Ortaçgil --> 130, 131, 169, 207, 489, 886
+Akın Eldes, Bülent Ortaçgil --> 130, 131, 489
+Birol Ağırbaş, Bülent Ortaçgil --> 130, 131
+Akın Eldes, Erkan Oğur --> 130, 225, 489, 518, 1011
+Erkan Oğur, Mısırlı Ahmet --> 130, 683
+Akın Eldes, Birol Ağırbaş --> 130, 131
+Arıkan Sırakaya, Aydın Karabulut --> 131, 917
+Derin Bayhan, Emre Tankal --> 131, 287, 656
+Birsen Tezer, Bülent Ortaçgil --> 131, 489
+Birsen Tezer, Elif Çağlar --> 131, 727
+Birsen Tezer, Emre Tankal --> 131, 250
+Akın Eldes, Birsen Tezer --> 131, 489
+Ceylan Ertem, Elif Çağlar --> 131, 726
+Ceylan Ertem, Şevval Sam --> 131, 713
+Akın Eldes, Sinan Cem Eroğlu --> 131, 438, 1011
+Demirhan Baylan, Selen Gülün --> 132, 220, 982
+Selen Gülün, Siney Yılmaz --> 132, 558, 1156
+Emre Malikler, Selen Gülün --> 132, 1166
+Cengiz Baysal, Cenk Erdoğan --> 132, 547
+Cenk Erdoğan, Halil İbrahim Işık --> 132, 1145
+Serhan Erkol, Siney Yılmaz --> 132, 558, 1156
+Halil İbrahim Işık, Siney Yılmaz --> 132, 369
+Ozan Musluoğlu, Uraz Kıvaner --> 134, 712, 841
+Ferit Odman, Uraz Kıvaner --> 134, 712, 841
+Bobo Stenson, Okay Temiz --> 137, 248, 571, 799
+Bronislav Suchanek, Okay Temiz --> 137, 629
+Bobo Stenson, Lennart Aberg --> 137, 248, 571, 799
+Bronislav Suchanek, Lennart Aberg --> 137, 629
+Gizay Büyükdoğanay, Kaan Büyükdoğanay --> 138, 1164
+Gizay Büyükdoğanay, Mehmet Mutlu --> 138, 1164
+Gizay Büyükdoğanay, Yarkın Tuncer --> 138, 1164
+Gizay Büyükdoğanay, Özcan Yılmaz --> 138, 1164
+Kaan Büyükdoğanay, Mehmet Mutlu --> 138, 1164
+Kaan Büyükdoğanay, Yarkın Tuncer --> 138, 1164
+Kaan Büyükdoğanay, Özcan Yılmaz --> 138, 1164
+Mehmet Mutlu, Yarkın Tuncer --> 138, 1164
+Mehmet Mutlu, Özcan Yılmaz --> 138, 1164
+Yarkın Tuncer, Özcan Yılmaz --> 138, 1164
+Göksun Çavdar, Volkan Öktem --> 142, 429
+Uğur Varol, Uğur Varol --> 142, 1165
+Göksun Çavdar, Göksun Çavdar --> 142, 222, 429, 443, 643, 664, 678, 952, 1130
+Sendur Güzelel, Sendur Güzelel --> 142, 540
+Sedat Anar, Tuncay Korkmaz --> 143, 219
+Kuzey Yılmaz, Sedat Anar --> 143, 219
+Kuzey Yılmaz, Tuncay Korkmaz --> 143, 219
+Genco Erkal, Zeliha Berksoy --> 145, 311
+Ayşe Karabeşe, Zeliha Berksoy --> 145, 311
+Onno Tunç, Zeliha Berksoy --> 145, 311
+Cezmi Başeğmez, Zeliha Berksoy --> 145, 311
+Zeliha Berksoy, Şenova Ülker --> 145, 311
+Levent Çoker, Zeliha Berksoy --> 145, 311
+Serdar Kalafatoğlu, Zeliha Berksoy --> 145, 311
+Ayşe Karabeşe, Genco Erkal --> 145, 311
+Genco Erkal, Onno Tunç --> 145, 311
+Cezmi Başeğmez, Genco Erkal --> 145, 311
+Genco Erkal, Şenova Ülker --> 145, 311
+Genco Erkal, Levent Çoker --> 145, 311
+Genco Erkal, Serdar Kalafatoğlu --> 145, 311
+Ayşe Karabeşe, Onno Tunç --> 145, 311
+Ayşe Karabeşe, Cezmi Başeğmez --> 145, 311
+Ayşe Karabeşe, Şenova Ülker --> 145, 311
+Ayşe Karabeşe, Levent Çoker --> 145, 311
+Ayşe Karabeşe, Serdar Kalafatoğlu --> 145, 311
+Cezmi Başeğmez, Onno Tunç --> 145, 311, 494, 884
+Onno Tunç, Şenova Ülker --> 145, 311
+Levent Çoker, Onno Tunç --> 145, 311
+Onno Tunç, Serdar Kalafatoğlu --> 145, 311
+Cezmi Başeğmez, Şenova Ülker --> 145, 311
+Cezmi Başeğmez, Levent Çoker --> 145, 311
+Cezmi Başeğmez, Serdar Kalafatoğlu --> 145, 311
+Levent Çoker, Şenova Ülker --> 145, 311, 886
+Serdar Kalafatoğlu, Şenova Ülker --> 145, 311
+Levent Çoker, Serdar Kalafatoğlu --> 145, 311
+Kıvılcım Konca, Necmi Taşkıran --> 147, 583
+Güç Başar Gülle, Volkan Hürsever --> 152, 153, 495
+Hüsnü Şenlendirici, Nurhat Şensesli --> 154, 458
+Hüsnü Şenlendirici, Volkan Öktem --> 154, 458, 531, 1009
+Hüsnü Şenlendirici, Mehmet Akatay --> 154, 458, 478, 531, 766, 1140
+Hüsnü Şenlendirici, Özkan Alıcı --> 154, 458
+Hüsnü Şenlendirici, Nuri Lekesizgöz --> 154, 458, 766, 1030, 1140
+Ergun Hepbildik, Hüsnü Şenlendirici --> 154, 458
+Nurhat Şensesli, Volkan Öktem --> 154, 458
+Mehmet Akatay, Nurhat Şensesli --> 154, 458
+Nurhat Şensesli, Özkan Alıcı --> 154, 458
+Nurhat Şensesli, Nuri Lekesizgöz --> 154, 458
+Ergun Hepbildik, Nurhat Şensesli --> 154, 458
+Volkan Öktem, Özkan Alıcı --> 154, 458
+Nuri Lekesizgöz, Volkan Öktem --> 154, 458
+Ergun Hepbildik, Volkan Öktem --> 154, 458
+Mehmet Akatay, Özkan Alıcı --> 154, 458
+Mehmet Akatay, Nuri Lekesizgöz --> 154, 458, 766, 1140
+Ergun Hepbildik, Mehmet Akatay --> 154, 458
+Nuri Lekesizgöz, Özkan Alıcı --> 154, 458
+Ergun Hepbildik, Özkan Alıcı --> 154, 458
+Ergun Hepbildik, Nuri Lekesizgöz --> 154, 458
+Altay Acar, Burak Dursun --> 156, 335, 976
+Ahmet Kazım Müftüoğlu, Barış Dağhan --> 156, 582
+Barış Dağhan, Efe Gazi --> 156, 582
+Barış Dağhan, Burak Dursun --> 156, 582
+Ahmet Kazım Müftüoğlu, Efe Gazi --> 156, 582
+Ahmet Kazım Müftüoğlu, Burak Dursun --> 156, 582
+Burak Dursun, Efe Gazi --> 156, 582
+Jack Butler, Peter Salvucci --> 157, 996
+Attila Ozan Keskin, Peter Salvucci --> 157, 996
+Aaron Goldsmith, Peter Salvucci --> 157, 996
+Attila Ozan Keskin, Jack Butler --> 157, 996
+Aaron Goldsmith, Jack Butler --> 157, 996
+Aaron Goldsmith, Attila Ozan Keskin --> 157, 996
+Baran Say, Bilal Karaman --> 159, 664, 665, 666
+Bilal Karaman, Semih Çelikel --> 159, 665, 666
+Baran Say, Semih Çelikel --> 159, 665, 666
+Erhan Seçkin, Kamil Erdem --> 161, 562
+Erdem Sökmen, İsmail Soyberk --> 162, 1062
+İmer Demirer, İsmail Soyberk --> 162, 354
+Cansu Nihal Akarsu, Halil Çağlar Serin --> 164, 408
+Barış Ertürk, Tunç Çakır --> 165, 887, 1145
+Burçin Büke, İlhan Şeşen --> 168, 581
+Berkay Özideş, Burçin Büke --> 168, 581
+Burçin Büke, Kürşat Başar --> 168, 581
+Berkay Özideş, İlhan Şeşen --> 168, 581
+Kürşat Başar, İlhan Şeşen --> 168, 581
+Berkay Özideş, Kürşat Başar --> 168, 581
+Arto Tunçboyacıyan, Erkan Oğur --> 169, 925
+Erkan Oğur, Ferruh Yarkın --> 169, 354
+Ercan Irmak, Erkan Oğur --> 169, 233, 461, 518, 815
+Arto Tunçboyacıyan, Aydın Esen --> 169, 1081
+Cem Aksel, Ercan Irmak --> 169, 233, 518
+Çağıl Kaya, Ülkü Aybala Sunat --> 170, 558
+Serhan Erkol, Ülkü Aybala Sunat --> 170, 558, 727
+Amy Salsgiver, Ülkü Aybala Sunat --> 170, 1176
+Şevket Akıncı, Şirin Soysal --> 172, 1176
+Cansun Küçüktürk, Şirin Soysal --> 172, 1176
+Tamer Temel, Şirin Soysal --> 172, 711
+Ertan Şahin, Şirin Soysal --> 172, 1176
+Amy Salsgiver, Şirin Soysal --> 172, 1176
+Gülşah Erol, Şirin Soysal --> 172, 1176
+Fatih Serenci, Şirin Soysal --> 172, 1176
+Kağan Yıldız, Şevket Akıncı --> 172, 947
+Cansun Küçüktürk, Kağan Yıldız --> 172, 1156
+Cansun Küçüktürk, Şevket Akıncı --> 172, 187, 1176
+Ertan Şahin, Şevket Akıncı --> 172, 1176
+Amy Salsgiver, Şevket Akıncı --> 172, 947, 1176
+Gülşah Erol, Şevket Akıncı --> 172, 1176
+Fatih Serenci, Şevket Akıncı --> 172, 1176
+Cansun Küçüktürk, Tamer Temel --> 172, 392
+Cansun Küçüktürk, Ertan Şahin --> 172, 1176
+Amy Salsgiver, Cansun Küçüktürk --> 172, 1176
+Cansun Küçüktürk, Gülşah Erol --> 172, 1176
+Cansun Küçüktürk, Fatih Serenci --> 172, 1176
+Sumru Ağıryürüyen, Tamer Temel --> 172, 448
+Amy Salsgiver, Ertan Şahin --> 172, 1176
+Ertan Şahin, Gülşah Erol --> 172, 1176
+Ertan Şahin, Fatih Serenci --> 172, 1176
+Amy Salsgiver, Gülşah Erol --> 172, 1176
+Amy Salsgiver, Fatih Serenci --> 172, 1176
+Fatih Serenci, Gülşah Erol --> 172, 1176
+Berke Özgümüş, Volkan Topakoğlu --> 177, 557
+Barış Ertürk, Volkan Topakoğlu --> 177, 264
+Berke Özgümüş, Eylül Biçer --> 177, 216
+Barış Ertürk, Berke Özgümüş --> 177, 183
+Halil Çağlar Serin, Tolga Bilgin --> 178, 408
+Volkan Ergen, Özgün Tuncer --> 179, 471
+Burak Cihangirli, Volkan Ergen --> 179, 330, 471
+Burak Cihangirli, Özgün Tuncer --> 179, 471
+Dilan Balkay, Evrencan Gündüz --> 180, 745
+Dilan Balkay, Uğurcan Mamuzlu --> 180, 566
+Akay Temiz, Okay Temiz --> 181, 315, 623, 632, 657
+Ergün Şenlendirici, Okay Temiz --> 181, 361, 657
+Akay Temiz, Ergün Şenlendirici --> 181, 657
+Barış Ertürk, Selen Gülün --> 183, 558
+Barış Ertürk, Ozan Musluoğlu --> 183, 947, 1145
+Berke Özgümüş, Serhan Erkol --> 183, 279
+Berke Özgümüş, Bulut Gülen --> 183, 1095
+Barış Ertürk, Engin Recepoğulları --> 183, 1145
+Barış Ertürk, Serhan Erkol --> 183, 558, 887, 947, 1145
+Barış Ertürk, Bulut Gülen --> 183, 1145
+Barış Ertürk, Halil İbrahim Işık --> 183, 1145
+Barış Doğukan Yazıcı, Barış Ertürk --> 183, 264, 1145
+Tolga Tüzün, Uluğ Aydeniz --> 188, 749
+Sahir Ünal, Tolga Tüzün --> 188, 749
+Sahir Ünal, Uluğ Aydeniz --> 188, 749
+Gökhan Ulusoy, Öner Karaçuha --> 189, 1104
+Çağatay Vural, Öner Karaçuha --> 189, 1104
+Can Kandaz, Öner Karaçuha --> 189, 1104
+Gökhan Ulusoy, Çağatay Vural --> 189, 1104
+Can Kandaz, Gökhan Ulusoy --> 189, 1104
+Can Kandaz, Çağatay Vural --> 189, 1104
+Engin Özşahin, Enver Muhamedi --> 190, 1120
+Ekin Cengizkan, Engin Özşahin --> 190, 1120
+Bulut Gülen, Engin Özşahin --> 190, 1120
+Ekin Cengizkan, Enver Muhamedi --> 190, 407, 511, 616, 817, 844, 1039, 1120
+Bulut Gülen, Enver Muhamedi --> 190, 407, 616, 1120
+Eren Turgut, Işıl Kahraman --> 191, 731
+Erkan Zeki Ar, Işıl Kahraman --> 191, 731
+Eren Turgut, Erkan Zeki Ar --> 191, 594, 731, 1000
+Bora Çeliker, Burak Bedikyan --> 193, 1010
+Eric Revis, İmer Demirer --> 193, 482
+Mert Can Dursun, Muaz Ceyhan --> 195, 900
+Mehmet Ali Şimayli, Muaz Ceyhan --> 195, 899
+Muaz Ceyhan, Naci Oğuz --> 195, 899, 900
+Muaz Ceyhan, Niko Doğu --> 195, 899, 900
+Esmani Kılıç, Muaz Ceyhan --> 195, 899, 900
+Mert Can Dursun, Naci Oğuz --> 195, 900
+Mert Can Dursun, Niko Doğu --> 195, 900
+Esmani Kılıç, Mert Can Dursun --> 195, 900
+Mehmet Ali Şimayli, Naci Oğuz --> 195, 899
+Mehmet Ali Şimayli, Niko Doğu --> 195, 899
+Esmani Kılıç, Mehmet Ali Şimayli --> 195, 899
+Naci Oğuz, Niko Doğu --> 195, 899, 900
+Esmani Kılıç, Naci Oğuz --> 195, 899, 900
+Esmani Kılıç, Niko Doğu --> 195, 899, 900
+Ateş Tezer, Mahmut Yalay --> 197, 637, 891
+Mahmut Yalay, Sarp Maden --> 197, 637, 749
+Ateş Tezer, Sarp Maden --> 197, 637
+Engin Recepoğulları, Sebastian Studnitzky --> 198, 1127
+Sebastian Studnitzky, Volkan Öktem --> 198, 1127
+Sarp Maden, Sebastian Studnitzky --> 198, 1127
+Orhan Deniz, Ülkü Aybala Sunat --> 198, 727, 728
+Orhan Deniz, Şentürk Öztaş --> 198, 844
+Ediz Hafızoğlu, Ülkü Aybala Sunat --> 198, 727, 728
+Engin Recepoğulları, Ülkü Aybala Sunat --> 198, 727
+Barış Doğukan Yazıcı, Ülkü Aybala Sunat --> 198, 727, 728
+Bulut Gülen, Ülkü Aybala Sunat --> 198, 728
+Selen Gülün, Ülkü Aybala Sunat --> 198, 558
+Elif Çağlar, Ülkü Aybala Sunat --> 198, 727
+Korhan Futacı, Ülkü Aybala Sunat --> 198, 727
+Deniz Taşar, Şentürk Öztaş --> 198, 245, 795
+Deniz Mahir Kartal, Sarp Maden --> 199, 473
+Emir Ersoy, Ercüment Orkut --> 199, 1173
+Deniz Mahir Kartal, Ercüment Orkut --> 199, 473
+Emir Ersoy, Volkan Öktem --> 199, 572, 1173
+Cenk Erdoğan, Emir Ersoy --> 199, 572
+Caner Üstündağ, Volkan Öktem --> 199, 730, 896
+Abbas Karacan, Cenk Erdoğan --> 199, 1125
+Bilge Günaydın, Esra Kayıkçı --> 200, 279
+Ediz Hafızoğlu, Esra Kayıkçı --> 200, 201
+Engin Recepoğulları, Esra Kayıkçı --> 200, 201
+Cenk Erdoğan, Esra Kayıkçı --> 201, 279
+Esra Kayıkçı, Hakan Kamalı --> 201, 918
+Ercüment Orkut, Gizem Korkmaz --> 201, 442
+Ercüment Orkut, Seda Subaşı --> 201, 442, 484
+Ercüment Orkut, Erman İmayhan --> 201, 442, 484, 952
+Erman İmayhan, Volkan Hürsever --> 201, 952
+Ediz Hafızoğlu, Seda Subaşı --> 201, 484
+Ediz Hafızoğlu, Erman İmayhan --> 201, 484, 952
+Engin Recepoğulları, Erman İmayhan --> 201, 952
+Gizem Korkmaz, Seda Subaşı --> 201, 442
+Erman İmayhan, Gizem Korkmaz --> 201, 442
+Erman İmayhan, Seda Subaşı --> 201, 442, 484
+Sabina Sciubba, İlhan Erşahin --> 202, 766
+Wax Poetic (Grup), İlhan Erşahin --> 202, 270, 520, 766, 781, 1129
+Sabina Sciubba, Wax Poetic (Grup) --> 202, 766
+Herman Artuç, Roni Aran --> 203, 836, 873, 969, 1024, 1063
+Nevzat Yılmaz, İsmail Soyberk --> 205, 354
+Bülent Ay, Nevzat Yılmaz --> 205, 354
+Barış Bölükbaşı, Nevzat Yılmaz --> 205, 354, 414
+Nevzat Yılmaz, Nevzat Yılmaz --> 205, 316, 354, 414, 668, 1125, 1165
+Bülent Ay, İsmail Soyberk --> 205, 354
+Barış Bölükbaşı, İsmail Soyberk --> 205, 354
+Çağdaş Oruç, İsmail Soyberk --> 205, 917
+Barış Bölükbaşı, Bülent Ay --> 205, 354
+Çağdaş Oruç, Çağdaş Oruç --> 205, 232, 264, 374, 442, 604, 655, 658, 701, 894, 917, 976, 1077, 1151, 1173, 1176
+Utku Akyol, Çağdaş Oruç --> 205, 1077
+Gökay Gökşen, Utku Akyol --> 205, 391, 588, 596, 1169
+Özcan Yılmaz, Özcan Yılmaz --> 205, 1164
+Baki Duyarlar, Banu Kanıbelli --> 207, 1156
+Banu Kanıbelli, Kağan Yıldız --> 207, 1156
+Banu Kanıbelli, Serhan Erkol --> 207, 1156
+Bülent Ortaçgil, Şenova Ülker --> 207, 886
+Serdar Barçın, Şenova Ülker --> 207, 531, 678, 1055
+Barış Demirel, Nihal Saruhanlı --> 211, 405
+Ayşe Gencer, Serkan Özyılmaz --> 214, 777
+Ayşe Gencer, İmer Demirer --> 214, 777
+Serkan Özyılmaz, Tunç Çakır --> 214, 224
+Ercüment Ateş, Eylem Pelit --> 215, 461, 462, 531
+Berke Özgümüş, Can Çankaya --> 216, 1095
+Arto Tunçboyacıyan, Vahagn Hayrapetyan --> 217, 349, 394, 475, 617, 644, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Arto Tunçboyacıyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Arto Tunçboyacıyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arto Tunçboyacıyan, Vardan Grigoryan --> 217, 341, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Arto Tunçboyacıyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Arto Tunçboyacıyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Arto Tunçboyacıyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Vahagn Hayrapetyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+David Nalchajyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Tigran Suchyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Norayr Kartashyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Vahagn Hayrapetyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Vahagn Hayrapetyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+David Nalchajyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Tigran Suchyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Norayr Kartashyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Vardan Arakelyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Vardan Arakelyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Armen Hyusnunts --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Arman Jalalyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Armen Ayvazyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Arman Jalalyan, Armenian Navy Band --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Armen Hyusnunts --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Armen Hyusnunts --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Hyusnunts, Armenian Navy Band --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+David Nalchajyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+David Nalchajyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+David Nalchajyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, David Nalchajyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Norayr Kartashyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Tigran Suchyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Tigran Suchyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Ashot Harutiunyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Ashot Harutiunyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Norayr Kartashyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Norayr Kartashyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armenian Navy Band, Vardan Grigoryan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Armen Ayvazyan --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Anahit Artushyan, Armenian Navy Band --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Armen Ayvazyan, Armenian Navy Band --> 217, 349, 475, 617, 736, 927, 941, 956, 1084, 1098, 1174
+Hasan Kunt Yılmaz, Selçuk Güllü --> 218, 283
+Carlos Valderrama, Selçuk Güllü --> 218, 283
+Cameron Dean, Selçuk Güllü --> 218, 283
+Carlos Valderrama, Hasan Kunt Yılmaz --> 218, 283
+Cameron Dean, Hasan Kunt Yılmaz --> 218, 283
+Cameron Dean, Carlos Valderrama --> 218, 283
+Cengiz Baysal, İlker Özalp --> 220, 224, 555, 982, 1159, 1161
+Selen Gülün, İlker Özalp --> 220, 555, 982, 1161
+Sarp Maden, İlker Özalp --> 220, 555
+Demirhan Baylan, İlker Özalp --> 220, 982
+Demirhan Baylan, Sarp Maden --> 220, 466, 917
+Bahadır Tatlıöz, Yasin Bozkurt --> 221, 1092
+Kağan Yıldız, Kerem Türkaydın --> 222, 911
+Adem Gülşen, Emre Kayhan --> 222, 1176
+Emre Kayhan, Ferit Odman --> 222, 1077, 1078
+Emre Kayhan, Serhan Erkol --> 222, 1077, 1078
+Emre Kayhan, İmer Demirer --> 222, 482, 1074, 1075, 1077, 1078
+Göksun Çavdar, Şenova Ülker --> 222, 678
+Gautier Laurent, Murat Öztürk --> 223, 273
+Cengiz Baysal, Sibel Gürsoy --> 224, 1152, 1159, 1161
+Serkan Özyılmaz, İlker Özalp --> 224, 1159, 1161
+Serkan Özyılmaz, Sibel Gürsoy --> 224, 1159, 1161
+Sibel Gürsoy, İlker Özalp --> 224, 1159, 1161
+Burak Kaya, Ozan Musluoğlu --> 226, 490
+Burak Kaya, Yinon Muallem --> 226, 490
+Ozan Musluoğlu, Yinon Muallem --> 226, 447, 490
+Oğuz Büyükberber, Tolga Tüzün --> 227, 504, 749, 774, 830, 983, 1116
+Can Kozlu, Oğuz Büyükberber --> 227, 774
+Tolga Tüzün, Çağlayan Yıldız --> 227, 749, 774, 993, 1116
+Can Kozlu, Tolga Tüzün --> 227, 774, 993
+Tobias Klein, Tolga Tüzün --> 227, 774
+Can Kozlu, Çağlayan Yıldız --> 227, 774, 993
+Tobias Klein, Çağlayan Yıldız --> 227, 774
+Can Kozlu, Tobias Klein --> 227, 774
+Aşkın Arsunan, Volkan Öktem --> 228, 705, 706, 788, 1020, 1021
+Aşkın Arsunan, Batu Şallıel --> 228, 705, 706
+Aşkın Arsunan, Şenova Ülker --> 228, 706, 788
+Aycan Teztel, Aşkın Arsunan --> 228, 705, 706, 788, 1020, 1021
+Kağan Yıldız, Tolga Bilgin --> 228, 1079
+Aycan Teztel, Kağan Yıldız --> 228, 309
+Anıl Şallıel, Volkan Öktem --> 228, 332, 422, 896
+Tolga Bilgin, Volkan Öktem --> 228, 332
+Barış Doğukan Yazıcı, Batu Şallıel --> 228, 975, 976
+Batu Şallıel, Tolga Bilgin --> 228, 332, 1130
+Anıl Şallıel, Tolga Bilgin --> 228, 332, 1130
+Anıl Şallıel, Aycan Teztel --> 228, 332, 422
+Barış Doğukan Yazıcı, Burak Dursun --> 228, 976
+Aycan Teztel, Barış Doğukan Yazıcı --> 228, 572, 975
+Aycan Teztel, Tolga Bilgin --> 228, 332, 1048
+Baki Duyarlar, Mehmet Akatay --> 232, 552
+Baki Duyarlar, Derya Türkan --> 232, 579
+Derya Türkan, Kağan Yıldız --> 232, 447
+Derya Türkan, Şenova Ülker --> 232, 579
+Baki Duyarlar, Ercan Irmak --> 233, 815
+Cem Aksel, Nezih Yeşilnil --> 233, 538
+Erkan Oğur, Nezih Yeşilnil --> 233, 886
+Nezih Yeşilnil, Şenova Ülker --> 233, 331, 886
+Aycan Teztel, Erkan Oğur --> 233, 354
+Seda Subaşı, Şenova Ülker --> 233, 442, 484
+Deniz Yücel, Şenova Ülker --> 233, 442, 484
+Aycan Teztel, Seda Subaşı --> 233, 442
+Aycan Teztel, Deniz Yücel --> 233, 442
+Deniz Yücel, Seda Subaşı --> 233, 442, 484
+Doğancan Vural, Yiğit Tornacı --> 235, 583, 895, 1004
+Erdem Göymen, Yiğit Tornacı --> 235, 895, 1004
+Mehmet Korkmaz, Yiğit Tornacı --> 235, 583, 895, 1004
+Yiğit Tornacı, Özgün Tuncer --> 235, 583, 895, 1004
+Kıvılcım Konca, Yiğit Tornacı --> 235, 583, 1004
+Doğancan Vural, Erdem Göymen --> 235, 895, 1004
+Doğancan Vural, Mehmet Korkmaz --> 235, 583, 895, 1004
+Doğancan Vural, Özgün Tuncer --> 235, 583, 895, 1004
+Doğancan Vural, Kıvılcım Konca --> 235, 583, 1004
+Erdem Göymen, Mehmet Korkmaz --> 235, 895, 1004
+Erdem Göymen, Özgün Tuncer --> 235, 895, 1004
+Erdem Göymen, Kıvılcım Konca --> 235, 1004
+Mehmet Korkmaz, Özgün Tuncer --> 235, 583, 895, 1004
+Kıvılcım Konca, Mehmet Korkmaz --> 235, 583, 1004
+Kıvılcım Konca, Özgün Tuncer --> 235, 318, 583, 1004
+Andrea Romani, Apostolos Sideris --> 236, 437, 979
+Andrea Romani, Tamer Temel --> 236, 437
+Apostolos Sideris, Tamer Temel --> 236, 279, 437, 448, 875, 908
+Demirhan Baylan, Şevket Akıncı --> 238, 280
+Şenol Küçükyıldırım, Şevket Akıncı --> 238, 410, 947
+Robert Reigle, Şevket Akıncı --> 238, 517, 526, 792
+Alp Ersönmez, Çağrı Sertel --> 239, 240
+Alp Ersönmez, Ediz Hafızoğlu --> 239, 240
+Alp Ersönmez, Can Şengün --> 239, 240
+Alp Ersönmez, Engin Recepoğulları --> 239, 240
+Alp Ersönmez, Erik Truffaz --> 239, 530, 944
+Alp Ersönmez, İmer Demirer --> 239, 240
+Alp Ersönmez, Bulut Gülen --> 239, 240
+Çağrı Sertel, Ediz Hafızoğlu --> 239, 240
+Can Şengün, Çağrı Sertel --> 239, 240
+Çağrı Sertel, Engin Recepoğulları --> 239, 240
+Çağrı Sertel, İmer Demirer --> 239, 240
+Bulut Gülen, Çağrı Sertel --> 239, 240
+Can Şengün, Ediz Hafızoğlu --> 239, 240
+Ediz Hafızoğlu, Engin Recepoğulları --> 239, 240
+Ediz Hafızoğlu, İmer Demirer --> 239, 240
+Bulut Gülen, Ediz Hafızoğlu --> 239, 240
+Can Şengün, Engin Recepoğulları --> 239, 240
+Can Şengün, İmer Demirer --> 239, 240
+Bulut Gülen, Can Şengün --> 239, 240
+Engin Recepoğulları, İmer Demirer --> 239, 240
+Bulut Gülen, Engin Recepoğulları --> 239, 240
+Bulut Gülen, İmer Demirer --> 239, 240
+Ayşe Tütüncü, Ümit Kıvanç --> 241, 846
+Saruhan Erim, Ümit Kıvanç --> 241, 846
+Oğuz Büyükberber, Saruhan Erim --> 241, 1152
+Timuçin Gürer, Ümit Kıvanç --> 241, 846
+Oğuz Büyükberber, Timuçin Gürer --> 241, 1152
+Yinon Muallem, Yurdal Tokcan --> 242, 518
+Cihan Gülmez, Koray Ergünay --> 252, 480, 962
+Mustafa Kemal Emirel, Yiğit Özatalay --> 253, 1160
+Tülay Günal, Yiğit Özatalay --> 253, 1160
+Yiğit Özatalay, Ülkü Aybala Sunat --> 253, 1160
+Mustafa Kemal Emirel, Tülay Günal --> 253, 1160
+Mustafa Kemal Emirel, Ülkü Aybala Sunat --> 253, 1160
+Tülay Günal, Ülkü Aybala Sunat --> 253, 1160
+Ventsi Takev, Yıldız İbrahimova --> 255, 951
+Vasil Parmakov, Ventsi Takev --> 255, 951
+Can Ömer Uygan, Cihan Kahvecioğlu --> 258, 561, 605
+Esra Dalfidan, Franz von Chossy --> 259, 272
+Esra Dalfidan, Sean Fasciani --> 259, 272
+Esra Dalfidan, Uli Genenger --> 259, 272
+Esra Dalfidan, Tobias Klein --> 259, 272
+Franz von Chossy, Sean Fasciani --> 259, 272
+Franz von Chossy, Uli Genenger --> 259, 272
+Franz von Chossy, Tobias Klein --> 259, 272
+Sean Fasciani, Uli Genenger --> 259, 272
+Sean Fasciani, Tobias Klein --> 259, 272
+Tobias Klein, Uli Genenger --> 259, 272
+Daniel Eskens, Karsu Dönmez --> 260, 573
+Karsu Dönmez, Rory Ronde --> 260, 265
+Daniel Mester, Karsu Dönmez --> 260, 573
+Karsu Dönmez, Randell Heye --> 260, 265
+Efe Erdem, Karsu Dönmez --> 260, 573
+Daniel Eskens, Daniel Mester --> 260, 573
+Daniel Eskens, Efe Erdem --> 260, 573
+Randell Heye, Rory Ronde --> 260, 265
+Daniel Mester, Efe Erdem --> 260, 573
+Baki Duyarlar, Stanislav Mitrovic --> 261, 809
+Emin Fındıkoğlu, Şenova Ülker --> 264, 311, 497
+Emin Fındıkoğlu, İmer Demirer --> 264, 497
+Barış Ertürk, Meriç Demirkol --> 264, 947
+Barış Ertürk, Duru Tuna --> 264, 542, 1180
+Barış Ertürk, Şenova Ülker --> 264, 1145, 1164
+Meriç Demirkol, Çağdaş Oruç --> 264, 1077
+Ahmet Gülbay, Claude Mouton --> 268, 1047
+Jesse Murphy, İlhan Erşahin --> 270, 648, 763, 766, 1129
+Jochen Rueckert, İlhan Erşahin --> 270, 764, 765, 766, 806
+Marla Turner, İlhan Erşahin --> 270, 766
+Thor Madsen, İlhan Erşahin --> 270, 764, 766, 806
+Jesse Murphy, Jochen Rueckert --> 270, 766
+Jesse Murphy, Marla Turner --> 270, 766
+Jesse Murphy, Thor Madsen --> 270, 766
+Jesse Murphy, Wax Poetic (Grup) --> 270, 766, 1129
+Jochen Rueckert, Marla Turner --> 270, 766
+Jochen Rueckert, Thor Madsen --> 270, 764, 766, 806
+Jochen Rueckert, Wax Poetic (Grup) --> 270, 766
+Marla Turner, Thor Madsen --> 270, 766
+Marla Turner, Wax Poetic (Grup) --> 270, 766
+Thor Madsen, Wax Poetic (Grup) --> 270, 766
+Emir Ersoy, Eylem Pelit --> 274, 572, 1173
+Emir Ersoy, Turgut Alp Bekoğlu --> 274, 1173
+Ateş Öztürkmen, Emir Ersoy --> 274, 572
+Eylem Pelit, Serdar Barçın --> 274, 531, 1055
+Ateş Öztürkmen, Eylem Pelit --> 274, 572
+George Dumitriu, Sanem Kalfa --> 276, 713, 734
+Bilge Günaydın, Cenk Erdoğan --> 279, 936
+Berke Özgümüş, Kağan Yıldız --> 279, 1095
+Apostolos Sideris, Serhan Erkol --> 279, 448
+Berke Özgümüş, Tamer Temel --> 279, 557, 1095
+Cem Çatık, Cengiz Tural --> 282, 316
+Cengiz Tural, Tolga Şanlı --> 282, 668, 1125, 1130
+Fırat Ağacık, Sercan Debelec --> 284, 312, 380
+Adem Gülşen, Emre Tankal --> 287, 656
+Adem Gülşen, Derin Bayhan --> 287, 656
+Dilan Balkay, Mürsel Oğulcan Ava --> 290, 745, 1179
+Gökçe Gürçay, Serhan Adem --> 291, 680, 898
+Ceylan Ertem, Çağrı Sertel --> 293, 947
+Alain Blesing, Senem Diyici --> 297, 301, 553, 634, 990, 1003
+Ravy Magnifique, Senem Diyici --> 301, 553, 1003
+Philippe Botta, Senem Diyici --> 301, 553, 634, 1003
+Alain Blesing, Ravy Magnifique --> 301, 553, 1003
+Alain Blesing, Philippe Botta --> 301, 553, 634, 1003
+Philippe Botta, Ravy Magnifique --> 301, 553, 1003
+Korhan Futacı, Peter Brötzmann --> 308, 1026
+Peter Brötzmann, Umut Çağlar --> 308, 1026
+Korhan Argüden, Peter Brötzmann --> 308, 1026
+Peter Brötzmann, Özün Usta --> 308, 1026
+Jason Lindner, Tamer Pınarbaşı --> 314, 879
+Panagiotis Andreou, Tamer Pınarbaşı --> 314, 879
+Engin Kaan Günaydın, Tamer Pınarbaşı --> 314, 879
+Tamer Pınarbaşı, İsmail Lumanovski --> 314, 879, 957, 1046
+Jason Lindner, Panagiotis Andreou --> 314, 879
+Engin Kaan Günaydın, Jason Lindner --> 314, 879
+Jason Lindner, İsmail Lumanovski --> 314, 879
+Engin Kaan Günaydın, Panagiotis Andreou --> 314, 879
+Panagiotis Andreou, İsmail Lumanovski --> 314, 879
+Engin Kaan Günaydın, İsmail Lumanovski --> 314, 879
+Atilla Özdemiroğlu, Okay Temiz --> 315, 361
+Berkan Kaya, Cem Çatık --> 316, 1143
+Cengiz Tural, Nevzat Yılmaz --> 316, 668, 1125
+Cem Aksel, Şevket Akıncı --> 318, 738, 760
+Özgün Tuncer, Şevket Akıncı --> 318, 471, 837
+Ezgi Daloğlu, Şevket Akıncı --> 318, 837
+Cem Aksel, Nihal Saruhanlı --> 318, 448
+Cem Aksel, Özün Usta --> 318, 448
+Cem Aksel, Ruşen Alkar --> 318, 448
+Nihal Saruhanlı, Özün Usta --> 318, 448
+Nihal Saruhanlı, Ruşen Alkar --> 318, 448
+Ruşen Alkar, Özün Usta --> 318, 448
+Bidar, Özgün Tuncer --> 318, 360, 455, 465, 1157
+Ezgi Daloğlu, Özgün Tuncer --> 318, 837
+Aytunç Akdoğu, Oytun Ersan --> 324, 391
+Oytun Ersan, Simge Akdoğu --> 324, 391
+Aytunç Akdoğu, Simge Akdoğu --> 324, 391
+Aytunç Akdoğu, Okan Ersan --> 324, 391
+Okan Ersan, Simge Akdoğu --> 324, 391
+Ernie Watts, Kerem Görsev --> 328, 381, 829
+Ernie Watts, Kağan Yıldız --> 328, 381, 829
+Ernie Watts, Ferit Odman --> 328, 381, 829
+Nezih Yeşilnil, Önder Focan --> 331, 886, 964
+Cankut Özgül, Önder Focan --> 331, 543, 910
+Ayşegül Yeşilnil, Önder Focan --> 331, 886
+Ayşegül Yeşilnil, Nezih Yeşilnil --> 331, 886
+Cankut Özgül, Yahya Dai --> 331, 910
+Cankut Özgül, Şenova Ülker --> 331, 910
+Ayşegül Yeşilnil, Şenova Ülker --> 331, 886
+Deniz Akan, Ege Oluklu --> 334, 747
+Deniz Akan, Serkan Alagök --> 334, 747
+Deniz Akan, Tarık Temüge --> 334, 401, 747
+Ege Oluklu, Serkan Alagök --> 334, 747
+Ege Oluklu, Tarık Temüge --> 334, 747
+Serkan Alagök, Tarık Temüge --> 334, 747
+Ediz Hafızoğlu, Mehmet Akatay --> 335, 414
+Burak Dursun, Tamer Temel --> 335, 759
+Dirk Stromberg, Şevket Akıncı --> 336, 517, 792
+Erdoğan Çaplı, Kerim Çaplı --> 343, 838
+Erdoğan Çaplı, Sam Bruno --> 343, 838
+Erdoğan Çaplı, William Ryan --> 343, 838
+Kerim Çaplı, Sam Bruno --> 343, 838
+Kerim Çaplı, William Ryan --> 343, 838
+Sam Bruno, William Ryan --> 343, 838
+Fahir Atakoğlu, Horacio Hernandez --> 347, 628
+Berke Can Özcan, Korhan Futacı --> 350, 631, 695, 1086
+Berke Can Özcan, Özün Usta --> 350, 615, 631, 1086
+Ali Perret, Meriç Demirkol --> 351, 685, 686
+Meriç Demirkol, Şenol Küçükyıldırım --> 351, 947
+Fatih Erkoç, İmer Demirer --> 352, 1076, 1077
+Levent Altındağ, İsmail Soyberk --> 354, 540, 545
+Erkan Oğur, Levent Altındağ --> 354, 886
+Ümit Onartan, İmer Demirer --> 354, 749
+Baran Say, Cenk Erdoğan --> 356, 711
+Ara Dinkjian, Sokratis Sinopoulos --> 357, 825
+Gürhan Nuray, Tolga Erzurumlu --> 358, 1061
+Cahit Kutrafalı, Gürhan Nuray --> 358, 1061
+Gürhan Nuray, Stelios Xydias --> 358, 1061
+Bidar, Fırtına Kıral --> 360, 455, 465
+Tolga Tüzün, Özgün Tuncer --> 360, 471, 837
+Fırtına Kıral, Özgün Tuncer --> 360, 455, 465
+Ali Ulusoy, Özgün Tuncer --> 360, 1004
+Fahir Atakoğlu, Okay Temiz --> 361, 925
+Erdem Göymen, Tamer Temel --> 362, 711
+Nedim Nalbantoğlu, Okay Temiz --> 363, 534, 925
+Aycan Teztel, Tunç Çakır --> 367, 572, 1048
+Tunç Çakır, Volkan Öktem --> 367, 572
+Tunç Çakır, Şenova Ülker --> 367, 572, 1145
+Burak Cihangirli, Şevket Akıncı --> 369, 471
+Hayati Kafe, Jan Lundgren --> 370, 1018
+Hayati Kafe, Jan Allan --> 370, 435
+Alain Caron, Fahir Atakoğlu --> 372, 628
+Bob Franceschini, Fahir Atakoğlu --> 372, 528
+Emre Kayhan, Kerem Görsev --> 373, 482, 1077
+Emre Kayhan, Kamil Özler --> 373, 1074, 1075, 1077, 1078
+Hakan Çimenot, Kamil Özler --> 373, 1074, 1075, 1077, 1078
+Levent Çoker, Önder Focan --> 373, 886
+Emre Kayhan, Hakan Çimenot --> 373, 1074, 1075, 1077, 1078
+Aycan Teztel, Daniela Simmons --> 378, 706
+Cahit Oben, Mustafa Özkent --> 386, 402
+Cory Smythe, Timuçin Şahin --> 387, 757
+Batuhan Şallıel, Önder Focan --> 388, 389
+Mehmet Özen, Önder Focan --> 388, 389
+Erhan Seçkin, Önder Focan --> 388, 389
+Anıl Şallıel, Batuhan Şallıel --> 388, 389, 896
+Anıl Şallıel, Mehmet Özen --> 388, 389
+Anıl Şallıel, Erhan Seçkin --> 388, 389
+Batuhan Şallıel, Mehmet Özen --> 388, 389
+Batuhan Şallıel, Erhan Seçkin --> 388, 389
+Erhan Seçkin, Mehmet Özen --> 388, 389
+Anıl Şallıel, Halil İbrahim Işık --> 389, 1130
+Eyal Lovett, Yinon Muallem --> 390, 673
+Stefan Engelmann, Yinon Muallem --> 390, 673
+Eyal Lovett, Stefan Engelmann --> 390, 673
+Elif Yakarçelik, Özgür Ulusoy --> 396, 1144
+Altuğ Öncü, Elif Yakarçelik --> 396, 1144
+Altuğ Öncü, Özgür Ulusoy --> 396, 1144
+Erol Pekcan, Fatih Erkoç --> 398, 953
+Alper Durmuş, Berkan Kaya --> 399, 584, 692, 814
+Alper Durmuş, Burak Cihangirli --> 399, 584, 692, 814
+Alper Durmuş, Emre Karabulut --> 399, 584, 692, 814
+Alper Durmuş, Deniz Felder --> 399, 692, 814
+Alper Durmuş, Volkan Coşar --> 399, 692
+Alper Durmuş, Güneş Karaduman --> 399, 692
+Berkan Kaya, Burak Cihangirli --> 399, 584, 692, 814
+Berkan Kaya, Emre Karabulut --> 399, 584, 692, 814
+Berkan Kaya, Deniz Felder --> 399, 692, 814
+Berkan Kaya, Volkan Coşar --> 399, 692
+Berkan Kaya, Güneş Karaduman --> 399, 692
+Burak Cihangirli, Emre Karabulut --> 399, 584, 692, 814
+Burak Cihangirli, Deniz Felder --> 399, 692, 814
+Burak Cihangirli, Volkan Coşar --> 399, 692
+Burak Cihangirli, Güneş Karaduman --> 399, 692
+Deniz Felder, Emre Karabulut --> 399, 692, 814
+Emre Karabulut, Volkan Coşar --> 399, 692
+Emre Karabulut, Güneş Karaduman --> 399, 692
+Deniz Felder, Volkan Coşar --> 399, 692
+Deniz Felder, Güneş Karaduman --> 399, 692
+Güneş Karaduman, Volkan Coşar --> 399, 692
+Ozan Köseoğlu, Oğuz Can Köseoğlu --> 400, 401
+Deniz Akan, Oğuz Can Köseoğlu --> 400, 401
+Eren Kutlu, Oğuz Can Köseoğlu --> 400, 401
+Deniz Akan, Ozan Köseoğlu --> 400, 401
+Eren Kutlu, Ozan Köseoğlu --> 400, 401
+Deniz Akan, Eren Kutlu --> 400, 401
+Apostolos Sideris, Nihal Saruhanlı --> 405, 448
+Enver Muhamedi, Kaan Bıyıkoğlu --> 407, 511
+Enver Muhamedi, Ozan Musluoğlu --> 407, 844
+Batu Şallıel, Enver Muhamedi --> 407, 616, 1039
+Batu Şallıel, Bulut Gülen --> 407, 616
+Bulut Gülen, Yahya Dai --> 407, 1095
+Murat Çopur, Şenol Küçükyıldırım --> 410, 947
+Murat Çopur, Şevket Akıncı --> 410, 947
+Arif Mardin, Seldon Powell --> 412, 554
+Arif Mardin, Frank Wess --> 412, 554
+Arif Mardin, Pepper Adams --> 412, 554
+Arif Mardin, Mel Davis --> 412, 554
+Arif Mardin, Garnett Brown --> 412, 554
+Arif Mardin, Gene Orloff --> 412, 554
+Frank Wess, Seldon Powell --> 412, 554
+Pepper Adams, Seldon Powell --> 412, 554
+Mel Davis, Seldon Powell --> 412, 554
+Garnett Brown, Seldon Powell --> 412, 554
+Gene Orloff, Seldon Powell --> 412, 554
+Frank Wess, Pepper Adams --> 412, 554
+Frank Wess, Mel Davis --> 412, 554
+Frank Wess, Garnett Brown --> 412, 554
+Frank Wess, Gene Orloff --> 412, 554
+Mel Davis, Pepper Adams --> 412, 554
+Garnett Brown, Pepper Adams --> 412, 554
+Gene Orloff, Pepper Adams --> 412, 554
+Garnett Brown, Mel Davis --> 412, 554
+Gene Orloff, Mel Davis --> 412, 554
+Garnett Brown, Gene Orloff --> 412, 554
+Adem Gülşen, Asena Akan --> 416, 819
+Asena Akan, Burç Bora Uyan --> 416, 535, 819
+Asena Akan, Volkan Hürsever --> 416, 819
+Asena Akan, Cem Aksel --> 416, 819
+Asena Akan, Serhan Erkol --> 416, 819
+Asena Akan, Bulut Gülen --> 416, 535, 819
+Asena Akan, Damla Aydın --> 416, 819
+Asena Akan, Dirge Seçil Kuran --> 416, 819
+Adem Gülşen, Burç Bora Uyan --> 416, 819
+Adem Gülşen, Damla Aydın --> 416, 819
+Adem Gülşen, Dirge Seçil Kuran --> 416, 819
+Burç Bora Uyan, Volkan Hürsever --> 416, 819
+Burç Bora Uyan, Cem Aksel --> 416, 819
+Burç Bora Uyan, Serhan Erkol --> 416, 819
+Bulut Gülen, Burç Bora Uyan --> 416, 535, 819
+Burç Bora Uyan, Damla Aydın --> 416, 819
+Burç Bora Uyan, Dirge Seçil Kuran --> 416, 819
+Damla Aydın, Volkan Hürsever --> 416, 819
+Dirge Seçil Kuran, Volkan Hürsever --> 416, 819
+Cem Aksel, Damla Aydın --> 416, 819
+Cem Aksel, Dirge Seçil Kuran --> 416, 819
+Damla Aydın, Serhan Erkol --> 416, 819
+Dirge Seçil Kuran, Serhan Erkol --> 416, 819
+Bulut Gülen, Damla Aydın --> 416, 819
+Bulut Gülen, Dirge Seçil Kuran --> 416, 819
+Damla Aydın, Dirge Seçil Kuran --> 416, 819
+Volkan Hürsever, Yavuz Akyazıcı --> 418, 625, 1090, 1124
+Barış Demirel, Ege Türkmenler --> 419, 769, 987
+Aycan Teztel, Erkan Kenç --> 422, 462, 975
+Erkan Kenç, Volkan Öktem --> 422, 462
+Erkan Kenç, Şenova Ülker --> 422, 462
+Cengiz Özdemir, Okay Temiz --> 423, 657, 925, 1062
+Ertan Tekin, Mustafa Eke --> 425, 1153
+Neil Swainson, Orhan Demir --> 427, 754, 801, 802, 1040
+Barry Elmes, Orhan Demir --> 427, 754, 801, 802, 1040
+Barry Elmes, Neil Swainson --> 427, 754, 801, 802, 1040
+Birol Yayla, Engin Gürkey --> 428, 461
+Engin Gürkey, Ercan Irmak --> 428, 461
+Birol Yayla, Ercan Irmak --> 428, 461
+Ercan Irmak, Hüsnü Şenlendirici --> 428, 531
+Göksun Çavdar, Mert Topel --> 429, 678
+Eylem Pelit, Göksun Çavdar --> 429, 443
+Doğan Doğusel, Hüseyin Ertunç --> 431, 631, 1037, 1086
+Hüseyin Ertunç, Umut Çağlar --> 431, 631, 1037, 1086
+Doğan Doğusel, Umut Çağlar --> 431, 631, 1037, 1086
+Kerem Görsev, Çınar Apay --> 436, 1077
+Can Kozlu, Can Kozlu --> 436, 529, 627, 774, 840, 942, 993, 1068
+Neşet Ruacan, Çınar Apay --> 436, 1075
+Hakan Çimenot, Neşet Ruacan --> 436, 1075, 1145
+Hakan Beşer, Neşet Ruacan --> 436, 886
+Çınar Apay, İmer Demirer --> 436, 1074, 1075, 1077
+Hakan Çimenot, Çınar Apay --> 436, 1074, 1075, 1077
+Hakan Beşer, İmer Demirer --> 436, 749
+Apostolos Sideris, Leo Genovese --> 437, 979
+Apostolos Sideris, Dimitris Klonis --> 437, 979
+Apostolos Sideris, Sarp Maden --> 437, 473
+Apostolos Sideris, Giannis Poulios --> 437, 979
+Dimitris Klonis, Leo Genovese --> 437, 979
+Andrea Romani, Leo Genovese --> 437, 979
+Giannis Poulios, Leo Genovese --> 437, 979
+Andrea Romani, Dimitris Klonis --> 437, 979
+Dimitris Klonis, Giannis Poulios --> 437, 979
+Andrea Romani, Giannis Poulios --> 437, 979
+Elvan Aracı, Maffy Falay (Muvaffak Falay) --> 439, 1131
+Ake Johansson, Maffy Falay (Muvaffak Falay) --> 439, 627, 1131
+Maffy Falay (Muvaffak Falay), Per-Ola Gadd --> 439, 627
+Bernt Rosengren, Maffy Falay (Muvaffak Falay) --> 439, 544, 623, 627, 632, 1131
+Ake Johansson, Elvan Aracı --> 439, 1131
+Bernt Rosengren, Elvan Aracı --> 439, 1131
+Ake Johansson, Per-Ola Gadd --> 439, 627
+Ake Johansson, Bernt Rosengren --> 439, 627, 1131
+Bernt Rosengren, Per-Ola Gadd --> 439, 627
+Fatih Oral, Lütfücan Kapucu --> 441, 451
+Fatih Oral, Oğuz Alp Erdoğmuş --> 441, 451
+Lütfücan Kapucu, Oğuz Alp Erdoğmuş --> 441, 451
+Deniz Yücel, Ercüment Orkut --> 442, 484
+Eylem Pelit, Çağdaş Oruç --> 442, 655, 701, 894, 1151, 1173
+Eylem Pelit, Seda Subaşı --> 442, 484
+Deniz Yücel, Eylem Pelit --> 442, 484
+Erman İmayhan, Eylem Pelit --> 442, 484
+Erman İmayhan, Şenova Ülker --> 442, 484
+Deniz Yücel, Erman İmayhan --> 442, 484
+Saygun Arpalı, Turhan Yükseler --> 443, 678
+Göksun Çavdar, Turhan Yükseler --> 443, 678
+Göksun Çavdar, Saygun Arpalı --> 443, 678
+Batu Şallıel, Göksun Çavdar --> 443, 1130
+Kağan Yıldız, Yinon Muallem --> 447, 1011
+Cenk Erdoğan, Yinon Muallem --> 447, 1011, 1012
+Volkan İncüvez, Yinon Muallem --> 447, 1012
+Cenk Erdoğan, Volkan İncüvez --> 447, 1012
+Ayşe Tütüncü, Sumru Ağıryürüyen --> 448, 518, 846
+Apostolos Sideris, Cem Aksel --> 448, 875
+Cem Aksel, Sumru Ağıryürüyen --> 448, 518
+Özün Usta, Özün Usta --> 448, 486, 615, 631, 867, 1026, 1086
+Dilan Balkay, Onur Güney Kumaş --> 452, 566, 818
+Bidar, Can Arsoy --> 455, 465, 1111
+Bidar, Eren Turgut --> 455, 465, 1111
+Bidar, Durul Canberk İres --> 455, 465
+Can Arsoy, Eren Turgut --> 455, 465, 1111
+Can Arsoy, Fırtına Kıral --> 455, 465
+Can Arsoy, Durul Canberk İres --> 455, 465
+Can Arsoy, Özgün Tuncer --> 455, 465
+Durul Canberk İres, Eren Turgut --> 455, 465
+Eren Turgut, Özgün Tuncer --> 455, 465
+Durul Canberk İres, Fırtına Kıral --> 455, 465
+Durul Canberk İres, Özgün Tuncer --> 455, 465
+Christian Pabst, Yaşam Hancılar --> 456, 970
+Marco Zenini, Yaşam Hancılar --> 456, 970
+Christian Pabst, Marco Zenini --> 456, 970
+Artun Sürmeli, Mehmet Alper Berksü --> 461, 462
+Artun Sürmeli, Eylem Pelit --> 461, 462
+Artun Sürmeli, Volkan Öktem --> 461, 462
+Artun Sürmeli, Ercüment Ateş --> 461, 462
+Artun Sürmeli, Şenova Ülker --> 461, 462
+Artun Sürmeli, Şenol Filiz --> 461, 462
+Artun Sürmeli, Birol Yayla --> 461, 462
+Eylem Pelit, Mehmet Alper Berksü --> 461, 462
+Mehmet Alper Berksü, Volkan Öktem --> 461, 462
+Ercüment Ateş, Mehmet Alper Berksü --> 461, 462
+Mehmet Alper Berksü, Şenova Ülker --> 461, 462
+Mehmet Alper Berksü, Şenol Filiz --> 461, 462
+Birol Yayla, Mehmet Alper Berksü --> 461, 462
+Eylem Pelit, Şenol Filiz --> 461, 462
+Birol Yayla, Eylem Pelit --> 461, 462
+Volkan Öktem, Şenol Filiz --> 461, 462
+Birol Yayla, Volkan Öktem --> 461, 462
+Ercüment Ateş, Erkan Oğur --> 461, 683
+Ercan Irmak, Ercüment Ateş --> 461, 531
+Ercüment Ateş, Şenol Filiz --> 461, 462
+Birol Yayla, Ercüment Ateş --> 461, 462
+Şenol Filiz, Şenova Ülker --> 461, 462, 984
+Birol Yayla, Şenova Ülker --> 461, 462
+Birol Yayla, Şenol Filiz --> 461, 462
+Feyza Eren, Ryan Marquez --> 463, 499, 796
+Feyza Eren, Ric Vice --> 463, 483, 499, 796
+Ric Vice, Ryan Marquez --> 463, 499, 796
+Ryan Marquez, Steve Davis --> 463, 499, 796
+Ric Vice, Steve Davis --> 463, 483, 499, 796
+Larry Grenadier, İlhan Erşahin --> 464, 766, 1121
+Keny Wollesen, İlhan Erşahin --> 464, 648, 805, 921
+Martin Lillich, Sema Moritz --> 468, 533
+Sema Moritz, Uli Moritz --> 468, 533
+Lothar Hensel, Sema Moritz --> 468, 533
+Charlie Mariano, Sema Moritz --> 468, 533
+Kamalesh Maitra, Sema Moritz --> 468, 533
+Martin Lillich, Uli Moritz --> 468, 533
+Lothar Hensel, Martin Lillich --> 468, 533
+Charlie Mariano, Martin Lillich --> 468, 533
+Kamalesh Maitra, Martin Lillich --> 468, 533
+Lothar Hensel, Uli Moritz --> 468, 533
+Charlie Mariano, Uli Moritz --> 468, 533
+Kamalesh Maitra, Uli Moritz --> 468, 533
+Charlie Mariano, Lothar Hensel --> 468, 533
+Kamalesh Maitra, Lothar Hensel --> 468, 533
+Charlie Mariano, Kamalesh Maitra --> 468, 533
+Volkan Ergen, Şevket Akıncı --> 471, 517
+Tolga Tüzün, Şevket Akıncı --> 471, 837
+Alper Maral, Tolga Tüzün --> 471, 749, 1116
+Apostolos Sideris, Cengiz Baysal --> 473, 908
+Gürcan Konanç, Koray Ergünay --> 480, 935, 962
+Cihan Gülmez, Gürcan Konanç --> 480, 962
+Eric Revis, Kerem Görsev --> 482, 674, 739, 869, 1128
+Emre Kayhan, Neşet Ruacan --> 482, 1075
+Ercüment Orkut, Şenay Lambaoğlu --> 484, 1171
+Ediz Hafızoğlu, Şenay Lambaoğlu --> 484, 1171
+Cem Tuncer, Şenay Lambaoğlu --> 484, 1171
+Yahya Dai, Şenay Lambaoğlu --> 484, 1171
+Eylem Pelit, Kağan Yıldız --> 484, 1097
+Ceren Gürkan, Kağan Yıldız --> 484, 1002
+Ediz Hafızoğlu, Eylem Pelit --> 484, 1023, 1097
+Eylem Pelit, Yahya Dai --> 484, 531, 760, 1097
+Cem Tuncer, Erman İmayhan --> 484, 952
+Anthony Jackson, Fahir Atakoğlu --> 485, 528
+Fahir Atakoğlu, Horacio El Negro Hernandez --> 485, 528
+Anthony Jackson, Horacio El Negro Hernandez --> 485, 528
+Kenan Doğulu, Şenova Ülker --> 488, 572
+Alpar Lü, Başak Elkutlu --> 492, 523
+Alpar Lü, Nilgün Lü --> 492, 523
+Başak Elkutlu, Nilgün Lü --> 492, 523
+Emin Fındıkoğlu, Hasan Kocamaz --> 497, 931
+Jozi Levi, Şenova Ülker --> 497, 531
+Deniz Taşar, Halil Çağlar Serin --> 498, 1045
+Cengiz Yaltkaya, John Allen Graves (John Graves) --> 500, 501
+Cengiz Yaltkaya, Marco Piali --> 500, 501
+John Allen Graves (John Graves), Marco Piali --> 500, 501
+Ara Dinkjian, Armen Donelian --> 502, 697, 834, 1065
+Ara Dinkjian, Marc Johnson --> 502, 834
+Armen Donelian, Arto Tunçboyacıyan --> 502, 697, 834, 1065
+Arto Tunçboyacıyan, Marc Johnson --> 502, 834
+Armen Donelian, Marc Johnson --> 502, 834
+Christopher Tordini, Timuçin Şahin --> 503, 757
+Ned McGowan, Tolga Tüzün --> 504, 983
+Ned McGowan, Oğuz Büyükberber --> 504, 983
+Emin Güven, Koray Ergünay --> 505, 698
+Koray Ergünay, Kuzey Yılmaz --> 505, 698
+Emin Güven, Kuzey Yılmaz --> 505, 698
+Çağ Erçağ, Çağrı Sertel --> 512, 1145
+Engin Recepoğulları, Çağ Erçağ --> 512, 1145
+Fatih Ahıskalı, Kamil Erdem --> 513, 773
+Dave Harrington, İlhan Erşahin --> 515, 944
+Dave Harrington, Kenny Wollesen --> 515, 944
+Volkan Terzioğlu, Şevket Akıncı --> 517, 526, 792
+Mark Alban Lotz, Şevket Akıncı --> 517, 526
+Dirk Stromberg, Robert Reigle --> 517, 792
+Dirk Stromberg, Volkan Terzioğlu --> 517, 792
+Robert Reigle, Volkan Terzioğlu --> 517, 526, 792
+Mark Alban Lotz, Robert Reigle --> 517, 526
+Mark Alban Lotz, Volkan Terzioğlu --> 517, 526
+Ercan Irmak, Sumru Ağıryürüyen --> 518, 846
+Ayşe Tütüncü, Ercan Irmak --> 518, 846
+Cem Aksel, Patrick Chartol --> 518, 559
+Akın Eldes, Patrick Chartol --> 518, 559
+Akın Eldes, Yahya Dai --> 518, 738
+Akın Eldes, Yinon Muallem --> 518, 1011
+Ercan Irmak, Yahya Dai --> 518, 531
+Erkan Oğur, Yinon Muallem --> 518, 775, 1011
+Nil Karaibrahimgil, İlhan Erşahin --> 520, 1140
+Onur Aymergen, Tolga Bilgin --> 524, 653
+Jens Jefsen, Mehmet Ozan --> 525, 751
+Korhan Erel, Şevket Akıncı --> 526, 792
+Korhan Erel, Robert Reigle --> 526, 792
+Korhan Erel, Volkan Terzioğlu --> 526, 792
+Anthony Jackson, Mike Stern --> 528, 1138
+Erik Truffaz, İlhan Erşahin --> 530, 806, 944
+Istanbul Sessions (Grup), İlhan Erşahin --> 530, 532, 746, 944
+Alp Ersönmez, Istanbul Sessions (Grup) --> 530, 532, 746, 944
+Erik Truffaz, Turgut Alp Bekoğlu --> 530, 944
+Istanbul Sessions (Grup), Turgut Alp Bekoğlu --> 530, 532, 746, 944
+Erik Truffaz, İzzet Kızıl --> 530, 944
+Istanbul Sessions (Grup), İzzet Kızıl --> 530, 532, 746, 944
+Erik Truffaz, Istanbul Sessions (Grup) --> 530, 944
+Aycan Teztel, Ömer Göksel --> 531, 860, 1066
+Volkan Öktem, Ömer Göksel --> 531, 1066
+Fatih Erkoç, Ömer Göksel --> 531, 1066
+Levent Altındağ, Ömer Göksel --> 531, 1066
+Yahya Dai, Ömer Göksel --> 531, 1066
+Ömer Göksel, Şenova Ülker --> 531, 860
+Aycan Teztel, Fatih Erkoç --> 531, 916, 975, 1066
+Aycan Teztel, Yahya Dai --> 531, 1066
+Aycan Teztel, Aycan Teztel --> 531, 572, 705, 706, 788, 860, 916, 975, 1020, 1021, 1048, 1066
+Fatih Erkoç, Serkan Özyılmaz --> 531, 1076, 1077
+Ercüment Ateş, Serkan Özyılmaz --> 531, 1159
+Serdar Barçın, Serkan Özyılmaz --> 531, 1055
+Fatih Erkoç, Volkan Öktem --> 531, 916, 1066
+Fatih Erkoç, Levent Altındağ --> 531, 1066
+Fatih Erkoç, Yahya Dai --> 531, 1066
+Fatih Erkoç, Meriç Demirkol --> 531, 1077
+Fatih Erkoç, Şenova Ülker --> 531, 713
+Fatih Erkoç, Halil İbrahim Işık --> 531, 1077
+Ercüment Ateş, Yahya Dai --> 531, 683
+Levent Altındağ, Yahya Dai --> 531, 1066
+Levent Altındağ, Serdar Barçın --> 531, 1055
+Levent Altındağ, Levent Altındağ --> 531, 540, 545, 788, 884, 886, 1055, 1066, 1151
+Serdar Barçın, Serdar Barçın --> 531, 613, 636, 652, 678, 888, 917, 1055
+Okay Temiz, Yves Rousseau --> 534, 990
+Alain Blesing, Okay Temiz --> 534, 990
+Alain Blesing, Yves Rousseau --> 534, 990
+Berker Banar, Cenk Esen --> 536, 1049
+Aykan Esen, Cenk Esen --> 536, 1049
+Cenk Esen, Daniel Guerrette --> 536, 835
+Cenk Esen, Mehmet Ali Şimayli --> 536, 852, 864, 899
+Cenk Esen, Randy Esen --> 536, 852
+Cenk Esen, Kerem Can Dündar --> 536, 852, 864
+Aydın Esen, Aykan Esen --> 536, 1052
+Aykan Esen, Berker Banar --> 536, 1049
+Aykan Esen, Randy Esen --> 536, 1052
+Mehmet Ali Şimayli, Randy Esen --> 536, 852
+Kerem Can Dündar, Mehmet Ali Şimayli --> 536, 852, 864
+Kerem Can Dündar, Randy Esen --> 536, 852
+Osman İşmen, İsmail Soyberk --> 540, 545
+Emir Özoğlu, Osman İşmen --> 540, 545
+Levent Altındağ, Osman İşmen --> 540, 545
+Ercan Irmak, Osman İşmen --> 540, 545
+Mehmet Akatay, Osman İşmen --> 540, 545
+Emir Özoğlu, İsmail Soyberk --> 540, 545
+Mehmet Akatay, İsmail Soyberk --> 540, 545
+Emir Özoğlu, Levent Altındağ --> 540, 545
+Emir Özoğlu, Ercan Irmak --> 540, 545
+Emir Özoğlu, Mehmet Akatay --> 540, 545
+Barış Ertürk, Gülşah Erol --> 542, 807
+Barış Ertürk, Yiğit Can Öztop --> 542, 852
+Maffy Falay (Muvaffak Falay), Okay Temiz --> 544, 623, 624, 632
+Maffy Falay (Muvaffak Falay), Salih Baysal --> 544, 623, 624, 632
+Okay Temiz, Salih Baysal --> 544, 623, 624, 632, 1028
+Björn Alke, Okay Temiz --> 544, 1085
+Bernt Rosengren, Okay Temiz --> 544, 623, 632
+Bernt Rosengren, Salih Baysal --> 544, 623, 632
+Erol Pekcan, Tuna Ötenel --> 548, 953
+Erol Pekcan, Kudret Öztoprak --> 548, 953
+Kudret Öztoprak, Tuna Ötenel --> 548, 953
+Uğur Dikmen, Özdemir Erdoğan --> 549, 815, 933, 1016, 1108
+Ercüment Batanay, Özdemir Erdoğan --> 549, 815, 1016
+Fahrettin Çimenli, Özdemir Erdoğan --> 549, 933
+Günnur Perin, Özdemir Erdoğan --> 549, 933, 1016, 1091, 1108
+Melik Yirmibir, Özdemir Erdoğan --> 549, 1016
+Onno Tunç, Özdemir Erdoğan --> 549, 815, 933, 1016
+Asım Ekren, Özdemir Erdoğan --> 549, 933, 1016
+Cankut Özgül, Özdemir Erdoğan --> 549, 933, 1016, 1108
+Veysel Çadır, Özdemir Erdoğan --> 549, 815, 933, 1016
+Süheyl Denizci, Özdemir Erdoğan --> 549, 933, 1016
+Özdemir Erdoğan, İsmet Sıral --> 549, 933, 1016, 1091
+Alaaddin Dal, Özdemir Erdoğan --> 549, 1016
+Atakan Ünüvar, Özdemir Erdoğan --> 549, 815, 1016
+Fatih Erkoç, Özdemir Erdoğan --> 549, 933, 1016
+Akagündüz Kutbay, Özdemir Erdoğan --> 549, 933
+Süleyman Ergüner, Özdemir Erdoğan --> 549, 815
+Mehmet Horoz, Özdemir Erdoğan --> 549, 1016
+Zafer Dilek, Özdemir Erdoğan --> 549, 1016
+Bülent Şençalar, Özdemir Erdoğan --> 549, 815, 1016
+Mustafa Taşpınar, Özdemir Erdoğan --> 549, 1016
+Mehmet Erenler, Özdemir Erdoğan --> 549, 1016
+Mustafa Hisarlı, Özdemir Erdoğan --> 549, 815
+Baki Duyarlar, Özdemir Erdoğan --> 549, 815, 1016
+Osman Bayşu, Özdemir Erdoğan --> 549, 933
+Özdemir Erdoğan, İlkin Dinletir --> 549, 933
+Ercüment Batanay, Uğur Dikmen --> 549, 815, 1016
+Fahrettin Çimenli, Uğur Dikmen --> 549, 933
+Günnur Perin, Uğur Dikmen --> 549, 933, 1016, 1108
+Melik Yirmibir, Uğur Dikmen --> 549, 1016
+Onno Tunç, Uğur Dikmen --> 549, 815, 933, 1016
+Asım Ekren, Uğur Dikmen --> 549, 933, 1016
+Cankut Özgül, Uğur Dikmen --> 549, 933, 1016, 1108
+Uğur Dikmen, Veysel Çadır --> 549, 815, 933, 1016
+Süheyl Denizci, Uğur Dikmen --> 549, 933, 1016
+Uğur Dikmen, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Uğur Dikmen --> 549, 1016
+Atakan Ünüvar, Uğur Dikmen --> 549, 815, 1016
+Fatih Erkoç, Uğur Dikmen --> 549, 933, 1016
+Akagündüz Kutbay, Uğur Dikmen --> 549, 933
+Süleyman Ergüner, Uğur Dikmen --> 549, 815
+Mehmet Horoz, Uğur Dikmen --> 549, 1016
+Uğur Dikmen, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Uğur Dikmen --> 549, 815, 1016
+Mustafa Taşpınar, Uğur Dikmen --> 549, 1016
+Mehmet Erenler, Uğur Dikmen --> 549, 1016
+Mustafa Hisarlı, Uğur Dikmen --> 549, 815
+Baki Duyarlar, Uğur Dikmen --> 549, 815, 1016
+Osman Bayşu, Uğur Dikmen --> 549, 933
+Uğur Dikmen, İlkin Dinletir --> 549, 933
+Ercüment Batanay, Günnur Perin --> 549, 1016
+Ercüment Batanay, Melik Yirmibir --> 549, 1016
+Ercüment Batanay, Onno Tunç --> 549, 815, 1016
+Asım Ekren, Ercüment Batanay --> 549, 1016
+Cankut Özgül, Ercüment Batanay --> 549, 1016
+Ercüment Batanay, Veysel Çadır --> 549, 815, 1016
+Ercüment Batanay, Süheyl Denizci --> 549, 1016
+Ercüment Batanay, İsmet Sıral --> 549, 1016
+Alaaddin Dal, Ercüment Batanay --> 549, 1016
+Atakan Ünüvar, Ercüment Batanay --> 549, 815, 1016
+Ercüment Batanay, Fatih Erkoç --> 549, 1016
+Ercüment Batanay, Süleyman Ergüner --> 549, 815
+Ercüment Batanay, Mehmet Horoz --> 549, 1016
+Ercüment Batanay, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Ercüment Batanay --> 549, 815, 1016
+Ercüment Batanay, Mustafa Taşpınar --> 549, 1016
+Ercüment Batanay, Mehmet Erenler --> 549, 1016
+Ercüment Batanay, Mustafa Hisarlı --> 549, 815
+Baki Duyarlar, Ercüment Batanay --> 549, 815, 1016
+Fahrettin Çimenli, Günnur Perin --> 549, 933
+Fahrettin Çimenli, Onno Tunç --> 549, 933
+Asım Ekren, Fahrettin Çimenli --> 549, 933
+Cankut Özgül, Fahrettin Çimenli --> 549, 933
+Fahrettin Çimenli, Veysel Çadır --> 549, 933
+Fahrettin Çimenli, Süheyl Denizci --> 549, 933
+Fahrettin Çimenli, İsmet Sıral --> 549, 933
+Fahrettin Çimenli, Fatih Erkoç --> 549, 933
+Akagündüz Kutbay, Fahrettin Çimenli --> 549, 933
+Fahrettin Çimenli, Osman Bayşu --> 549, 933
+Fahrettin Çimenli, İlkin Dinletir --> 549, 933
+Günnur Perin, Melik Yirmibir --> 549, 1016
+Günnur Perin, Onno Tunç --> 549, 933, 1016
+Asım Ekren, Günnur Perin --> 549, 933, 1016
+Cankut Özgül, Günnur Perin --> 549, 933, 1016, 1108
+Günnur Perin, Veysel Çadır --> 549, 933, 1016
+Günnur Perin, Süheyl Denizci --> 549, 933, 1016
+Günnur Perin, İsmet Sıral --> 549, 933, 1016, 1091
+Alaaddin Dal, Günnur Perin --> 549, 1016
+Atakan Ünüvar, Günnur Perin --> 549, 1016
+Fatih Erkoç, Günnur Perin --> 549, 933, 1016
+Akagündüz Kutbay, Günnur Perin --> 549, 933
+Günnur Perin, Mehmet Horoz --> 549, 1016
+Günnur Perin, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Günnur Perin --> 549, 1016
+Günnur Perin, Mustafa Taşpınar --> 549, 1016
+Günnur Perin, Mehmet Erenler --> 549, 1016
+Baki Duyarlar, Günnur Perin --> 549, 1016
+Günnur Perin, Osman Bayşu --> 549, 933
+Günnur Perin, İlkin Dinletir --> 549, 933
+Melik Yirmibir, Onno Tunç --> 549, 1016
+Asım Ekren, Melik Yirmibir --> 549, 1016
+Cankut Özgül, Melik Yirmibir --> 549, 1016
+Melik Yirmibir, Veysel Çadır --> 549, 1016
+Melik Yirmibir, Süheyl Denizci --> 549, 1016
+Melik Yirmibir, İsmet Sıral --> 549, 1016
+Alaaddin Dal, Melik Yirmibir --> 549, 1016
+Atakan Ünüvar, Melik Yirmibir --> 549, 1016
+Fatih Erkoç, Melik Yirmibir --> 549, 1016
+Mehmet Horoz, Melik Yirmibir --> 549, 1016
+Melik Yirmibir, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Melik Yirmibir --> 549, 1016
+Melik Yirmibir, Mustafa Taşpınar --> 549, 1016
+Mehmet Erenler, Melik Yirmibir --> 549, 1016
+Baki Duyarlar, Melik Yirmibir --> 549, 1016
+Asım Ekren, Onno Tunç --> 549, 933, 1016
+Cankut Özgül, Onno Tunç --> 549, 933, 1016
+Onno Tunç, Veysel Çadır --> 549, 815, 933, 1016
+Onno Tunç, Süheyl Denizci --> 549, 933, 1016
+Onno Tunç, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Onno Tunç --> 549, 1016
+Atakan Ünüvar, Onno Tunç --> 549, 815, 1016
+Fatih Erkoç, Onno Tunç --> 549, 933, 1016
+Akagündüz Kutbay, Onno Tunç --> 549, 933
+Onno Tunç, Süleyman Ergüner --> 549, 815
+Mehmet Horoz, Onno Tunç --> 549, 1016
+Onno Tunç, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Onno Tunç --> 549, 815, 1016
+Mustafa Taşpınar, Onno Tunç --> 549, 1016
+Mehmet Erenler, Onno Tunç --> 549, 1016
+Mustafa Hisarlı, Onno Tunç --> 549, 815
+Baki Duyarlar, Onno Tunç --> 549, 815, 1016
+Onno Tunç, Osman Bayşu --> 549, 933
+Onno Tunç, İlkin Dinletir --> 549, 933
+Asım Ekren, Cankut Özgül --> 549, 933, 1016
+Asım Ekren, Veysel Çadır --> 549, 933, 1016
+Asım Ekren, Süheyl Denizci --> 549, 933, 1016
+Asım Ekren, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Asım Ekren --> 549, 1016
+Asım Ekren, Atakan Ünüvar --> 549, 1016
+Asım Ekren, Fatih Erkoç --> 549, 933, 1016
+Akagündüz Kutbay, Asım Ekren --> 549, 933
+Asım Ekren, Asım Ekren --> 549, 933, 1016
+Asım Ekren, Mehmet Horoz --> 549, 1016
+Asım Ekren, Zafer Dilek --> 549, 1016
+Asım Ekren, Bülent Şençalar --> 549, 1016
+Asım Ekren, Mustafa Taşpınar --> 549, 1016
+Asım Ekren, Mehmet Erenler --> 549, 1016
+Asım Ekren, Baki Duyarlar --> 549, 1016
+Asım Ekren, Osman Bayşu --> 549, 933
+Asım Ekren, İlkin Dinletir --> 549, 933
+Cankut Özgül, Veysel Çadır --> 549, 933, 1016
+Cankut Özgül, Süheyl Denizci --> 549, 933, 1016
+Cankut Özgül, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Cankut Özgül --> 549, 1016
+Atakan Ünüvar, Cankut Özgül --> 549, 1016
+Cankut Özgül, Fatih Erkoç --> 549, 933, 1016
+Akagündüz Kutbay, Cankut Özgül --> 549, 933
+Cankut Özgül, Mehmet Horoz --> 549, 1016
+Cankut Özgül, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Cankut Özgül --> 549, 1016
+Cankut Özgül, Mustafa Taşpınar --> 549, 1016
+Cankut Özgül, Mehmet Erenler --> 549, 1016
+Baki Duyarlar, Cankut Özgül --> 549, 1016
+Cankut Özgül, Osman Bayşu --> 549, 933
+Cankut Özgül, İlkin Dinletir --> 549, 933
+Süheyl Denizci, Veysel Çadır --> 549, 933, 1016
+Veysel Çadır, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Veysel Çadır --> 549, 1016
+Atakan Ünüvar, Veysel Çadır --> 549, 815, 1016, 1074, 1075, 1077
+Fatih Erkoç, Veysel Çadır --> 549, 933, 1016, 1077
+Akagündüz Kutbay, Veysel Çadır --> 549, 933
+Süleyman Ergüner, Veysel Çadır --> 549, 815
+Mehmet Horoz, Veysel Çadır --> 549, 1016
+Veysel Çadır, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Veysel Çadır --> 549, 815, 1016
+Mustafa Taşpınar, Veysel Çadır --> 549, 1016
+Mehmet Erenler, Veysel Çadır --> 549, 1016
+Mustafa Hisarlı, Veysel Çadır --> 549, 815
+Baki Duyarlar, Veysel Çadır --> 549, 815, 1016, 1075, 1077
+Osman Bayşu, Veysel Çadır --> 549, 933
+Veysel Çadır, İlkin Dinletir --> 549, 933
+Süheyl Denizci, İsmet Sıral --> 549, 933, 1016
+Alaaddin Dal, Süheyl Denizci --> 549, 1016
+Atakan Ünüvar, Süheyl Denizci --> 549, 1016, 1076
+Fatih Erkoç, Süheyl Denizci --> 549, 933, 1016, 1076
+Akagündüz Kutbay, Süheyl Denizci --> 549, 933
+Mehmet Horoz, Süheyl Denizci --> 549, 1016
+Süheyl Denizci, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Süheyl Denizci --> 549, 1016
+Mustafa Taşpınar, Süheyl Denizci --> 549, 1016
+Mehmet Erenler, Süheyl Denizci --> 549, 1016
+Baki Duyarlar, Süheyl Denizci --> 549, 1016
+Osman Bayşu, Süheyl Denizci --> 549, 933
+Süheyl Denizci, İlkin Dinletir --> 549, 933
+Alaaddin Dal, İsmet Sıral --> 549, 1016
+Atakan Ünüvar, İsmet Sıral --> 549, 1016
+Fatih Erkoç, İsmet Sıral --> 549, 933, 1016
+Akagündüz Kutbay, İsmet Sıral --> 549, 933
+Mehmet Horoz, İsmet Sıral --> 549, 1016
+Zafer Dilek, İsmet Sıral --> 549, 1016
+Bülent Şençalar, İsmet Sıral --> 549, 1016
+Mustafa Taşpınar, İsmet Sıral --> 549, 1016
+Mehmet Erenler, İsmet Sıral --> 549, 1016
+Baki Duyarlar, İsmet Sıral --> 549, 1016
+Osman Bayşu, İsmet Sıral --> 549, 933
+İlkin Dinletir, İsmet Sıral --> 549, 933
+Alaaddin Dal, Atakan Ünüvar --> 549, 1016
+Alaaddin Dal, Fatih Erkoç --> 549, 1016
+Alaaddin Dal, Mehmet Horoz --> 549, 1016
+Alaaddin Dal, Zafer Dilek --> 549, 1016
+Alaaddin Dal, Bülent Şençalar --> 549, 1016
+Alaaddin Dal, Mustafa Taşpınar --> 549, 1016
+Alaaddin Dal, Mehmet Erenler --> 549, 1016
+Alaaddin Dal, Baki Duyarlar --> 549, 1016
+Atakan Ünüvar, Fatih Erkoç --> 549, 1016, 1076, 1077
+Atakan Ünüvar, Süleyman Ergüner --> 549, 815
+Atakan Ünüvar, Mehmet Horoz --> 549, 1016
+Atakan Ünüvar, Zafer Dilek --> 549, 1016
+Atakan Ünüvar, Bülent Şençalar --> 549, 815, 1016
+Atakan Ünüvar, Mustafa Taşpınar --> 549, 1016
+Atakan Ünüvar, Mehmet Erenler --> 549, 1016
+Atakan Ünüvar, Mustafa Hisarlı --> 549, 815
+Atakan Ünüvar, Baki Duyarlar --> 549, 815, 1016, 1075, 1077
+Akagündüz Kutbay, Fatih Erkoç --> 549, 933
+Fatih Erkoç, Mehmet Horoz --> 549, 1016
+Fatih Erkoç, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Fatih Erkoç --> 549, 1016
+Fatih Erkoç, Mustafa Taşpınar --> 549, 1016
+Fatih Erkoç, Mehmet Erenler --> 549, 1016
+Baki Duyarlar, Fatih Erkoç --> 549, 1016, 1077
+Fatih Erkoç, Osman Bayşu --> 549, 933
+Fatih Erkoç, İlkin Dinletir --> 549, 933
+Akagündüz Kutbay, Osman Bayşu --> 549, 933
+Akagündüz Kutbay, İlkin Dinletir --> 549, 933
+Bülent Şençalar, Süleyman Ergüner --> 549, 815
+Mustafa Hisarlı, Süleyman Ergüner --> 549, 815
+Baki Duyarlar, Süleyman Ergüner --> 549, 815
+Mehmet Horoz, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Mehmet Horoz --> 549, 1016
+Mehmet Horoz, Mustafa Taşpınar --> 549, 1016
+Mehmet Erenler, Mehmet Horoz --> 549, 1016
+Baki Duyarlar, Mehmet Horoz --> 549, 1016
+Bülent Şençalar, Zafer Dilek --> 549, 1016
+Mustafa Taşpınar, Zafer Dilek --> 549, 1016
+Mehmet Erenler, Zafer Dilek --> 549, 1016
+Baki Duyarlar, Zafer Dilek --> 549, 1016
+Bülent Şençalar, Mustafa Taşpınar --> 549, 1016
+Bülent Şençalar, Mehmet Erenler --> 549, 1016
+Bülent Şençalar, Mustafa Hisarlı --> 549, 815
+Baki Duyarlar, Bülent Şençalar --> 549, 815, 1016
+Mehmet Erenler, Mustafa Taşpınar --> 549, 1016
+Baki Duyarlar, Mustafa Taşpınar --> 549, 1016
+Baki Duyarlar, Mehmet Erenler --> 549, 1016
+Baki Duyarlar, Mustafa Hisarlı --> 549, 815
+Osman Bayşu, İlkin Dinletir --> 549, 933
+Alpay Ünyaylar, Murat Yerinli --> 550, 551
+Alpay Ünyaylar, Türker Dinletir --> 550, 551
+Murat Yerinli, Türker Dinletir --> 550, 551
+Onur Türkmen, Selen Gülün --> 555, 982
+Onur Türkmen, İlker Özalp --> 555, 982
+İlker Özalp, Şenova Ülker --> 555, 982, 1161
+Onur Türkmen, Şenova Ülker --> 555, 982
+Başak Yavuz, Selen Gülün --> 558, 1156
+Başak Yavuz, Siney Yılmaz --> 558, 1156
+Başak Yavuz, Serhan Erkol --> 558, 1156
+Ülkü Aybala Sunat, Şirin Soysal --> 558, 1176
+Hakan Güven, Serhan Erkol --> 558, 844
+Can Ömer Uygan, Okan Kaya --> 561, 947
+Can Ömer Uygan, Cansun Küçüktürk --> 561, 1176
+Marcello Allulli, Selen Gülün --> 563, 667
+Cenk Erdoğan, Hakan Gürbüz --> 565, 1012
+Bilal Karaman, Genco Arı --> 569, 699
+Barış Doğukan Yazıcı, Tunç Çakır --> 572, 726, 1145
+Barış Doğukan Yazıcı, Eylem Pelit --> 572, 1151
+Cenk Erdoğan, Tunç Çakır --> 572, 726, 1145
+Bulut Gülen, Dolunay Obruk --> 575, 713, 1145
+Cenk Erdoğan, Gökhan Sürer --> 576, 947
+Kamil Erdem, Zafer Gerdanlı --> 577, 639, 943
+Kamil Erdem, Yahya Dai --> 577, 639, 943
+Kamil Erdem, Mısırlı Ahmet --> 577, 639
+Kamil Erdem, Turay Dinleyen --> 577, 639
+Kamil Erdem, Tahir Aydoğdu --> 577, 639, 943
+Yahya Dai, Zafer Gerdanlı --> 577, 639, 943
+Mısırlı Ahmet, Zafer Gerdanlı --> 577, 639
+Turay Dinleyen, Zafer Gerdanlı --> 577, 639
+Tahir Aydoğdu, Zafer Gerdanlı --> 577, 639, 943
+Mısırlı Ahmet, Yahya Dai --> 577, 639, 683
+Turay Dinleyen, Yahya Dai --> 577, 639
+Tahir Aydoğdu, Yahya Dai --> 577, 639, 943
+Mısırlı Ahmet, Turay Dinleyen --> 577, 639
+Mısırlı Ahmet, Tahir Aydoğdu --> 577, 639
+Tahir Aydoğdu, Turay Dinleyen --> 577, 639
+Esra Kayıkçı, Fırtına Kıral --> 578, 918
+Aslı Doğan, Richard Laniepce --> 580, 597, 822
+Aslı Doğan, Ediz Hafızoğlu --> 580, 597, 822
+Aslı Doğan, Talat Karaoğlu --> 580, 597, 822
+Aslı Doğan, Ertan Şahin --> 580, 822
+Aslı Doğan, Tamer Karaoğlu --> 580, 597, 822
+Ediz Hafızoğlu, Richard Laniepce --> 580, 597, 822
+Richard Laniepce, Talat Karaoğlu --> 580, 597, 822
+Ertan Şahin, Richard Laniepce --> 580, 822, 1176
+Richard Laniepce, Tamer Karaoğlu --> 580, 597, 822
+Ceylan Ertem, Ercüment Orkut --> 580, 726
+Ceylan Ertem, Ediz Hafızoğlu --> 580, 726, 947
+Ediz Hafızoğlu, Talat Karaoğlu --> 580, 597, 822
+Ediz Hafızoğlu, Ertan Şahin --> 580, 822
+Ediz Hafızoğlu, Tamer Karaoğlu --> 580, 597, 822
+Cem Tuncer, Ceylan Ertem --> 580, 726
+Ertan Şahin, Talat Karaoğlu --> 580, 822
+Talat Karaoğlu, Tamer Karaoğlu --> 580, 597, 822
+Ertan Şahin, Tamer Karaoğlu --> 580, 822
+Burak Dursun, Evrim Demirel --> 582, 976
+Barış Yalaz, Yiğit Tornacı --> 583, 895, 1004
+Barış Yalaz, Doğancan Vural --> 583, 895, 1004
+Barış Yalaz, Mehmet Korkmaz --> 583, 895, 1004
+Barış Yalaz, Özgün Tuncer --> 583, 895, 1004
+Barış Yalaz, Kıvılcım Konca --> 583, 1004
+Caner Üstündağ, Serra Erkoç --> 588, 1169
+Serra Erkoç, Turgut Alp Bekoğlu --> 588, 596, 1169
+Gültekin Kaçar, Serra Erkoç --> 588, 1169
+Serra Erkoç, Utku Akyol --> 588, 596, 1169
+Gökay Gökşen, Serra Erkoç --> 588, 596, 1169
+Caner Üstündağ, Gültekin Kaçar --> 588, 1169
+Caner Üstündağ, Utku Akyol --> 588, 1169
+Caner Üstündağ, Gökay Gökşen --> 588, 1169
+Gültekin Kaçar, Turgut Alp Bekoğlu --> 588, 1169
+Turgut Alp Bekoğlu, Utku Akyol --> 588, 596, 1169
+Gökay Gökşen, Turgut Alp Bekoğlu --> 588, 596, 1169
+Gültekin Kaçar, Utku Akyol --> 588, 1169
+Gökay Gökşen, Gültekin Kaçar --> 588, 1169
+Salih Nazım Peker, Sarp Keskiner --> 591, 893
+Sarp Keskiner, Tuğrul Aray --> 591, 893
+Sarp Keskiner, Vefa Karatay --> 591, 893
+Orçun Baştürk, Sarp Keskiner --> 591, 893
+Salih Nazım Peker, Tuğrul Aray --> 591, 893
+Salih Nazım Peker, Vefa Karatay --> 591, 893
+Orçun Baştürk, Salih Nazım Peker --> 591, 893
+Tuğrul Aray, Vefa Karatay --> 591, 893
+Orçun Baştürk, Tuğrul Aray --> 591, 893
+Orçun Baştürk, Vefa Karatay --> 591, 893
+Eren Turgut, Mertcan Bilgin --> 592, 594
+Burcu Arı, Genco Arı --> 598, 654
+Birsen Tezer, Ediz Hafızoğlu --> 600, 727
+Birsen Tezer, Ercüment Orkut --> 600, 727
+Birsen Tezer, Cem Tuncer --> 600, 727
+Barış Doğukan Yazıcı, Birsen Tezer --> 600, 727
+Efecan Tuncer, Ercüment Orkut --> 602, 732
+Engin Recepoğulları, Çağlayan Yıldız --> 602, 993
+Barış Doğukan Yazıcı, Çağlayan Yıldız --> 602, 917
+Ediz Hafızoğlu, Efecan Tuncer --> 602, 732
+Cem Tuncer, Efecan Tuncer --> 602, 732
+Allan Harris, Allan Harris --> 609, 1100
+Kutay Öztürk, Sercan Debelec --> 611, 651, 756, 862
+Ali Kabakçı, Sercan Debelec --> 611, 651, 932
+Onurcan Çağatay, Sercan Debelec --> 611, 651, 756, 932
+Belma Tahan, Sercan Debelec --> 611, 932
+Ali Kabakçı, Kutay Öztürk --> 611, 651
+Kutay Öztürk, Onurcan Çağatay --> 611, 651, 756
+Ali Kabakçı, Onurcan Çağatay --> 611, 651, 932
+Ali Kabakçı, Belma Tahan --> 611, 932
+Belma Tahan, Onurcan Çağatay --> 611, 932
+Deniz Güngör, Serdar Barçın --> 613, 636, 652
+Deniz Güngör, Jarrod Cagwin --> 613, 675
+Berke Can Özcan, Sarp Keskiner --> 615, 631, 1086
+Sarp Keskiner, Özün Usta --> 615, 631, 1086
+Enver Muhamedi, Etibar Asadli --> 616, 743, 817
+Ekin Cengizkan, Etibar Asadli --> 616, 817
+Jeroen Van Vliet, Mete Erker --> 620, 849, 1103
+Burak Bedikyan, Joris Dudli --> 621, 1010
+Andy Middleton, Burak Bedikyan --> 621, 1010
+Andy Middleton, Joris Dudli --> 621, 1010
+Meltem Ege, Önder Focan --> 622, 713, 950
+Meltem Ege, Ozan Musluoğlu --> 622, 713, 950
+Meltem Ege, Şenova Ülker --> 622, 713, 950
+Bulut Gülen, Meltem Ege --> 622, 713, 950
+Maffy Falay (Muvaffak Falay), Ove Gustavsson --> 623, 624, 632
+Gunnar Bergsten, Maffy Falay (Muvaffak Falay) --> 623, 624, 632
+Akay Temiz, Maffy Falay (Muvaffak Falay) --> 623, 632
+Okay Temiz, Ove Gustavsson --> 623, 624, 632
+Gunnar Bergsten, Okay Temiz --> 623, 624, 632, 1137
+Bernt Rosengren, Ove Gustavsson --> 623, 632
+Gunnar Bergsten, Ove Gustavsson --> 623, 624, 632
+Akay Temiz, Ove Gustavsson --> 623, 632
+Ove Gustavsson, Salih Baysal --> 623, 624, 632
+Bernt Rosengren, Gunnar Bergsten --> 623, 632
+Akay Temiz, Bernt Rosengren --> 623, 632
+Akay Temiz, Gunnar Bergsten --> 623, 632
+Gunnar Bergsten, Salih Baysal --> 623, 624, 632
+Akay Temiz, Salih Baysal --> 623, 632
+Turgut Alp Bekoğlu, Yavuz Akyazıcı --> 625, 1090
+Ahmet Gülbay, Christophe Le Van --> 626, 856, 966
+Ahmet Gülbay, Philippe Le Van --> 626, 856, 966, 1047
+Christophe Le Van, Philippe Le Van --> 626, 856, 966
+Barlas Tan Özemek, Okay Temiz --> 631, 1086
+Okay Temiz, Selim Saraçoğlu --> 631, 1086
+Berke Can Özcan, Okay Temiz --> 631, 1086
+Okay Temiz, Sarp Keskiner --> 631, 1086
+Musa Dede, Okay Temiz --> 631, 1086
+Doğan Doğusel, Okay Temiz --> 631, 1037, 1086
+Hüseyin Ertunç, Okay Temiz --> 631, 1037, 1086
+Daniel Spicer, Okay Temiz --> 631, 1037, 1086
+Okay Temiz, Özün Usta --> 631, 1086
+Murat Taner, Okay Temiz --> 631, 1086
+Barlas Tan Özemek, Selim Saraçoğlu --> 631, 1086
+Barlas Tan Özemek, Berke Can Özcan --> 631, 695, 1086
+Barlas Tan Özemek, Korhan Futacı --> 631, 695, 1086
+Barlas Tan Özemek, Sarp Keskiner --> 631, 1086
+Barlas Tan Özemek, Musa Dede --> 631, 1086
+Barlas Tan Özemek, Doğan Doğusel --> 631, 1086
+Barlas Tan Özemek, Hüseyin Ertunç --> 631, 1086
+Barlas Tan Özemek, Daniel Spicer --> 631, 1086
+Barlas Tan Özemek, Özün Usta --> 631, 1086
+Barlas Tan Özemek, Umut Çağlar --> 631, 695, 1086
+Barlas Tan Özemek, Murat Taner --> 631, 1086
+Berke Can Özcan, Selim Saraçoğlu --> 631, 1086
+Korhan Futacı, Selim Saraçoğlu --> 631, 1086
+Sarp Keskiner, Selim Saraçoğlu --> 631, 1086
+Musa Dede, Selim Saraçoğlu --> 631, 1086
+Doğan Doğusel, Selim Saraçoğlu --> 631, 1086
+Hüseyin Ertunç, Selim Saraçoğlu --> 631, 1086
+Daniel Spicer, Selim Saraçoğlu --> 631, 1086
+Selim Saraçoğlu, Özün Usta --> 631, 1086
+Selim Saraçoğlu, Umut Çağlar --> 631, 1086
+Murat Taner, Selim Saraçoğlu --> 631, 1086
+Berke Can Özcan, Musa Dede --> 631, 1086
+Berke Can Özcan, Doğan Doğusel --> 631, 1086
+Berke Can Özcan, Hüseyin Ertunç --> 631, 1086
+Berke Can Özcan, Daniel Spicer --> 631, 1086
+Berke Can Özcan, Umut Çağlar --> 631, 695, 1086
+Berke Can Özcan, Murat Taner --> 631, 1086
+Korhan Futacı, Sarp Keskiner --> 631, 1086
+Korhan Futacı, Musa Dede --> 631, 1086
+Doğan Doğusel, Korhan Futacı --> 631, 1086
+Hüseyin Ertunç, Korhan Futacı --> 631, 1086
+Daniel Spicer, Korhan Futacı --> 631, 1086
+Korhan Futacı, Murat Taner --> 631, 1086
+Musa Dede, Sarp Keskiner --> 631, 1086
+Doğan Doğusel, Sarp Keskiner --> 631, 1086
+Hüseyin Ertunç, Sarp Keskiner --> 631, 1086
+Daniel Spicer, Sarp Keskiner --> 631, 1086
+Sarp Keskiner, Umut Çağlar --> 631, 1086
+Murat Taner, Sarp Keskiner --> 631, 1086
+Doğan Doğusel, Musa Dede --> 631, 1086
+Hüseyin Ertunç, Musa Dede --> 631, 1086
+Daniel Spicer, Musa Dede --> 631, 1086
+Musa Dede, Özün Usta --> 631, 1086
+Musa Dede, Umut Çağlar --> 631, 1086
+Murat Taner, Musa Dede --> 631, 1086
+Daniel Spicer, Doğan Doğusel --> 631, 1037, 1086
+Doğan Doğusel, Özün Usta --> 631, 1086
+Doğan Doğusel, Murat Taner --> 631, 1086
+Daniel Spicer, Hüseyin Ertunç --> 631, 1037, 1086
+Hüseyin Ertunç, Özün Usta --> 631, 1086
+Hüseyin Ertunç, Murat Taner --> 631, 1086
+Daniel Spicer, Özün Usta --> 631, 1086
+Daniel Spicer, Umut Çağlar --> 631, 1037, 1086
+Daniel Spicer, Murat Taner --> 631, 1086
+Murat Taner, Özün Usta --> 631, 1086
+Murat Taner, Umut Çağlar --> 631, 1086
+Fatih Erkoç, Kerem Görsev --> 633, 1077
+Fatih Erkoç, Kağan Yıldız --> 633, 1079
+Mahmut Yalay, Oğuz Büyükberber --> 637, 749
+Baturay Yarkın, Yarkın Tuncer --> 640, 1000
+U-Roy, İlhan Erşahin --> 648, 766
+Jesse Murphy, U-Roy --> 648, 766
+Onur Aymergen, Turgut Alp Bekoğlu --> 653, 949
+Adem Gülşen, Enver Muhamedi --> 656, 844
+Derin Bayhan, Enver Muhamedi --> 656, 922
+Erkan Oğur, Okay Temiz --> 657, 925
+Cengiz Özdemir, Erkan Oğur --> 657, 925
+Bilal Karaman, Hüseyin Kemancı --> 664, 666
+Baran Say, Hüseyin Kemancı --> 664, 666
+Nevzat Yılmaz, Tolga Şanlı --> 668, 1125
+Tolga Şanlı, Zafer Şanlı --> 668, 1125
+Tolga Bilgin, Tolga Şanlı --> 668, 1130
+Nevzat Yılmaz, Zafer Şanlı --> 668, 1125
+Cengiz Tural, Zafer Şanlı --> 668, 1125
+Cengiz Tural, Tolga Bilgin --> 668, 1130
+Can Çankaya, Ece Göksu --> 671, 713
+Ece Göksu, Engin Recepoğulları --> 671, 713
+Bulut Gülen, Ece Göksu --> 671, 713
+Yankale Segal, Yinon Muallem --> 673, 755
+Yinon Muallem, İsmail Altunbaş --> 673, 988
+Alvester Garnett, Kerem Görsev --> 674, 739, 1128
+Kerem Görsev, Russell Gunn --> 674, 739, 1128
+Alvester Garnett, Eric Revis --> 674, 739, 1128
+Eric Revis, Russell Gunn --> 674, 739, 1128
+Alvester Garnett, Russell Gunn --> 674, 739, 1128
+Saygun Arpalı, Şenova Ülker --> 678, 892
+Mert Topel, İsmail Soyberk --> 678, 917
+Mert Topel, Serdar Barçın --> 678, 917
+Serdar Barçın, İsmail Soyberk --> 678, 917
+Ali Perret, Matt Hall (Matthew Hall) --> 685, 686
+Ali Perret, Selim Selçuk --> 685, 686
+Matt Hall (Matthew Hall), Selim Selçuk --> 685, 686
+Meriç Demirkol, Selim Selçuk --> 685, 686
+Ara Dinkjian, Ed Schuller --> 697, 839, 1065
+Arto Tunçboyacıyan, Ed Schuller --> 697, 839, 1065
+Armen Donelian, Ed Schuller --> 697, 1065
+Kuzey Yılmaz, Şinasi Celayiroğlu --> 698, 1032
+Atilla Engin, John Kruth --> 700, 702, 771
+Adam Klipple, Atilla Engin --> 702, 771
+Atilla Engin, Stephan Crump --> 702, 771
+Atilla Engin, Hale Birgül --> 702, 771
+Atilla Engin, Ray Ippolito --> 702, 771
+Atilla Engin, Dan Jordan --> 702, 771
+Atilla Engin, Frank Colon --> 702, 771
+Atilla Engin, Gilad --> 702, 771
+Adam Klipple, Stephan Crump --> 702, 771
+Adam Klipple, Hale Birgül --> 702, 771
+Adam Klipple, Ray Ippolito --> 702, 771
+Adam Klipple, Dan Jordan --> 702, 771
+Adam Klipple, John Kruth --> 702, 771
+Adam Klipple, Frank Colon --> 702, 771
+Adam Klipple, Gilad --> 702, 771
+Hale Birgül, Stephan Crump --> 702, 771
+Ray Ippolito, Stephan Crump --> 702, 771
+Dan Jordan, Stephan Crump --> 702, 771
+John Kruth, Stephan Crump --> 702, 771
+Frank Colon, Stephan Crump --> 702, 771
+Gilad, Stephan Crump --> 702, 771
+Hale Birgül, Ray Ippolito --> 702, 771
+Dan Jordan, Hale Birgül --> 702, 771
+Hale Birgül, John Kruth --> 702, 771
+Frank Colon, Hale Birgül --> 702, 771
+Gilad, Hale Birgül --> 702, 771
+Dan Jordan, Ray Ippolito --> 702, 771
+John Kruth, Ray Ippolito --> 702, 771
+Frank Colon, Ray Ippolito --> 702, 771
+Gilad, Ray Ippolito --> 702, 771
+Dan Jordan, John Kruth --> 702, 771
+Dan Jordan, Frank Colon --> 702, 771
+Dan Jordan, Gilad --> 702, 771
+Frank Colon, John Kruth --> 702, 771
+Gilad, John Kruth --> 702, 771
+Frank Colon, Gilad --> 702, 771
+Tony Lakatos, Özay Fecht --> 704, 752
+Adem Gülşen, Şirin Soysal --> 711, 1176
+Baran Say, Şirin Soysal --> 711, 1176
+Erdem Göymen, Şirin Soysal --> 711, 1176
+Adem Gülşen, Baran Say --> 711, 1176
+Adem Gülşen, Erdem Göymen --> 711, 1176
+Baran Say, Erdem Göymen --> 711, 1176
+Ferit Odman, Jef Giansily --> 712, 934
+Ceylan Ertem, Ozan Musluoğlu --> 713, 947
+Dolunay Obruk, Ozan Musluoğlu --> 713, 1145
+Fatih Erkoç, Ozan Musluoğlu --> 713, 1077
+Ozan Musluoğlu, Sanem Kalfa --> 713, 949
+Fatih Erkoç, Ferit Odman --> 713, 1077, 1079
+Ferit Odman, Meltem Ege --> 713, 950
+Ceylan Ertem, Engin Recepoğulları --> 713, 726
+Dolunay Obruk, Neşet Ruacan --> 713, 1145
+Dolunay Obruk, Engin Recepoğulları --> 713, 1145
+Dolunay Obruk, Şenova Ülker --> 713, 1145
+Ece Göksu, Neşet Ruacan --> 713, 940
+Fatih Erkoç, Neşet Ruacan --> 713, 1076, 1079
+Fatih Erkoç, Kamil Özler --> 713, 1077
+Engin Recepoğulları, Fatih Erkoç --> 713, 1077
+Fatih Erkoç, Fatih Erkoç --> 713, 916, 933, 953, 975, 1016, 1066, 1076, 1077, 1079
+Engin Recepoğulları, Şevval Sam --> 713, 1127
+Ercüment Orkut, Tolga Bilgin --> 720, 1079
+Atilla Engin, Ole Matthiessen --> 725, 751
+Atilla Engin, Ole Thoger --> 725, 751
+Ole Matthiessen, Ole Thoger --> 725, 751
+Ediz Hafızoğlu, Tunç Çakır --> 726, 887, 1145
+Alp Ersönmez, Ceylan Ertem --> 726, 947
+Engin Recepoğulları, Tunç Çakır --> 726, 1145
+Tunç Çakır, Tunç Çakır --> 726, 887, 912, 1048, 1145
+Cenk Erdoğan, Ceylan Ertem --> 726, 947
+Ercüment Orkut, Ülkü Aybala Sunat --> 727, 728
+Cem Tuncer, Ülkü Aybala Sunat --> 727, 728
+Cenk Erdoğan, Ülkü Aybala Sunat --> 727, 728
+Ediz Hafızoğlu, Ediz Hafızoğlu --> 728, 729, 732, 740, 822, 887, 947, 952, 959, 960, 1011, 1013, 1023, 1077, 1078, 1097, 1145, 1171
+Atakan Akdaş, Ediz Hafızoğlu --> 729, 952
+Atakan Akdaş, Ercüment Orkut --> 729, 952
+Atakan Akdaş, Cem Tuncer --> 729, 952
+Baturay Yarkın, Eren Turgut --> 731, 1000
+Baturay Yarkın, Erkan Zeki Ar --> 731, 1000
+Aslı Özer, Ertuğrul Biber --> 735, 937, 938, 968
+Baki Duyarlar, Emre Tukur --> 738, 760
+Emre Tukur, Mümtaz Solmaz --> 738, 760
+Cem Aksel, Emre Tukur --> 738, 760
+Emre Tukur, Şevket Akıncı --> 738, 760
+Emre Tukur, Yahya Dai --> 738, 760
+Baki Duyarlar, Mümtaz Solmaz --> 738, 760
+Baki Duyarlar, Şevket Akıncı --> 738, 760
+Cem Aksel, Mümtaz Solmaz --> 738, 760
+Mümtaz Solmaz, Şevket Akıncı --> 738, 760
+Mümtaz Solmaz, Yahya Dai --> 738, 760
+Yahya Dai, Şevket Akıncı --> 738, 760
+Jason Jackson, Kerem Görsev --> 739, 1128
+Eric Revis, Jason Jackson --> 739, 1128
+Alvester Garnett, Jason Jackson --> 739, 1128
+Jason Jackson, Russell Gunn --> 739, 1128
+Alafsar Rahimov, Etibar Asadli --> 743, 817
+Alafsar Rahimov, Enver Muhamedi --> 743, 817
+Atahan Çiftçi, Cemil Can Çolak --> 747, 1096
+Sarp Maden, Tolga Tüzün --> 749, 837
+Mike Wilkens, Tolga Tüzün --> 749, 1116
+Tolga Tüzün, Yahya Dai --> 749, 1116
+Tolga Tüzün, Ümit Onartan --> 749, 1116
+Tolga Tüzün, Volkan Öktem --> 749, 837, 1116
+Sarp Maden, Çağlayan Yıldız --> 749, 917, 1069, 1070
+Mike Wilkens, Çağlayan Yıldız --> 749, 1116
+Yahya Dai, Çağlayan Yıldız --> 749, 1116
+Çağlayan Yıldız, Ümit Onartan --> 749, 1116
+Alper Maral, Çağlayan Yıldız --> 749, 917, 1116
+Volkan Öktem, Çağlayan Yıldız --> 749, 1069, 1070, 1116
+Alper Maral, Sarp Maden --> 749, 917
+Mike Wilkens, Ümit Onartan --> 749, 1116
+Alper Maral, Mike Wilkens --> 749, 1116
+Yahya Dai, Ümit Onartan --> 749, 1116
+Alper Maral, Yahya Dai --> 749, 1116
+Alper Maral, Ümit Onartan --> 749, 1116
+Oğuz Büyükberber, Ümit Onartan --> 749, 1116
+Volkan Öktem, Ümit Onartan --> 749, 1116
+Kürşat Sekban, İmer Demirer --> 749, 1074, 1077, 1078
+Alper Maral, Oğuz Büyükberber --> 749, 1116
+Alper Maral, Volkan Öktem --> 749, 1116
+Güneş Kortel, Sercan Debelec --> 756, 862
+Güneş Kortel, Kutay Öztürk --> 756, 862
+Riccardo Marenghi, Şenova Ülker --> 759, 976
+Burak Dursun, Riccardo Marenghi --> 759, 976
+Didi Gutman, İlhan Erşahin --> 763, 766
+Juini Booth, İlhan Erşahin --> 763, 924
+Aaron Johnston, İlhan Erşahin --> 763, 766
+Zeke Zima, İlhan Erşahin --> 763, 781
+Eddie Henderson, İlhan Erşahin --> 763, 766, 805, 921, 924, 1129
+Mauro Refosco, İlhan Erşahin --> 763, 944
+Didi Gutman, Jesse Murphy --> 763, 766
+Didi Gutman, Kenny Wollesen --> 763, 766
+Aaron Johnston, Didi Gutman --> 763, 766
+Didi Gutman, Eddie Henderson --> 763, 766
+Jesse Murphy, Kenny Wollesen --> 763, 766, 1129
+Aaron Johnston, Jesse Murphy --> 763, 766
+Eddie Henderson, Jesse Murphy --> 763, 766, 1129
+Juini Booth, Kenny Wollesen --> 763, 924
+Eddie Henderson, Juini Booth --> 763, 924
+Aaron Johnston, Kenny Wollesen --> 763, 766
+Kenny Wollesen, Zeke Zima --> 763, 781
+Eddie Henderson, Kenny Wollesen --> 763, 766, 924, 1129
+Kenny Wollesen, Mauro Refosco --> 763, 944
+Aaron Johnston, Eddie Henderson --> 763, 766
+Charles Stella, İlhan Erşahin --> 765, 766
+Charles Stella, Jochen Rueckert --> 765, 766
+Guyora Kats, İlhan Erşahin --> 766, 1129
+Jon Davis, İlhan Erşahin --> 766, 805, 921, 1121
+Brian Blade, İlhan Erşahin --> 766, 1121
+Marlon Browden, İlhan Erşahin --> 766, 1129
+Norah Jones, İlhan Erşahin --> 766, 781, 1129
+Tijen Arkun, İlhan Erşahin --> 766, 1129
+Stafford Hunter, İlhan Erşahin --> 766, 1129
+Hüsnü Şenlendirici, İlhan Erşahin --> 766, 1009, 1030, 1140
+Arto Tunçboyacıyan, İlhan Erşahin --> 766, 944, 1129
+Mehmet Akatay, İlhan Erşahin --> 766, 1140
+Anders Hentze, İlhan Erşahin --> 766, 806
+Nuri Lekesizgöz, İlhan Erşahin --> 766, 1030, 1140
+Guyora Kats, Jesse Murphy --> 766, 1129
+Guyora Kats, Kenny Wollesen --> 766, 1129
+Guyora Kats, Marlon Browden --> 766, 1129
+Guyora Kats, Norah Jones --> 766, 1129
+Guyora Kats, Tijen Arkun --> 766, 1129
+Eddie Henderson, Guyora Kats --> 766, 1129
+Guyora Kats, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Guyora Kats --> 766, 1129
+Guyora Kats, Wax Poetic (Grup) --> 766, 1129
+Jon Davis, Larry Grenadier --> 766, 1121
+Brian Blade, Jon Davis --> 766, 1121
+Eddie Henderson, Jon Davis --> 766, 805, 921
+Brian Blade, Larry Grenadier --> 766, 1121
+Jesse Murphy, Marlon Browden --> 766, 1129
+Jesse Murphy, Norah Jones --> 766, 1129
+Jesse Murphy, Tijen Arkun --> 766, 1129
+Jesse Murphy, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Jesse Murphy --> 766, 1129
+Kenny Wollesen, Marlon Browden --> 766, 1129
+Kenny Wollesen, Norah Jones --> 766, 781, 1129
+Kenny Wollesen, Tijen Arkun --> 766, 1129
+Kenny Wollesen, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Kenny Wollesen --> 766, 944, 1129
+Kenny Wollesen, Wax Poetic (Grup) --> 766, 781, 1129
+Marlon Browden, Norah Jones --> 766, 1129
+Marlon Browden, Tijen Arkun --> 766, 1129
+Eddie Henderson, Marlon Browden --> 766, 1129
+Marlon Browden, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Marlon Browden --> 766, 1129
+Marlon Browden, Wax Poetic (Grup) --> 766, 1129
+Anders Hentze, Jochen Rueckert --> 766, 806
+Norah Jones, Tijen Arkun --> 766, 1129
+Eddie Henderson, Norah Jones --> 766, 1129
+Norah Jones, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Norah Jones --> 766, 1129
+Norah Jones, Wax Poetic (Grup) --> 766, 781, 1129
+Eddie Henderson, Tijen Arkun --> 766, 1129
+Stafford Hunter, Tijen Arkun --> 766, 1129
+Arto Tunçboyacıyan, Tijen Arkun --> 766, 1129
+Tijen Arkun, Wax Poetic (Grup) --> 766, 1129
+Anders Hentze, Thor Madsen --> 766, 806
+Eddie Henderson, Stafford Hunter --> 766, 1129
+Arto Tunçboyacıyan, Eddie Henderson --> 766, 1129
+Eddie Henderson, Wax Poetic (Grup) --> 766, 1129
+Arto Tunçboyacıyan, Stafford Hunter --> 766, 1129
+Stafford Hunter, Wax Poetic (Grup) --> 766, 1129
+Arto Tunçboyacıyan, Wax Poetic (Grup) --> 766, 1129
+Aydın Türkoğlu, Barış Demirel --> 769, 987
+Barış Demirel, Rammy Roo --> 769, 987
+Aydın Türkoğlu, Ege Türkmenler --> 769, 987
+Aydın Türkoğlu, Rammy Roo --> 769, 987
+Ege Türkmenler, Rammy Roo --> 769, 987
+Guy Mintus, Yinon Muallem --> 775, 1012
+Hasan Gözetlik, Yinon Muallem --> 775, 1012
+Guy Mintus, Hasan Gözetlik --> 775, 1012
+Kerem Turhan, Yahya Dai --> 776, 1095
+Baran Say, Derin Bayhan --> 776, 1089
+Baran Say, Yavuz Akyazıcı --> 776, 1089
+Baran Say, Yahya Dai --> 776, 1089
+Derin Bayhan, Yavuz Akyazıcı --> 776, 922, 1089
+Yahya Dai, Yavuz Akyazıcı --> 776, 1089, 1090, 1124
+Ezgi Sorman, Nihal Saruhanlı --> 779, 810, 1027
+Ezgi Sorman, Müge Küseyri Olgan --> 779, 810, 1027
+Müge Küseyri Olgan, Nihal Saruhanlı --> 779, 810, 1027
+Burçak Kayacan, Hediye Güven --> 782, 1154
+Berk Sarıoğlu, Hediye Güven --> 782, 1154
+Berk Sarıoğlu, Burçak Kayacan --> 782, 1154
+Sinan Bakır, Thomson Kneeland --> 783, 992
+Mark Ferber, Sinan Bakır --> 783, 992
+Mark Ferber, Thomson Kneeland --> 783, 992
+Doug Weiss, İlhan Erşahin --> 784, 805, 921
+Sibel Gürsoy, Şenova Ülker --> 788, 1161
+Deniz Güngör, Sarp Maden --> 790, 877
+Adem Gülşen, Şentürk Öztaş --> 795, 844
+Adem Gülşen, Ertan Şahin --> 795, 1176
+Ekin Cengizkan, Şentürk Öztaş --> 795, 844
+Şenova Ülker, Şentürk Öztaş --> 795, 844
+Hacı Tekbilek, Okay Temiz --> 799, 925
+Orhan Demir, Rick Lazaroff --> 802, 1135
+Jack Vorvis, Orhan Demir --> 802, 1135
+Jack Vorvis, Rick Lazaroff --> 802, 1135
+Doug Weiss, Jon Davis --> 805, 921
+Jon Davis, Keny Wollesen --> 805, 921
+Doug Weiss, Keny Wollesen --> 805, 921
+Doug Weiss, Eddie Henderson --> 805, 921
+Eddie Henderson, Keny Wollesen --> 805, 921
+Matt Penman, İlhan Erşahin --> 806, 1140
+Kai Eckhardt, Sean Rickman --> 809, 1092
+Berkan Kaya, Umut Oymak --> 814, 1143
+Yalçın Özsoy, Özdemir Erdoğan --> 815, 1016
+Erhan Kutsal, Özdemir Erdoğan --> 815, 1016
+Onno Tunç, Tuna Ötenel --> 815, 1175
+Tuna Ötenel, Veysel Çadır --> 815, 1077
+Atakan Ünüvar, Tuna Ötenel --> 815, 1076, 1077
+Uğur Dikmen, Yalçın Özsoy --> 815, 1016
+Erhan Kutsal, Uğur Dikmen --> 815, 1016
+Onno Tunç, Yalçın Özsoy --> 815, 1016
+Erhan Kutsal, Onno Tunç --> 815, 1016
+Veysel Çadır, Yalçın Özsoy --> 815, 1016
+Erhan Kutsal, Veysel Çadır --> 815, 1016
+Atakan Ünüvar, Yalçın Özsoy --> 815, 1016
+Atakan Ünüvar, Erhan Kutsal --> 815, 1016
+Bülent Şençalar, Yalçın Özsoy --> 815, 1016
+Bülent Şençalar, Erhan Kutsal --> 815, 1016
+Baki Duyarlar, Yalçın Özsoy --> 815, 1016
+Baki Duyarlar, Erhan Kutsal --> 815, 1016
+Erhan Kutsal, Yalçın Özsoy --> 815, 1016
+Ercüment Batanay, Yalçın Özsoy --> 815, 1016
+Ercüment Batanay, Erhan Kutsal --> 815, 1016
+Riccardo Marenghi, Serhan Erkol --> 819, 1156
+Bulut Gülen, Riccardo Marenghi --> 819, 1156
+Ara Dinkjian, Tamer Pınarbaşı --> 825, 957, 1046
+Engin Recepoğulları, Tolga Tüzün --> 837, 993
+Alper Yılmaz, Zeynep Oktar --> 837, 986
+Zeynep Oktar, İpek Ektaş --> 837, 986
+Ezgi Daloğlu, Zeynep Oktar --> 837, 986
+Alper Yılmaz, İpek Ektaş --> 837, 986
+Alper Yılmaz, Ezgi Daloğlu --> 837, 986
+Alper Yılmaz, Bulut Gülen --> 837, 1156
+Ezgi Daloğlu, İpek Ektaş --> 837, 986
+Ara Dinkjian, Shamira Shahinian --> 839, 1065
+Arto Tunçboyacıyan, Shamira Shahinian --> 839, 1065
+Ed Schuller, Shamira Shahinian --> 839, 1065
+Aydın Esen, Peter Herbert --> 840, 942, 1068
+Aydın Esen, Can Kozlu --> 840, 942, 1068
+Can Kozlu, Peter Herbert --> 840, 942, 1068
+Burak Kayan, Cenk Erdoğan --> 844, 1002
+Ayşe Tütüncü, Mehmet Güreli --> 846, 1115
+Cenk Esen, Yiğit Can Öztop --> 852, 864, 899
+Mehmet Ali Şimayli, Yiğit Can Öztop --> 852, 864, 899
+Kerem Can Dündar, Yiğit Can Öztop --> 852, 864
+Joan Terol Amigo, Mehmet Polat --> 857, 1031
+Mark Walker, Yaman Akdoğan --> 861, 878
+Fernando Huergo, Mehmet Ali Sanlıkol --> 871, 1034, 1134
+Bertram Lehmann, Mehmet Ali Sanlıkol --> 871, 1034, 1134
+Antonio Sanchez, Mehmet Ali Sanlıkol --> 871, 1014
+Mehmet Ali Sanlıkol, Phil Sargent --> 871, 1034, 1134
+Aaron Henry, Mehmet Ali Sanlıkol --> 871, 1014, 1034, 1134
+Mehmet Ali Sanlıkol, Tucker Antell --> 871, 1134
+Mehmet Ali Sanlıkol, Rick DiMuzio --> 871, 1034
+Mark Zaleski, Mehmet Ali Sanlıkol --> 871, 1014, 1034, 1134
+Dave Liebman, Mehmet Ali Sanlıkol --> 871, 1034
+Jared Sims, Mehmet Ali Sanlıkol --> 871, 1134
+Jeff Claasen, Mehmet Ali Sanlıkol --> 871, 1034
+Jerry Sabatini, Mehmet Ali Sanlıkol --> 871, 1014, 1034, 1134
+Mehmet Ali Sanlıkol, Mike Peipman --> 871, 1034, 1134
+Chris Gagne, Mehmet Ali Sanlıkol --> 871, 1014, 1034, 1134
+Clayton DeWalt, Mehmet Ali Sanlıkol --> 871, 1134
+Mehmet Ali Sanlıkol, Tim Lienhard --> 871, 1134
+Anat Cohen, Mehmet Ali Sanlıkol --> 871, 1014
+Bertram Lehmann, Fernando Huergo --> 871, 1034, 1134
+Fernando Huergo, Phil Sargent --> 871, 1034, 1134
+Aaron Henry, Fernando Huergo --> 871, 1034, 1134
+Fernando Huergo, Tucker Antell --> 871, 1134
+Fernando Huergo, Rick DiMuzio --> 871, 1034
+Fernando Huergo, Mark Zaleski --> 871, 1034, 1134
+Dave Liebman, Fernando Huergo --> 871, 1034
+Fernando Huergo, Jared Sims --> 871, 1134
+Fernando Huergo, Jeff Claasen --> 871, 1034
+Fernando Huergo, Jerry Sabatini --> 871, 1034, 1134
+Fernando Huergo, Mike Peipman --> 871, 1034, 1134
+Chris Gagne, Fernando Huergo --> 871, 1034, 1134
+Clayton DeWalt, Fernando Huergo --> 871, 1134
+Fernando Huergo, Tim Lienhard --> 871, 1134
+Fernando Huergo, George Lernis --> 871, 1034
+Bertram Lehmann, Phil Sargent --> 871, 1034, 1134
+Aaron Henry, Bertram Lehmann --> 871, 1034, 1134
+Bertram Lehmann, Tucker Antell --> 871, 1134
+Bertram Lehmann, Rick DiMuzio --> 871, 1034
+Bertram Lehmann, Mark Zaleski --> 871, 1034, 1134
+Bertram Lehmann, Dave Liebman --> 871, 1034
+Bertram Lehmann, Jared Sims --> 871, 1134
+Bertram Lehmann, Jeff Claasen --> 871, 1034
+Bertram Lehmann, Jerry Sabatini --> 871, 1034, 1134
+Bertram Lehmann, Mike Peipman --> 871, 1034, 1134
+Bertram Lehmann, Chris Gagne --> 871, 1034, 1134
+Bertram Lehmann, Clayton DeWalt --> 871, 1134
+Bertram Lehmann, Tim Lienhard --> 871, 1134
+Bertram Lehmann, George Lernis --> 871, 1034
+Aaron Henry, Antonio Sanchez --> 871, 1014
+Antonio Sanchez, Mark Zaleski --> 871, 1014
+Antonio Sanchez, Jerry Sabatini --> 871, 1014
+Antonio Sanchez, Chris Gagne --> 871, 1014
+Anat Cohen, Antonio Sanchez --> 871, 1014
+Aaron Henry, Phil Sargent --> 871, 1034, 1134
+Phil Sargent, Tucker Antell --> 871, 1134
+Phil Sargent, Rick DiMuzio --> 871, 1034
+Mark Zaleski, Phil Sargent --> 871, 1034, 1134
+Dave Liebman, Phil Sargent --> 871, 1034
+Jared Sims, Phil Sargent --> 871, 1134
+Jeff Claasen, Phil Sargent --> 871, 1034
+Jerry Sabatini, Phil Sargent --> 871, 1034, 1134
+Mike Peipman, Phil Sargent --> 871, 1034, 1134
+Chris Gagne, Phil Sargent --> 871, 1034, 1134
+Clayton DeWalt, Phil Sargent --> 871, 1134
+Phil Sargent, Tim Lienhard --> 871, 1134
+George Lernis, Phil Sargent --> 871, 1034
+Aaron Henry, Tucker Antell --> 871, 1134
+Aaron Henry, Rick DiMuzio --> 871, 1034
+Aaron Henry, Mark Zaleski --> 871, 1014, 1034, 1134
+Aaron Henry, Dave Liebman --> 871, 1034
+Aaron Henry, Jared Sims --> 871, 1134
+Aaron Henry, Jeff Claasen --> 871, 1034
+Aaron Henry, Jerry Sabatini --> 871, 1014, 1034, 1134
+Aaron Henry, Mike Peipman --> 871, 1034, 1134
+Aaron Henry, Chris Gagne --> 871, 1014, 1034, 1134
+Aaron Henry, Clayton DeWalt --> 871, 1134
+Aaron Henry, Tim Lienhard --> 871, 1134
+Aaron Henry, Anat Cohen --> 871, 1014
+Aaron Henry, George Lernis --> 871, 1034
+Mark Zaleski, Tucker Antell --> 871, 1134
+Jared Sims, Tucker Antell --> 871, 1134
+Jerry Sabatini, Tucker Antell --> 871, 1134
+Mike Peipman, Tucker Antell --> 871, 1134
+Chris Gagne, Tucker Antell --> 871, 1134
+Clayton DeWalt, Tucker Antell --> 871, 1134
+Tim Lienhard, Tucker Antell --> 871, 1134
+Tucker Antell, Tucker Antell --> 871, 1134
+Mark Zaleski, Rick DiMuzio --> 871, 1034
+Dave Liebman, Rick DiMuzio --> 871, 1034
+Jeff Claasen, Rick DiMuzio --> 871, 1034
+Jerry Sabatini, Rick DiMuzio --> 871, 1034
+Mike Peipman, Rick DiMuzio --> 871, 1034
+Chris Gagne, Rick DiMuzio --> 871, 1034
+Rick DiMuzio, Rick DiMuzio --> 871, 1034
+George Lernis, Rick DiMuzio --> 871, 1034
+Dave Liebman, Mark Zaleski --> 871, 1034
+Jared Sims, Mark Zaleski --> 871, 1134
+Jeff Claasen, Mark Zaleski --> 871, 1034
+Jerry Sabatini, Mark Zaleski --> 871, 1014, 1034, 1134
+Mark Zaleski, Mike Peipman --> 871, 1034, 1134
+Chris Gagne, Mark Zaleski --> 871, 1014, 1034, 1134
+Clayton DeWalt, Mark Zaleski --> 871, 1134
+Mark Zaleski, Tim Lienhard --> 871, 1134
+Anat Cohen, Mark Zaleski --> 871, 1014
+Mark Zaleski, Mark Zaleski --> 871, 1014, 1034, 1134
+George Lernis, Mark Zaleski --> 871, 1034
+Dave Liebman, Jeff Claasen --> 871, 1034
+Dave Liebman, Jerry Sabatini --> 871, 1034
+Dave Liebman, Mike Peipman --> 871, 1034
+Chris Gagne, Dave Liebman --> 871, 1034
+Dave Liebman, George Lernis --> 871, 1034
+Jared Sims, Jerry Sabatini --> 871, 1134
+Jared Sims, Mike Peipman --> 871, 1134
+Chris Gagne, Jared Sims --> 871, 1134
+Clayton DeWalt, Jared Sims --> 871, 1134
+Jared Sims, Tim Lienhard --> 871, 1134
+Jared Sims, Jared Sims --> 871, 1134
+Jeff Claasen, Jerry Sabatini --> 871, 1034
+Jeff Claasen, Mike Peipman --> 871, 1034
+Chris Gagne, Jeff Claasen --> 871, 1034
+George Lernis, Jeff Claasen --> 871, 1034
+Jerry Sabatini, Mike Peipman --> 871, 1034, 1134
+Chris Gagne, Jerry Sabatini --> 871, 1014, 1034, 1134
+Clayton DeWalt, Jerry Sabatini --> 871, 1134
+Jerry Sabatini, Tim Lienhard --> 871, 1134
+Anat Cohen, Jerry Sabatini --> 871, 1014
+George Lernis, Jerry Sabatini --> 871, 1034
+Chris Gagne, Mike Peipman --> 871, 1034, 1134
+Clayton DeWalt, Mike Peipman --> 871, 1134
+Mike Peipman, Tim Lienhard --> 871, 1134
+George Lernis, Mike Peipman --> 871, 1034
+Chris Gagne, Clayton DeWalt --> 871, 1134
+Chris Gagne, Tim Lienhard --> 871, 1134
+Anat Cohen, Chris Gagne --> 871, 1014
+Chris Gagne, George Lernis --> 871, 1034
+Clayton DeWalt, Tim Lienhard --> 871, 1134
+Mete Erker, Michel Banabila --> 883, 1118
+Joshua Samson, Mete Erker --> 883, 1118
+Joshua Samson, Michel Banabila --> 883, 1118
+Neşet Ruacan, Nükhet Ruacan --> 884, 1075
+Levent Altındağ, Neşet Ruacan --> 884, 886
+Serhan Erkol, Tunç Çakır --> 887, 1145
+Barış Ertürk, Ediz Hafızoğlu --> 887, 947, 1145
+Brenda Berin, Ercüment Orkut --> 894, 1151
+Brenda Berin, Eylem Pelit --> 894, 1151
+Brenda Berin, Volkan Öktem --> 894, 1151
+Brenda Berin, Çağdaş Oruç --> 894, 1151
+Barış Yalaz, Erdem Göymen --> 895, 1004
+Hakan Ali Toker, Hakan Çetinkaya --> 908, 1094
+Batu Şallıel, Fatih Erkoç --> 916, 975
+Aydın Karabulut, Çağdaş Oruç --> 917, 1173
+Okan Ersan, Serdar Barçın --> 917, 1055
+Altay Acar, Çağdaş Oruç --> 917, 976
+Altay Acar, Barış Doğukan Yazıcı --> 917, 976
+Alaattin Dal, Özdemir Erdoğan --> 933, 1108
+Erdoğan Ergun, Özdemir Erdoğan --> 933, 1016, 1108
+Alaattin Dal, Uğur Dikmen --> 933, 1108
+Erdoğan Ergun, Uğur Dikmen --> 933, 1016, 1108
+Alaattin Dal, Günnur Perin --> 933, 1108
+Erdoğan Ergun, Günnur Perin --> 933, 1016, 1108
+Onno Tunç, Onno Tunç --> 933, 1016, 1175
+Erdoğan Ergun, Onno Tunç --> 933, 1016
+Asım Ekren, Erdoğan Ergun --> 933, 1016
+Alaattin Dal, Cankut Özgül --> 933, 1108
+Cankut Özgül, Erdoğan Ergun --> 933, 1016, 1108
+Süheyl Denizci, Süheyl Denizci --> 933, 1016, 1076
+Erdoğan Ergun, Süheyl Denizci --> 933, 1016
+Alaattin Dal, Erdoğan Ergun --> 933, 1108
+Alaattin Dal, Alaattin Dal --> 933, 1108
+Erdoğan Ergun, İsmet Sıral --> 933, 1016
+İsmet Sıral, İsmet Sıral --> 933, 1016, 1091
+Erdoğan Ergun, Fatih Erkoç --> 933, 1016
+Erdoğan Ergun, Veysel Çadır --> 933, 1016
+Aslı Özer, Eren Turgut --> 937, 938
+Eren Turgut, Ertuğrul Biber --> 937, 938
+Ayşe Tütüncü, Gökçe Gürçay --> 947, 1152
+Barış Ertürk, Çağrı Sertel --> 947, 1145
+Cemil Tatlıpınar, Kağan Yıldız --> 947, 1011
+Cemil Tatlıpınar, Ediz Hafızoğlu --> 947, 1011
+Cemil Tatlıpınar, Cenk Erdoğan --> 947, 1011
+Kağan Yıldız, Kerem Sefil --> 947, 1095
+Berkant Çelen, Murat Çopur --> 947, 1056
+Gökçe Gürçay, Oğuz Büyükberber --> 947, 1152
+Barış Ertürk, Cenk Erdoğan --> 947, 1145
+Can Ömer Uygan, Şevket Akıncı --> 947, 1176
+Amy Salsgiver, Can Ömer Uygan --> 947, 1176
+Aziz Şenol Filiz, Engin Recepoğulları --> 952, 1127
+Göksun Çavdar, Halil İbrahim Işık --> 952, 1130
+Selçuk Sun, Tuna Ötenel --> 953, 1077
+Fatih Erkoç, Tuna Ötenel --> 953, 1076, 1077
+Fatih Erkoç, Selçuk Sun --> 953, 1077
+Ara Dinkjian, İsmail Lumanovski --> 957, 1046
+Alan Broadbent, Kerem Görsev --> 963, 1054
+Anıl Şallıel, Koray Üsgülen --> 967, 1130
+Roni Aran, Serhat Ayebe --> 969, 1063
+Herman Artuç, Serhat Ayebe --> 969, 1063
+Abbas Karacan, Batu Şallıel --> 975, 1130
+Yahya Dai, İlker Özalp --> 982, 1161
+Hakan Gürbüz, Yinon Muallem --> 988, 1012
+Hakan Ali Toker, Murat Süngü --> 997, 1094
+Cenk Erdoğan, Sinan Cem Eroğlu --> 1011, 1012
+Sinan Cem Eroğlu, Yinon Muallem --> 1011, 1012
+Mehmet Ali Sanlıkol, Melanie Howell Brooks --> 1014, 1034
+Jeff Claassen, Mehmet Ali Sanlıkol --> 1014, 1134
+Aaron Henry, Melanie Howell Brooks --> 1014, 1034
+Aaron Henry, Jeff Claassen --> 1014, 1134
+Mark Zaleski, Melanie Howell Brooks --> 1014, 1034
+Jeff Claassen, Mark Zaleski --> 1014, 1134
+Jerry Sabatini, Melanie Howell Brooks --> 1014, 1034
+Chris Gagne, Melanie Howell Brooks --> 1014, 1034
+Jeff Claassen, Jerry Sabatini --> 1014, 1134
+Chris Gagne, Jeff Claassen --> 1014, 1134
+Özdemir Erdoğan, Özdemir Erdoğan --> 1016, 1091, 1108
+Adnan Karaduman, İlhan Erşahin --> 1030, 1140
+Adnan Karaduman, Hüsnü Şenlendirici --> 1030, 1140
+Adnan Karaduman, Nuri Lekesizgöz --> 1030, 1140
+Mehmet Ali Sanlıkol, Utar Artun --> 1034, 1134
+Mehmet Ali Sanlıkol, Sam Dechenne --> 1034, 1134
+Fernando Huergo, Utar Artun --> 1034, 1134
+Bertram Lehmann, Utar Artun --> 1034, 1134
+Phil Sargent, Utar Artun --> 1034, 1134
+Aaron Henry, Utar Artun --> 1034, 1134
+Mark Zaleski, Utar Artun --> 1034, 1134
+Mike Peipman, Utar Artun --> 1034, 1134
+Jerry Sabatini, Utar Artun --> 1034, 1134
+Sam Dechenne, Utar Artun --> 1034, 1134
+Chris Gagne, Utar Artun --> 1034, 1134
+Fernando Huergo, Sam Dechenne --> 1034, 1134
+Bertram Lehmann, Sam Dechenne --> 1034, 1134
+Phil Sargent, Sam Dechenne --> 1034, 1134
+Aaron Henry, Sam Dechenne --> 1034, 1134
+Mark Zaleski, Sam Dechenne --> 1034, 1134
+Mike Peipman, Sam Dechenne --> 1034, 1134
+Jerry Sabatini, Sam Dechenne --> 1034, 1134
+Chris Gagne, Sam Dechenne --> 1034, 1134
+Burak Dursun, Ekin Cengizkan --> 1039, 1083
+Aydın Esen, Selçuk Karaman (SelKa) --> 1060, 1142
+Gary Husband, Selçuk Karaman (SelKa) --> 1060, 1142
+Aydın Esen, Gary Husband --> 1060, 1142
+, TRT İstanbul Hafif Müzik ve Caz Orkestrası --> 1072, 1073
+Atakan Ünüvar, Serkan Özyılmaz --> 1074, 1076, 1077
+Atakan Ünüvar, Özgür Salıcı --> 1074, 1077
+Atakan Ünüvar, Ergun Eremkara --> 1074, 1075, 1077
+Atakan Ünüvar, Kamil Özler --> 1074, 1075, 1077
+Atakan Ünüvar, Atakan Ünüvar --> 1074, 1075, 1076, 1077
+Atakan Ünüvar, Tayfun Duygulu --> 1074, 1077
+Atakan Ünüvar, Barış Özer --> 1074, 1077
+Atakan Ünüvar, Meriç Demirkol --> 1074, 1077
+Atakan Ünüvar, Çınar Apay --> 1074, 1075, 1077
+Atakan Ünüvar, İmer Demirer --> 1074, 1075, 1076, 1077
+Atakan Ünüvar, Halil İbrahim Işık --> 1074, 1077
+Atakan Ünüvar, Fehmi Özbilek --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Atakan Ünüvar --> 1074, 1075, 1077
+Atakan Ünüvar, Emre Kayhan --> 1074, 1075, 1077
+Atakan Ünüvar, Hakan Çimenot --> 1074, 1075, 1077
+Atakan Ünüvar, Kürşat Sekban --> 1074, 1077
+Atakan Ünüvar, Sacit Çöze --> 1074, 1075, 1077
+Atakan Ünüvar, Yalçın Şaşmaz --> 1074, 1075, 1077
+Atakan Ünüvar, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1076, 1077
+Ergun Eremkara, Serkan Özyılmaz --> 1074, 1077
+Serkan Özyılmaz, Veysel Çadır --> 1074, 1077
+Kamil Özler, Serkan Özyılmaz --> 1074, 1077, 1078
+Serkan Özyılmaz, Tayfun Duygulu --> 1074, 1077
+Barış Özer, Serkan Özyılmaz --> 1074, 1077, 1078
+Serkan Özyılmaz, Çınar Apay --> 1074, 1077
+Fehmi Özbilek, Serkan Özyılmaz --> 1074, 1077
+Aldoğan Şimşekyay, Serkan Özyılmaz --> 1074, 1077, 1078
+Emre Kayhan, Serkan Özyılmaz --> 1074, 1077, 1078
+Kürşat Sekban, Serkan Özyılmaz --> 1074, 1077, 1078
+Sacit Çöze, Serkan Özyılmaz --> 1074, 1077, 1078
+Serkan Özyılmaz, Yalçın Şaşmaz --> 1074, 1077
+Serkan Özyılmaz, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1076, 1077, 1078
+Ergun Eremkara, Özgür Salıcı --> 1074, 1077
+Veysel Çadır, Özgür Salıcı --> 1074, 1077
+Kamil Özler, Özgür Salıcı --> 1074, 1077
+Tayfun Duygulu, Özgür Salıcı --> 1074, 1077
+Barış Özer, Özgür Salıcı --> 1074, 1077
+Çınar Apay, Özgür Salıcı --> 1074, 1077
+Fehmi Özbilek, Özgür Salıcı --> 1074, 1077
+Aldoğan Şimşekyay, Özgür Salıcı --> 1074, 1077
+Emre Kayhan, Özgür Salıcı --> 1074, 1077
+Kürşat Sekban, Özgür Salıcı --> 1074, 1077
+Sacit Çöze, Özgür Salıcı --> 1074, 1077
+Yalçın Şaşmaz, Özgür Salıcı --> 1074, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Özgür Salıcı --> 1074, 1077
+Ergun Eremkara, Veysel Çadır --> 1074, 1075, 1077
+Ergun Eremkara, Kamil Özler --> 1074, 1075, 1077
+Ergun Eremkara, Tayfun Duygulu --> 1074, 1077
+Barış Özer, Ergun Eremkara --> 1074, 1077
+Ergun Eremkara, Meriç Demirkol --> 1074, 1077
+Ergun Eremkara, Çınar Apay --> 1074, 1075, 1077
+Ergun Eremkara, İmer Demirer --> 1074, 1075, 1077
+Ergun Eremkara, Halil İbrahim Işık --> 1074, 1077
+Ergun Eremkara, Fehmi Özbilek --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Ergun Eremkara --> 1074, 1075, 1077
+Emre Kayhan, Ergun Eremkara --> 1074, 1075, 1077
+Ergun Eremkara, Hakan Çimenot --> 1074, 1075, 1077
+Ergun Eremkara, Kürşat Sekban --> 1074, 1077
+Ergun Eremkara, Sacit Çöze --> 1074, 1075, 1077
+Ergun Eremkara, Yalçın Şaşmaz --> 1074, 1075, 1077
+Ergun Eremkara, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077
+Kamil Özler, Veysel Çadır --> 1074, 1075, 1077
+Tayfun Duygulu, Veysel Çadır --> 1074, 1077
+Barış Özer, Veysel Çadır --> 1074, 1077
+Meriç Demirkol, Veysel Çadır --> 1074, 1077
+Veysel Çadır, Çınar Apay --> 1074, 1075, 1077
+Veysel Çadır, İmer Demirer --> 1074, 1075, 1077
+Halil İbrahim Işık, Veysel Çadır --> 1074, 1077
+Fehmi Özbilek, Veysel Çadır --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Veysel Çadır --> 1074, 1075, 1077
+Emre Kayhan, Veysel Çadır --> 1074, 1075, 1077
+Hakan Çimenot, Veysel Çadır --> 1074, 1075, 1077
+Kürşat Sekban, Veysel Çadır --> 1074, 1077
+Sacit Çöze, Veysel Çadır --> 1074, 1075, 1077
+Veysel Çadır, Yalçın Şaşmaz --> 1074, 1075, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Veysel Çadır --> 1074, 1075, 1077
+Kamil Özler, Tayfun Duygulu --> 1074, 1077
+Barış Özer, Kamil Özler --> 1074, 1077, 1078
+Kamil Özler, Meriç Demirkol --> 1074, 1077, 1078
+Kamil Özler, Çınar Apay --> 1074, 1075, 1077
+Halil İbrahim Işık, Kamil Özler --> 1074, 1077, 1078
+Fehmi Özbilek, Kamil Özler --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Kamil Özler --> 1074, 1075, 1077, 1078
+Kamil Özler, Kürşat Sekban --> 1074, 1077, 1078
+Kamil Özler, Sacit Çöze --> 1074, 1075, 1077, 1078
+Kamil Özler, Yalçın Şaşmaz --> 1074, 1075, 1077
+Kamil Özler, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077, 1078
+Barış Özer, Tayfun Duygulu --> 1074, 1077
+Meriç Demirkol, Tayfun Duygulu --> 1074, 1077
+Tayfun Duygulu, Çınar Apay --> 1074, 1077
+Tayfun Duygulu, İmer Demirer --> 1074, 1077
+Halil İbrahim Işık, Tayfun Duygulu --> 1074, 1077
+Fehmi Özbilek, Tayfun Duygulu --> 1074, 1077
+Aldoğan Şimşekyay, Tayfun Duygulu --> 1074, 1077
+Emre Kayhan, Tayfun Duygulu --> 1074, 1077
+Hakan Çimenot, Tayfun Duygulu --> 1074, 1077
+Kürşat Sekban, Tayfun Duygulu --> 1074, 1077
+Sacit Çöze, Tayfun Duygulu --> 1074, 1077
+Tayfun Duygulu, Yalçın Şaşmaz --> 1074, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Tayfun Duygulu --> 1074, 1077
+Barış Özer, Meriç Demirkol --> 1074, 1077, 1078
+Barış Özer, Çınar Apay --> 1074, 1077
+Barış Özer, İmer Demirer --> 1074, 1077, 1078
+Barış Özer, Halil İbrahim Işık --> 1074, 1077, 1078
+Barış Özer, Fehmi Özbilek --> 1074, 1077
+Aldoğan Şimşekyay, Barış Özer --> 1074, 1077, 1078
+Barış Özer, Emre Kayhan --> 1074, 1077, 1078
+Barış Özer, Hakan Çimenot --> 1074, 1077, 1078
+Barış Özer, Kürşat Sekban --> 1074, 1077, 1078
+Barış Özer, Sacit Çöze --> 1074, 1077, 1078
+Barış Özer, Yalçın Şaşmaz --> 1074, 1077
+Barış Özer, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1077, 1078
+Meriç Demirkol, Çınar Apay --> 1074, 1077
+Fehmi Özbilek, Meriç Demirkol --> 1074, 1077
+Aldoğan Şimşekyay, Meriç Demirkol --> 1074, 1077, 1078
+Emre Kayhan, Meriç Demirkol --> 1074, 1077, 1078
+Kürşat Sekban, Meriç Demirkol --> 1074, 1077, 1078
+Meriç Demirkol, Sacit Çöze --> 1074, 1077, 1078
+Meriç Demirkol, Yalçın Şaşmaz --> 1074, 1077
+Meriç Demirkol, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1077, 1078
+Halil İbrahim Işık, Çınar Apay --> 1074, 1077
+Fehmi Özbilek, Çınar Apay --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Çınar Apay --> 1074, 1075, 1077
+Emre Kayhan, Çınar Apay --> 1074, 1075, 1077
+Kürşat Sekban, Çınar Apay --> 1074, 1077
+Sacit Çöze, Çınar Apay --> 1074, 1075, 1077
+Yalçın Şaşmaz, Çınar Apay --> 1074, 1075, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Çınar Apay --> 1074, 1075, 1077
+Fehmi Özbilek, İmer Demirer --> 1074, 1075, 1077
+Aldoğan Şimşekyay, İmer Demirer --> 1074, 1075, 1077, 1078
+Sacit Çöze, İmer Demirer --> 1074, 1075, 1077, 1078
+Yalçın Şaşmaz, İmer Demirer --> 1074, 1075, 1077
+TRT Hafif Müzik ve Caz Orkestrası, İmer Demirer --> 1074, 1075, 1076, 1077, 1078
+Fehmi Özbilek, Halil İbrahim Işık --> 1074, 1077
+Aldoğan Şimşekyay, Halil İbrahim Işık --> 1074, 1077, 1078
+Emre Kayhan, Halil İbrahim Işık --> 1074, 1077, 1078
+Halil İbrahim Işık, Kürşat Sekban --> 1074, 1077, 1078
+Halil İbrahim Işık, Sacit Çöze --> 1074, 1077, 1078
+Halil İbrahim Işık, Yalçın Şaşmaz --> 1074, 1077
+Halil İbrahim Işık, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1077, 1078
+Aldoğan Şimşekyay, Fehmi Özbilek --> 1074, 1075, 1077
+Emre Kayhan, Fehmi Özbilek --> 1074, 1075, 1077
+Fehmi Özbilek, Hakan Çimenot --> 1074, 1075, 1077
+Fehmi Özbilek, Kürşat Sekban --> 1074, 1077
+Fehmi Özbilek, Sacit Çöze --> 1074, 1075, 1077
+Fehmi Özbilek, Yalçın Şaşmaz --> 1074, 1075, 1077
+Fehmi Özbilek, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077
+Aldoğan Şimşekyay, Emre Kayhan --> 1074, 1075, 1077, 1078
+Aldoğan Şimşekyay, Hakan Çimenot --> 1074, 1075, 1077, 1078
+Aldoğan Şimşekyay, Kürşat Sekban --> 1074, 1077, 1078
+Aldoğan Şimşekyay, Sacit Çöze --> 1074, 1075, 1077, 1078
+Aldoğan Şimşekyay, Yalçın Şaşmaz --> 1074, 1075, 1077
+Aldoğan Şimşekyay, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077, 1078
+Emre Kayhan, Kürşat Sekban --> 1074, 1077, 1078
+Emre Kayhan, Sacit Çöze --> 1074, 1075, 1077, 1078
+Emre Kayhan, Yalçın Şaşmaz --> 1074, 1075, 1077
+Emre Kayhan, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077, 1078
+Hakan Çimenot, Kürşat Sekban --> 1074, 1077, 1078
+Hakan Çimenot, Sacit Çöze --> 1074, 1075, 1077, 1078
+Hakan Çimenot, Yalçın Şaşmaz --> 1074, 1075, 1077
+Hakan Çimenot, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077, 1078
+Kürşat Sekban, Sacit Çöze --> 1074, 1077, 1078
+Kürşat Sekban, Yalçın Şaşmaz --> 1074, 1077
+Kürşat Sekban, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1077, 1078
+Sacit Çöze, Yalçın Şaşmaz --> 1074, 1075, 1077
+Sacit Çöze, TRT Hafif Müzik ve Caz Orkestrası --> 1074, 1075, 1077, 1078
+TRT Hafif Müzik ve Caz Orkestrası, Yalçın Şaşmaz --> 1074, 1075, 1077
+Ayhan Yünkuş, Baki Duyarlar --> 1075, 1077
+Ayhan Yünkuş, Eray Turgay --> 1075, 1077
+Ayhan Yünkuş, Ergun Eremkara --> 1075, 1077
+Ayhan Yünkuş, Hasan Hürsever --> 1075, 1077
+Ayhan Yünkuş, Veysel Çadır --> 1075, 1077
+Ayhan Yünkuş, Kamil Özler --> 1075, 1077
+Atakan Ünüvar, Ayhan Yünkuş --> 1075, 1077
+Ayhan Yünkuş, Erol Duygulu --> 1075, 1077
+Ayhan Yünkuş, Ergüven Başaran --> 1075, 1077
+Ayhan Yünkuş, Çınar Apay --> 1075, 1077
+Ayhan Yünkuş, Yalçın Ateş --> 1075, 1077
+Ayhan Yünkuş, İmer Demirer --> 1075, 1077
+Aydın Özarı, Ayhan Yünkuş --> 1075, 1077
+Ayhan Yünkuş, Halil Yiğit --> 1075, 1077
+Ayhan Yünkuş, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Ayhan Yünkuş --> 1075, 1077
+Ayhan Yünkuş, Emre Kayhan --> 1075, 1077
+Ayhan Yünkuş, Gürsan Saçlı --> 1075, 1077
+Ayhan Yünkuş, Hakan Çimenot --> 1075, 1077
+Ayhan Yünkuş, Sacit Çöze --> 1075, 1077
+Ayhan Yünkuş, Yalçın Şaşmaz --> 1075, 1077
+Ayhan Yünkuş, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Baki Duyarlar, Eray Turgay --> 1075, 1077
+Baki Duyarlar, Ergun Eremkara --> 1075, 1077
+Baki Duyarlar, Hasan Hürsever --> 1075, 1077
+Baki Duyarlar, Erol Duygulu --> 1075, 1077
+Baki Duyarlar, Ergüven Başaran --> 1075, 1077
+Baki Duyarlar, Çınar Apay --> 1075, 1077
+Baki Duyarlar, Yalçın Ateş --> 1075, 1077
+Aydın Özarı, Baki Duyarlar --> 1075, 1077
+Baki Duyarlar, Halil Yiğit --> 1075, 1077
+Baki Duyarlar, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Baki Duyarlar --> 1075, 1077
+Baki Duyarlar, Emre Kayhan --> 1075, 1077
+Baki Duyarlar, Gürsan Saçlı --> 1075, 1077
+Baki Duyarlar, Sacit Çöze --> 1075, 1077
+Baki Duyarlar, Yalçın Şaşmaz --> 1075, 1077
+Baki Duyarlar, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Eray Turgay, Ergun Eremkara --> 1075, 1077
+Eray Turgay, Hasan Hürsever --> 1075, 1077
+Eray Turgay, Veysel Çadır --> 1075, 1077
+Eray Turgay, Neşet Ruacan --> 1075, 1076
+Eray Turgay, Kamil Özler --> 1075, 1077
+Atakan Ünüvar, Eray Turgay --> 1075, 1076, 1077
+Eray Turgay, Erol Duygulu --> 1075, 1076, 1077
+Eray Turgay, Ergüven Başaran --> 1075, 1077
+Eray Turgay, Çınar Apay --> 1075, 1077
+Eray Turgay, Yalçın Ateş --> 1075, 1076, 1077
+Eray Turgay, İmer Demirer --> 1075, 1076, 1077
+Aydın Özarı, Eray Turgay --> 1075, 1076, 1077
+Eray Turgay, Halil Yiğit --> 1075, 1077
+Eray Turgay, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Eray Turgay --> 1075, 1077
+Emre Kayhan, Eray Turgay --> 1075, 1077
+Eray Turgay, Gürsan Saçlı --> 1075, 1077
+Eray Turgay, Hakan Çimenot --> 1075, 1077
+Eray Turgay, Sacit Çöze --> 1075, 1077
+Eray Turgay, Yalçın Şaşmaz --> 1075, 1077
+Eray Turgay, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1076, 1077
+Ergun Eremkara, Hasan Hürsever --> 1075, 1077
+Ergun Eremkara, Erol Duygulu --> 1075, 1077
+Ergun Eremkara, Ergüven Başaran --> 1075, 1077
+Ergun Eremkara, Yalçın Ateş --> 1075, 1077
+Aydın Özarı, Ergun Eremkara --> 1075, 1077
+Ergun Eremkara, Halil Yiğit --> 1075, 1077
+Ergun Eremkara, Gürsan Saçlı --> 1075, 1077
+Hasan Hürsever, Veysel Çadır --> 1075, 1077
+Hasan Hürsever, Kamil Özler --> 1075, 1077
+Atakan Ünüvar, Hasan Hürsever --> 1075, 1077
+Erol Duygulu, Hasan Hürsever --> 1075, 1077
+Ergüven Başaran, Hasan Hürsever --> 1075, 1077
+Hasan Hürsever, Çınar Apay --> 1075, 1077
+Hasan Hürsever, Yalçın Ateş --> 1075, 1077
+Hasan Hürsever, İmer Demirer --> 1075, 1077
+Aydın Özarı, Hasan Hürsever --> 1075, 1077
+Halil Yiğit, Hasan Hürsever --> 1075, 1077
+Fehmi Özbilek, Hasan Hürsever --> 1075, 1077
+Aldoğan Şimşekyay, Hasan Hürsever --> 1075, 1077
+Emre Kayhan, Hasan Hürsever --> 1075, 1077
+Gürsan Saçlı, Hasan Hürsever --> 1075, 1077
+Hakan Çimenot, Hasan Hürsever --> 1075, 1077
+Hasan Hürsever, Sacit Çöze --> 1075, 1077
+Hasan Hürsever, Yalçın Şaşmaz --> 1075, 1077
+Hasan Hürsever, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Erol Duygulu, Veysel Çadır --> 1075, 1077
+Ergüven Başaran, Veysel Çadır --> 1075, 1077
+Veysel Çadır, Yalçın Ateş --> 1075, 1077
+Aydın Özarı, Veysel Çadır --> 1075, 1077
+Halil Yiğit, Veysel Çadır --> 1075, 1077
+Gürsan Saçlı, Veysel Çadır --> 1075, 1077
+Atakan Ünüvar, Neşet Ruacan --> 1075, 1076
+Erol Duygulu, Neşet Ruacan --> 1075, 1076
+Neşet Ruacan, Yalçın Ateş --> 1075, 1076
+Aydın Özarı, Neşet Ruacan --> 1075, 1076
+Neşet Ruacan, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1076
+Erol Duygulu, Kamil Özler --> 1075, 1077
+Ergüven Başaran, Kamil Özler --> 1075, 1077
+Kamil Özler, Yalçın Ateş --> 1075, 1077
+Aydın Özarı, Kamil Özler --> 1075, 1077
+Halil Yiğit, Kamil Özler --> 1075, 1077
+Gürsan Saçlı, Kamil Özler --> 1075, 1077
+Atakan Ünüvar, Erol Duygulu --> 1075, 1076, 1077
+Atakan Ünüvar, Ergüven Başaran --> 1075, 1077
+Atakan Ünüvar, Yalçın Ateş --> 1075, 1076, 1077
+Atakan Ünüvar, Aydın Özarı --> 1075, 1076, 1077
+Atakan Ünüvar, Halil Yiğit --> 1075, 1077
+Atakan Ünüvar, Gürsan Saçlı --> 1075, 1077
+Ergüven Başaran, Erol Duygulu --> 1075, 1077
+Erol Duygulu, Çınar Apay --> 1075, 1077
+Erol Duygulu, Yalçın Ateş --> 1075, 1076, 1077
+Erol Duygulu, İmer Demirer --> 1075, 1076, 1077
+Aydın Özarı, Erol Duygulu --> 1075, 1076, 1077
+Erol Duygulu, Halil Yiğit --> 1075, 1077
+Erol Duygulu, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Erol Duygulu --> 1075, 1077
+Emre Kayhan, Erol Duygulu --> 1075, 1077
+Erol Duygulu, Gürsan Saçlı --> 1075, 1077
+Erol Duygulu, Hakan Çimenot --> 1075, 1077
+Erol Duygulu, Sacit Çöze --> 1075, 1077
+Erol Duygulu, Yalçın Şaşmaz --> 1075, 1077
+Erol Duygulu, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1076, 1077
+Ergüven Başaran, Çınar Apay --> 1075, 1077
+Ergüven Başaran, Yalçın Ateş --> 1075, 1077
+Ergüven Başaran, İmer Demirer --> 1075, 1077
+Aydın Özarı, Ergüven Başaran --> 1075, 1077
+Ergüven Başaran, Halil Yiğit --> 1075, 1077
+Ergüven Başaran, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Ergüven Başaran --> 1075, 1077
+Emre Kayhan, Ergüven Başaran --> 1075, 1077
+Ergüven Başaran, Gürsan Saçlı --> 1075, 1077
+Ergüven Başaran, Hakan Çimenot --> 1075, 1077
+Ergüven Başaran, Sacit Çöze --> 1075, 1077
+Ergüven Başaran, Yalçın Şaşmaz --> 1075, 1077
+Ergüven Başaran, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Yalçın Ateş, Çınar Apay --> 1075, 1077
+Aydın Özarı, Çınar Apay --> 1075, 1077
+Halil Yiğit, Çınar Apay --> 1075, 1077
+Gürsan Saçlı, Çınar Apay --> 1075, 1077
+Yalçın Ateş, İmer Demirer --> 1075, 1076, 1077
+Aydın Özarı, Yalçın Ateş --> 1075, 1076, 1077
+Halil Yiğit, Yalçın Ateş --> 1075, 1077
+Fehmi Özbilek, Yalçın Ateş --> 1075, 1077
+Aldoğan Şimşekyay, Yalçın Ateş --> 1075, 1077
+Emre Kayhan, Yalçın Ateş --> 1075, 1077
+Gürsan Saçlı, Yalçın Ateş --> 1075, 1077
+Hakan Çimenot, Yalçın Ateş --> 1075, 1077
+Sacit Çöze, Yalçın Ateş --> 1075, 1077
+Yalçın Ateş, Yalçın Şaşmaz --> 1075, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Yalçın Ateş --> 1075, 1076, 1077
+Aydın Özarı, İmer Demirer --> 1075, 1076, 1077
+Halil Yiğit, İmer Demirer --> 1075, 1077
+Gürsan Saçlı, İmer Demirer --> 1075, 1077
+Aydın Özarı, Halil Yiğit --> 1075, 1077
+Aydın Özarı, Fehmi Özbilek --> 1075, 1077
+Aldoğan Şimşekyay, Aydın Özarı --> 1075, 1077
+Aydın Özarı, Emre Kayhan --> 1075, 1077
+Aydın Özarı, Gürsan Saçlı --> 1075, 1077
+Aydın Özarı, Hakan Çimenot --> 1075, 1077
+Aydın Özarı, Sacit Çöze --> 1075, 1077
+Aydın Özarı, Yalçın Şaşmaz --> 1075, 1077
+Aydın Özarı, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1076, 1077
+Fehmi Özbilek, Halil Yiğit --> 1075, 1077
+Aldoğan Şimşekyay, Halil Yiğit --> 1075, 1077
+Emre Kayhan, Halil Yiğit --> 1075, 1077
+Gürsan Saçlı, Halil Yiğit --> 1075, 1077
+Hakan Çimenot, Halil Yiğit --> 1075, 1077
+Halil Yiğit, Sacit Çöze --> 1075, 1077
+Halil Yiğit, Yalçın Şaşmaz --> 1075, 1077
+Halil Yiğit, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Fehmi Özbilek, Gürsan Saçlı --> 1075, 1077
+Aldoğan Şimşekyay, Gürsan Saçlı --> 1075, 1077
+Emre Kayhan, Gürsan Saçlı --> 1075, 1077
+Gürsan Saçlı, Hakan Çimenot --> 1075, 1077
+Gürsan Saçlı, Sacit Çöze --> 1075, 1077
+Gürsan Saçlı, Yalçın Şaşmaz --> 1075, 1077
+Gürsan Saçlı, TRT Hafif Müzik ve Caz Orkestrası --> 1075, 1077
+Tuna Ötenel, Tuna Ötenel --> 1076, 1077, 1117, 1126, 1175
+Serkan Özyılmaz, Tuna Ötenel --> 1076, 1077
+Eray Turgay, Tuna Ötenel --> 1076, 1077
+Erol Duygulu, Tuna Ötenel --> 1076, 1077
+Tuna Ötenel, Yalçın Ateş --> 1076, 1077
+Aydın Özarı, Tuna Ötenel --> 1076, 1077
+Nejat Dayıoğlu, Tuna Ötenel --> 1076, 1077
+TRT Hafif Müzik ve Caz Orkestrası, Tuna Ötenel --> 1076, 1077
+Eray Turgay, Serkan Özyılmaz --> 1076, 1077
+Erol Duygulu, Serkan Özyılmaz --> 1076, 1077
+Serkan Özyılmaz, Yalçın Ateş --> 1076, 1077
+Aydın Özarı, Serkan Özyılmaz --> 1076, 1077
+Nejat Dayıoğlu, Serkan Özyılmaz --> 1076, 1077
+Eray Turgay, Fatih Erkoç --> 1076, 1077
+Eray Turgay, Nejat Dayıoğlu --> 1076, 1077
+Erol Duygulu, Fatih Erkoç --> 1076, 1077
+Fatih Erkoç, Yalçın Ateş --> 1076, 1077
+Aydın Özarı, Fatih Erkoç --> 1076, 1077
+Fatih Erkoç, Nejat Dayıoğlu --> 1076, 1077
+Fatih Erkoç, TRT Hafif Müzik ve Caz Orkestrası --> 1076, 1077
+Atakan Ünüvar, Nejat Dayıoğlu --> 1076, 1077
+Erol Duygulu, Nejat Dayıoğlu --> 1076, 1077
+Nejat Dayıoğlu, Yalçın Ateş --> 1076, 1077
+Nejat Dayıoğlu, İmer Demirer --> 1076, 1077
+Aydın Özarı, Nejat Dayıoğlu --> 1076, 1077
+Nejat Dayıoğlu, TRT Hafif Müzik ve Caz Orkestrası --> 1076, 1077
+Serkan Özyılmaz, Çağdaş Oruç --> 1077, 1173
+Serkan Özyılmaz, Utku Akyol --> 1077, 1078
+Hüseyin Çakır, Serkan Özyılmaz --> 1077, 1078
+Barış Özer, Ozan Musluoğlu --> 1077, 1078
+Aldoğan Şimşekyay, Ozan Musluoğlu --> 1077, 1078
+Ozan Musluoğlu, Utku Akyol --> 1077, 1078
+Emre Kayhan, Ozan Musluoğlu --> 1077, 1078
+Hüseyin Çakır, Ozan Musluoğlu --> 1077, 1078
+Kürşat Sekban, Ozan Musluoğlu --> 1077, 1078
+Ozan Musluoğlu, Sacit Çöze --> 1077, 1078
+Ozan Musluoğlu, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Barış Özer, Ferit Odman --> 1077, 1078
+Aldoğan Şimşekyay, Ferit Odman --> 1077, 1078
+Ferit Odman, Utku Akyol --> 1077, 1078
+Ferit Odman, Hüseyin Çakır --> 1077, 1078
+Ferit Odman, Kürşat Sekban --> 1077, 1078
+Ferit Odman, Sacit Çöze --> 1077, 1078
+Ferit Odman, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Kamil Özler, Utku Akyol --> 1077, 1078
+Hüseyin Çakır, Kamil Özler --> 1077, 1078
+Emre Kayhan, Çağdaş Oruç --> 1077, 1176
+Barış Özer, Engin Recepoğulları --> 1077, 1078
+Aldoğan Şimşekyay, Engin Recepoğulları --> 1077, 1078
+Engin Recepoğulları, Utku Akyol --> 1077, 1078, 1171
+Emre Kayhan, Engin Recepoğulları --> 1077, 1078
+Engin Recepoğulları, Hüseyin Çakır --> 1077, 1078
+Engin Recepoğulları, Kürşat Sekban --> 1077, 1078
+Engin Recepoğulları, Sacit Çöze --> 1077, 1078
+Engin Recepoğulları, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Barış Özer, Serhan Erkol --> 1077, 1078
+Aldoğan Şimşekyay, Serhan Erkol --> 1077, 1078
+Serhan Erkol, Utku Akyol --> 1077, 1078
+Hüseyin Çakır, Serhan Erkol --> 1077, 1078
+Kürşat Sekban, Serhan Erkol --> 1077, 1078
+Sacit Çöze, Serhan Erkol --> 1077, 1078
+Serhan Erkol, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Barış Özer, Utku Akyol --> 1077, 1078
+Barış Özer, Hüseyin Çakır --> 1077, 1078
+Barış Özer, Ediz Hafızoğlu --> 1077, 1078
+Meriç Demirkol, Utku Akyol --> 1077, 1078
+Hüseyin Çakır, Meriç Demirkol --> 1077, 1078
+Utku Akyol, İmer Demirer --> 1077, 1078
+Hüseyin Çakır, İmer Demirer --> 1077, 1078
+Aldoğan Şimşekyay, Utku Akyol --> 1077, 1078
+Aldoğan Şimşekyay, Hüseyin Çakır --> 1077, 1078
+Aldoğan Şimşekyay, Ediz Hafızoğlu --> 1077, 1078
+Halil İbrahim Işık, Utku Akyol --> 1077, 1078
+Halil İbrahim Işık, Hüseyin Çakır --> 1077, 1078
+Emre Kayhan, Utku Akyol --> 1077, 1078
+Hakan Çimenot, Utku Akyol --> 1077, 1078
+Hüseyin Çakır, Utku Akyol --> 1077, 1078
+Kürşat Sekban, Utku Akyol --> 1077, 1078
+Sacit Çöze, Utku Akyol --> 1077, 1078
+Ediz Hafızoğlu, Utku Akyol --> 1077, 1078, 1171
+TRT Hafif Müzik ve Caz Orkestrası, Utku Akyol --> 1077, 1078
+Emre Kayhan, Hüseyin Çakır --> 1077, 1078
+Ediz Hafızoğlu, Emre Kayhan --> 1077, 1078
+Hakan Çimenot, Hüseyin Çakır --> 1077, 1078
+Hüseyin Çakır, Kürşat Sekban --> 1077, 1078
+Hüseyin Çakır, Sacit Çöze --> 1077, 1078
+Ediz Hafızoğlu, Hüseyin Çakır --> 1077, 1078
+Hüseyin Çakır, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Ediz Hafızoğlu, Kürşat Sekban --> 1077, 1078
+Ediz Hafızoğlu, Sacit Çöze --> 1077, 1078
+Ediz Hafızoğlu, TRT Hafif Müzik ve Caz Orkestrası --> 1077, 1078
+Cem Tuncer, Utku Akyol --> 1078, 1171
+Serhan Erkol, Serhan Erkol --> 1078, 1113, 1124, 1145, 1156
+Okay Temiz, Saffet Gündeğer --> 1085, 1137
+Can Çankaya, Yahya Dai --> 1095, 1171
+Deniz Beydili, Tolga Şanlı --> 1125, 1130
+Abbas Karacan, Tolga Şanlı --> 1125, 1130
+Cengiz Tural, Deniz Beydili --> 1125, 1130
+Abbas Karacan, Deniz Beydili --> 1125, 1130
+Abbas Karacan, Cengiz Tural --> 1125, 1130
+Selen Gülün, Sibel Gürsoy --> 1152, 1161
+Sibel Gürsoy, Yahya Dai --> 1152, 1161
+Eylem Pelit, Umut Pelit --> 1165, 1173
+Turgut Alp Bekoğlu, Umut Pelit --> 1165, 1173
