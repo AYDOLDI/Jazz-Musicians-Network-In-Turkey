@@ -1,6 +1,6 @@
 Alper Alsan,Emrah Sarıtunalılar,Nedim Ruacan,Evrim Özşuca,Elif Çağlar,Burak Babacan,Meriç Demirkol,Neşet Ruacan,Gökalp Ergen
 Emir Ersoy,Ajda Pekkan,Kenan Doğulu,Funda Arar,Metin Ersoy,Ayça Varlıer,Yaşar,Deniz Seki,Kubat,Tuğba Özerk,Emre Altuğ
-Kerem Görsev,Cengiz Baysal,Seren Akyoldaş,Fundagül İnce,Ece Özbaylı,Recep Gül,İbrahim Halaçoğlu,Ali Göktürk,David Sanborn,Gil Goldstein,Christian McBride,Terri-Lynne Carrington,Tori Amos,Elvis Costello,Jamie Cullum,Geoff Gascoyne,Sebastiaan Dekrom,Neal Evans,Alan Evans,Eric Krasno,Ryan Zoidis,Rashawn Ross,Dianne Reeves,David Lewis,Mano Ranzanajato,François Jeannin,Belle Du Berry,Potzi,Badi Assad,Charlie Haden,Eirik Boe,Erlend Oye
+Kerem Görsev,Cengiz Baysal,Seren Akyoldaş,Fundagül İnce,Ece Özbaylı,Recep Gül,İbrahim Halaçoğlu,Ali Göktürk,David Sanborn,Gil Goldstein,Christian McBride,Terri Lynne Carrington,Tori Amos,Elvis Costello,Jamie Cullum,Geoff Gascoyne,Sebastiaan Dekrom,Neal Evans,Alan Evans,Eric Krasno,Ryan Zoidis,Rashawn Ross,Dianne Reeves,David Lewis,Mano Ranzanajato,François Jeannin,Belle Du Berry,Potzi,Badi Assad,Charlie Haden,Eirik Boe,Erlend Oye
 Özgür Aydın,Hakan Erken
 Anıl Şallıel,Tolga Erzurumlu,Cahit Kutrafalı,Ekin Cengizkan,Deniz Taşar,Önder Focan,Cenk Erdoğan,Batu Şallıel,Hasan Gözetlik,Hüsnü Şenlendirici,Memduh Akatay,Furkan Bilgi,Mustafa İpekçioğlu
 Anıl Şallıel,Batu Şallıel,Hüsnü Şenlendirici,Ergün Şenlendirici,Hasan Gözetlik,Deniz Taşar,Hakan Yelbiz,Mert Kemancı,Hüseyin Kemancı
@@ -30,7 +30,7 @@ Durul Gence,Attila Özdemiroğlu,Ahit Oben,Mehmet Horoz,Mehmet Şahinbaş
 Ömür Göksel
 Cengiz Yaltkaya,Greg Swiller,Bill Wysaske
 Şinasi Celayiroğlu,Koray Ergünay,Arda Varol,Burak Yücesoy
-Mehmet Ali Sanlıkol,Gil Goldstein,Kabir Sehgal,Sharon Renold,Billy Cobham,Lydia Renold,Helen Savari-Renold,Tommy Smith,Norayr Gapoyan,Milad Khawam
+Mehmet Ali Sanlıkol,Gil Goldstein,Kabir Sehgal,Sharon Renold,Billy Cobham,Lydia Renold,Helen Savari Renold,Tommy Smith,Norayr Gapoyan,Milad Khawam
 Mustafa Avşar,Eylem Pelit,Volkan Öktem,Şenova Ülker
 Evrim Demirel,Volkan Topakoğlu,Erdem Göymen,Özer Özel
 Aycan Teztel,Gülden Teztel,Volkan Öktem,Duygu Tarhan,Ercüment Ateş,Erdem Sökmen,Okan Ersan,Batu Şallıel,Şenova Ülker,Burak Dursun,Gökay Gökşen,Mehmet Akatay
@@ -58,7 +58,7 @@ Cem Tuncer,Volkan Hürsever,Ediz Hafızoğlu,Engin Recepoğulları,Ricky Ford
 Pelin Bindal,Muzaffer Nezihi Egelioğlu,Cengiz Tural,Anıl Şallıel
 Tolgahan Çoğulu,Sinan Ayyıldız,Burak Çakır
 Ara Dinkjian,Adi Renert,Zohar Fresco
-Mehmet Ali Sanlıkol,James Heazlewood-Dale,George Lernis
+Mehmet Ali Sanlıkol,James Heazlewood Dale,George Lernis
 Levent Altındağ,Cengiz Özdemir,Eylem Pelit,Volkan Öktem,Berç Yeremyan,Cem Erman,Ercan Irmak,Erdem Sökmen,Halil Karaduman,Erdal Erzincan,Mehmet Akatay,Aycan Teztel,Deniz Selman,Habbecik
 Aydın Esen,Anthony Jackson,Dave Holland,Peter Erskine,Bob Mintzer,Dave Liebman,John Faddis,Dave Bargeron,Bob Mintzer,Stephen Taylor,Mino Cinelu
 Baturay Yarkın,Nağme Yarkın,Enver Muhammedi,Burak Cihangirli,Gürkan Çakmak,Fahrettin Yarkın,Yurdal Tokcan,Murat Salim Tokaç
@@ -216,7 +216,7 @@ Ercüment Ateş,Eylem Pelit,Volkan Öktem
 Eylül Biçer,Can Çankaya,Berke Özgümüş
 Arto Tunçboyacıyan,Vahagn Hayrapetyan,Vardan Arakelyan,Arman Jalalyan,Armen Hyusnunts,David Nalchajyan,Tigran Suchyan,Ashot Harutiunyan,Norayr Kartashyan,Vardan Grigoryan,Anahit Artushyan,Armen Ayvazyan,Armenian Navy Band
 Selçuk Güllü,Hasan Kunt Yılmaz,Carlos Valderrama,Cameron Dean,Adar Cohen
-Sedat Anar,Emre Topak,Kuzey Yılmaz,Ömer Muhammed,Ali Taşyürek,Taylan Şakalakoğlu,Tuncay Korkmaz,Cansun Küçüktürk,Serhan Ji-baki,Sercan Peşan
+Sedat Anar,Emre Topak,Kuzey Yılmaz,Ömer Muhammed,Ali Taşyürek,Taylan Şakalakoğlu,Tuncay Korkmaz,Cansun Küçüktürk,Serhan Ji baki,Sercan Peşan
 Cengiz Baysal,Ercüment Orkut,Jared Pauley,Selen Gülün,İlker Özalp,Sarp Maden,Adam Hutcheson,Jeff Lopez,Demirhan Baylan
 Bahadır Tatlıöz,Yasin Bozkurt
 Kerem Türkaydın,Adem Gülşen,Kağan Yıldız,Ferit Odman,Serhan Erkol,İmer Demirer,Şenova Ülker,Emre Kayhan,Göksun Çavdar,Mehmet Seyid Mas
@@ -239,7 +239,7 @@ Cenk Erdoğan,İsmail Tunçbilek
 Alp Ersönmez,Bugge Wesseltoft,Can Çankaya,Çağrı Sertel,Ediz Hafızoğlu,Papa Dee,Thalma De Freitas,Arto Tunçboyacıyan,Can Şengün,Engin Recepoğulları,Serhan Erkol,Doruk Gönentür,Erik Truffaz,İmer Demirer,Bulut Gülen
 Alp Ersönmez,Çağrı Sertel,Can Çankaya,Ediz Hafızoğlu,Sibel Gürsoy,DJ Logic,Can Şengün,Engin Recepoğulları,İlhan Erşahin,İmer Demirer,Doruk Gönentür,Bulut Gülen
 Ayşe Tütüncü,Saruhan Erim,Serdar Önenç,Timuçin Gürer,Ümit Kıvanç,Oğuz Büyükberber
-Yinon Muallem,Yurdal Tokcan,Göksel Baktagir,Emrullah Şengüller,Selim Güler,Halil Necipoğlu,Haddas Pal-Yarden,Eval Sela,Yankal'e Segal,Wassim Besara,Shlomo Oz,Ofer Ankori
+Yinon Muallem,Yurdal Tokcan,Göksel Baktagir,Emrullah Şengüller,Selim Güler,Halil Necipoğlu,Haddas Pal Yarden,Eval Sela,Yankal'e Segal,Wassim Besara,Shlomo Oz,Ofer Ankori
 Coşku Turhan,Ozan Musluoğlu,Ferit Odman,Doruk Gönentür
 Coşku Turhan,Ahmet Türkmenoğlu,Chris Wabich,Cenk Erdoğan
 Şentürk Öztaş,Deniz Taşar
@@ -270,7 +270,7 @@ Ara Dinkjian
 İlhan Erşahin,Jesse Murphy,Jochen Rueckert,Marla Turner,Thor Madsen,Wax Poetic (Grup)
 Aycan Teztel,Şenova Ülker
 Esra Dalfidan,Franz von Chossy,Sean Fasciani,Uli Genenger,Olaf Tarenskeen,Raphael Vanoli,Tineke Postma,Tobias Klein
-Murat Öztürk,Gautier Laurent,Olivier Strauch,Jean-Pascal Boffo
+Murat Öztürk,Gautier Laurent,Olivier Strauch,Jean Pascal Boffo
 Emir Ersoy,Eylem Pelit,Turgut Alp Bekoğlu,Serdar Barçın,Ateş Öztürkmen
 Onur Aymergen,Su İdil,Anıl Tuncer,Orhan Deniz,Robert Mehmet İkiz
 Sanem Kalfa,George Dumitriu,
@@ -300,7 +300,7 @@ Osman İşmen
 Burak Bedikyan
 Senem Diyici,Alain Blesing,Ravy Magnifique,Philippe Botta
 Kerem Görsev,Kağan Yıldız,Ferit Odman
-Bruno Angelini,François-Charles Delacoudre,Christian Lete,Philippe Poussard,Spiral Quartet
+Bruno Angelini,François Charles Delacoudre,Christian Lete,Philippe Poussard,Spiral Quartet
 Ediz Hafızoğlu,Elif Çağlar,Ercüment Orkut,Orhan Deniz,Cem Tuncer,Serhan Erkol,Barış Doğukan Yazıcı
 Erkan Oğur,Derya Türkan,İlkin Deniz
 Genco Arı,Alp Ersönmez,Volkan Öktem,Sarp Maden
@@ -432,11 +432,11 @@ Hüseyin Ertunç,Doğan Doğusel,Cem Tan,Umut Çağlar
 Süreyya Soyak,Görkem Ediz
 Taner Akyol,Antonis Anissegos,David Kuckhermann
 Funda Akyazıcı,Yavuz Akyazıcı,Enver Muhamedi,Cengiz Baysal
-Hayati Kafe,Janne Bergman,Per-Anders Fröding,Radu Mircea,Jan Allan
+Hayati Kafe,Janne Bergman,Per Anders Fröding,Radu Mircea,Jan Allan
 Kerem Görsev,Volkan Hürsever,Oğuz Durukan,Can Kozlu,Ricardo Moyano,Neşet Ruacan,Çınar Apay,İmer Demirer,Hakan Çimenot,Hakan Beşer,Can Kozlu
 Apostolos Sideris,Leo Genovese,Dimitris Klonis,Costas Baltazanis,Sarp Maden,Tamer Temel,Andrea Romani,Şakir Ozan Uygan,Giannis Poulios,Fotini Kokkala,Attab Haddad
 Akın Eldes,Sinan Cem Eroğlu
-Maffy Falay (Muvaffak Falay),Elvan Aracı,Ake Johansson,Per-Ola Gadd,Ronnie Gardiner,Bernt Rosengren
+Maffy Falay (Muvaffak Falay),Elvan Aracı,Ake Johansson,Per Ola Gadd,Ronnie Gardiner,Bernt Rosengren
 Yıldız İbrahimova,Anatoly Vapirov,Hristo Yotsov
 Fatih Oral,Lütfücan Kapucu,Oğuz Alp Erdoğmuş
 Pınar Seyhun,Ercüment Orkut,Eylem Pelit,Volkan Öktem,Cenk Eroğlu,Çağdaş Oruç,Şenova Ülker,Aycan Teztel,Seyid Mas,Seda Subaşı,Gizem Korkmaz,Deniz Yücel,Erman İmayhan
@@ -532,7 +532,7 @@ Burak Bedikyan,Matt Hall (Matthew Hall),Can Kozlu,Gabor Bolla
 İlhan Erşahin,Alp Ersönmez,Turgut Alp Bekoğlu,İzzet Kızıl,Istanbul Sessions (Grup)
 Sema Moritz,Dieter Moritz,Martin Lillich,Uli Moritz,Lothar Hensel,Charlie Mariano,Kamalesh Maitra
 Okay Temiz,Yves Rousseau,Alain Blesing,Lennart Aberg,Sylvain Kassap,Nedim Nalbantoğlu
-Asena Akan,Burç Bora Uyan,Kağan Yıldız,Ferit Odman,Donovan Mixon,Bulut Gülen,Jean-Pierre Smadja
+Asena Akan,Burç Bora Uyan,Kağan Yıldız,Ferit Odman,Donovan Mixon,Bulut Gülen,Jean Pierre Smadja
 Cenk Esen,Aydın Esen,Jules Chappert,Jasper Williamson,Berker Banar,Aykan Esen,Yağmur Gökçelik,Berke Köymen,Daniel Guerrette,Mehmet Ali Şimayli,Şam,Leyla Huysal,Randy Esen,Bade,İzel Mori,Yusuf Huysal,Kerem Can Dündar,Toivo Hannigan,Kyu Hyun Kim
 Nilüfer Verdi,Kağan Yıldız,Nedim Ruacan,Kamil Özler
 Ahmet Kadri Rizeli,Nail Yavuzoğlu,Nezih Yeşilnil,Cem Aksel
@@ -551,7 +551,7 @@ Alpay Ünyaylar,Umut Sel,Göksel Karagülleler,Linda Candır,Murat Yerinli,Tayfu
 Alpay Ünyaylar,Cenker Sarp,Mehmet Yüzgeç,Murat Yerinli,Turgay Özüfler,Türker Dinletir,Can Olgun,Ali Yılmaz
 Baki Duyarlar,Kristian Lind,Mehmet Akatay,Antonio Serrano
 Senem Diyici,Alain Blesing,Philippe Botta,Ravy Magnifique
-Arif Mardin,Richard Tee,Pat Rebillot,Ken Bichel,Milcho Leviev,Gordon Edwards,Tony Levin,Ron Carter,Alex Blake,Bernard Purdie,Stephen Gadd,Grady Tate,Billy Cobham,Ursula Dudziak-Urbaniak,Cornell Dupree,David Spinozza,Jerry Friedman,Michael Brecker,Joe Farrell,Seldon Powell,Phil Bodner,David Newman,Frank Wess,Romeo Penque,Pepper Adams,Randy Brecker,Marvin Stamm,Mel Davis,James Buffington,Tony Studd,Garnett Brown,Hubert Laws,Phil Bodner,Don Butterfield,George Devens,Ted Sommer,Ralph MacDonald,Armen Halburian,Gene Orloff,Michal Urbaniak,George Ricci,Gary Burton
+Arif Mardin,Richard Tee,Pat Rebillot,Ken Bichel,Milcho Leviev,Gordon Edwards,Tony Levin,Ron Carter,Alex Blake,Bernard Purdie,Stephen Gadd,Grady Tate,Billy Cobham,Ursula Dudziak Urbaniak,Cornell Dupree,David Spinozza,Jerry Friedman,Michael Brecker,Joe Farrell,Seldon Powell,Phil Bodner,David Newman,Frank Wess,Romeo Penque,Pepper Adams,Randy Brecker,Marvin Stamm,Mel Davis,James Buffington,Tony Studd,Garnett Brown,Hubert Laws,Phil Bodner,Don Butterfield,George Devens,Ted Sommer,Ralph MacDonald,Armen Halburian,Gene Orloff,Michal Urbaniak,George Ricci,Gary Burton
 Selen Gülün,Patrick Zambonin,İlker Özalp,Jorg Mikula,Cengiz Baysal,Sarp Maden,Jan Larsen,Onur Türkmen,Michael Wilkens,Şenova Ülker
 Erol Pekcan
 Emre Tankal,Volkan Topakoğlu,Berke Özgümüş,Tamer Temel,Çağıl Kaya
@@ -624,7 +624,7 @@ Maffy Falay (Muvaffak Falay),Okay Temiz,Ove Gustavsson,Bernt Rosengren,Gunnar Be
 Maffy Falay (Muvaffak Falay),Okay Temiz,Ove Gustavsson,Gunnar Bergsten,Salih Baysal
 Yavuz Akyazıcı,Volkan Hürsever,Turgut Alp Bekoğlu
 Ahmet Gülbay,Christophe Le Van,Philippe Le Van
-Maffy Falay (Muvaffak Falay),Ake Johansson,Per-Ola Gadd,Can Kozlu,Bernt Rosengren
+Maffy Falay (Muvaffak Falay),Ake Johansson,Per Ola Gadd,Can Kozlu,Bernt Rosengren
 Fahir Atakoğlu,Alain Caron,Horacio Hernandez
 Okay Temiz,Bronislav Suchanek,Lelle Kullgren,Lennart Aberg
 Eda And
@@ -645,7 +645,7 @@ Arto Tunçboyacıyan,Vahagn Hayrapetyan
 Turgut Alp Bekoğlu,Genco Arı,Caner Üstündağ,İlkin Deniz,Erkan Oğur
 Sibel Köse,Michiel Borstlap
 İlhan Erşahin,Jessy Murphy,Kenny Wollesen
-İlhan Erşahin,Jesse Murphy,Keny Wollesen,U-Roy,Love Trio (Grup)
+İlhan Erşahin,Jesse Murphy,Keny Wollesen,U Roy,Love Trio (Grup)
 Ercüment Orkut,Alper Yılmaz,Volkan Öktem,Sarp Maden
 Arif Mardin
 Sercan Debelec,Kutay Öztürk,Ali Kabakçı,Onurcan Çağatay
@@ -673,7 +673,7 @@ Oğuz Büyükberber,Erkan Oğur,Fahrettin Yarkın,Alper Kekeç,Kemal Dinç,Murat
 Yinon Muallem,Eyal Lovett,Uraz Kıvaner,Stefan Engelmann,Meni Welt,İlker Çankara,Yankale Segal,Aidan Lowe,Harel Shachal,Yannis Raba,Ido Segal,Rali Margalit,Murat Süngü,Natalia Mann,Ofer Peled,Erdi Aslan,Bangalore Amrit,Ariel Qasis,Ziv Yehezkel,İsmail Altunbaş
 Kerem Görsev,Eric Revis,Alvester Garnett,Marcus Strickland,Marcus Strickland,Russell Gunn
 Deniz Güngör,Caner Üstündağ,Jarrod Cagwin,Volkan Gümüşlü
-Atilla Engin,Morten Gronvad ,Niels-Henning Orsted Pedersen,Ane Ramlose,Uffe Markussen
+Atilla Engin,Morten Gronvad ,Niels Henning Orsted Pedersen,Ane Ramlose,Uffe Markussen
 Serhan Erkol,Adem Gülşen,Kaan Bıyıkoğlu,Caner Üstündağ,Orhan Deniz,Ediz Hafızoğlu,Ekin Cengizkan,Barış Doğukan Yazıcı
 Saygun Arpalı,Turhan Yükseler,Mert Topel,İsmail Soyberk,Berç Yenal,Serdar Barçın,Şenova Ülker,Göksun Çavdar
 Sedat Anar,Selahattin Anar,Damla Anar,Şakir Ozan Uygan
@@ -688,7 +688,7 @@ Ali Perret,Matt Hall (Matthew Hall),Selim Selçuk,Meriç Demirkol
 Umut Tosunlar,Anıl Deniz,Soykan Akkaya
 Elif Çağlar,Aaron Parks,Harish Raghavan,Eric Harland,Cenk Erdoğan,İlhan Erşahin,İmer Demirer
 Okay Temiz,Ronan Guilfoyle,R.A. Ramamani,Mike Nielson,Ramesh Shotham,T.A.S. Mani
-Mesut Ali,Mustafa Koş,Simon Nabatov,Hans Hartmann,Mustafa Sarışın,Ernest Bier,Tony Bianco,Ahmet Charuqi,Fuasi Abdul-Khaliq,Jan Von Klewitz,Remzi Emek
+Mesut Ali,Mustafa Koş,Simon Nabatov,Hans Hartmann,Mustafa Sarışın,Ernest Bier,Tony Bianco,Ahmet Charuqi,Fuasi Abdul Khaliq,Jan Von Klewitz,Remzi Emek
 Alper Durmuş,Berkan Kaya,Serhat Yılmaz,Burak Cihangirli,Emre Karabulut,Deniz Felder,Volkan Coşar,Güneş Karaduman,İzzet Kızıl
 Osman İşmen
 Alp Ersönmez,Volkan Öktem,Sarp Maden
@@ -763,7 +763,7 @@ Kerem Görsev,Valentin Malinev,Ateş Tezer,St. Petersburg Philharmonic Orchestra
 İlhan Erşahin,Didi Gutman,Jesse Murphy,Juini Booth,Kenny Wollesen,Aaron Johnston,Derek Nievergelt,Daniel Jodocy,Sylvia Gordon,Chantal Ughi,Doug Wieselman,Zeke Zima,Jonathon Haffner,Eddie Henderson,Kirk Knuffke,Graham Haynes,Mauro Refosco,Nublu Orchestra (Grup)
 İlhan Erşahin,Jochen Rueckert,Jana Andevska,Carollyn Leonhardt,Kim Lake,DIANA,Thor Madsen
 İlhan Erşahin,Jochen Rueckert,Rozz Nash,Charles Stella
-İlhan Erşahin,Didi Gutman,Guyora Kats,Scott Barkham,David Berkman,Jon Davis,Larry Grenadier,Jonathan Maron,Jesse Murphy,Brian Blade,Kenny Wollesen,Marlon Browden,Aaron Johnston,Jochen Rueckert,Norah Jones,U-Roy,Brazilian Girls,N'Dea Davenport,Saul Williams,Marla Turner,Tijen Arkun,Kirk Lake,Sabina Sciubba,Thor Madsen,Charles Stella,Eddie Henderson,Stafford Hunter,Hüsnü Şenlendirici,Arto Tunçboyacıyan,Mehmet Akatay,Anders Hentze,Nuri Lekesizgöz,Wax Poetic (Grup)
+İlhan Erşahin,Didi Gutman,Guyora Kats,Scott Barkham,David Berkman,Jon Davis,Larry Grenadier,Jonathan Maron,Jesse Murphy,Brian Blade,Kenny Wollesen,Marlon Browden,Aaron Johnston,Jochen Rueckert,Norah Jones,U Roy,Brazilian Girls,N'Dea Davenport,Saul Williams,Marla Turner,Tijen Arkun,Kirk Lake,Sabina Sciubba,Thor Madsen,Charles Stella,Eddie Henderson,Stafford Hunter,Hüsnü Şenlendirici,Arto Tunçboyacıyan,Mehmet Akatay,Anders Hentze,Nuri Lekesizgöz,Wax Poetic (Grup)
 Ezgi Sevgi Can,Ela Nuroğlu,Shushan Kerovpyan,Vahan Kerovpyan,Marius Pibarot,Sevana Tchakerian
 Ercüment Vural,Melis Sökmen
 Barış Demirel,Aydın Türkoğlu,Ege Türkmenler,Rammy Roo
@@ -853,7 +853,7 @@ Anıl Bilgen,Cenk Esen,Yiğit Can Öztop,Apostolis Sideris,Mehmet Ali Şimayli,�
 İlhan Erşahin,Alexandre Dengue,Yuri Kalil,Fernando Catatau
 Thonekeo Xayavong,Nassim Maalouf,Ünal Ensari
 Cengiz Ünal
-Ahmet Gülbay,Christophe Le Van,Philippe Le Van,Jean-Yves Moka,Herve Meschinet
+Ahmet Gülbay,Christophe Le Van,Philippe Le Van,Jean Yves Moka,Herve Meschinet
 Mehmet Polat,Hendrik Müller,Joan Terol Amigo,Çiğdem Okuyucu,Eric Vloeimans,Michalis Kouloumis,Imamyar Hasanov,Bart Lelivelt
 Baturay Yarkın,Nağme Yarkın
 Genco Arı
@@ -916,13 +916,13 @@ Ayça Özefe,Mustafa Demireriden
 Aycan Teztel,Fatih Erkoç,Volkan Öktem,Batu Şallıel
 Mert Topel,Alper Maral,Burak Güven,İsmail Soyberk,Levent Candaş,Anıl Çifter,Çağlayan Yıldız,Zafer Şanlı,Demirhan Baylan,Alen Konakoğlu,Mert Alkaya,Aydın Şeref,Arıkan Sırakaya,Alpay Şalt,Aydın Karabulut,Sarp Maden,Tigin Aray,Okan Ersan,Tuncer Tunceli,Can Alper,Gür Akad,Çağdaş Oruç,Serdar Barçın,Barış Doğukan Yazıcı,Altay Acar,İzzet Kızıl
 Esra Kayıkçı,Orhan Deniz,Fırtına Kıral,Hakan Kamalı
-Tayfun Erdem,Renaud Garcia-Fons,Hans Hartmann,Elli Marini,Gebhard Ullmann,Eddie Hayes,Uli Bartel,Matias de Oliveira Pinto,Tobias Morgenstern,Topo Gioia,Andreas Weiser
+Tayfun Erdem,Renaud Garcia Fons,Hans Hartmann,Elli Marini,Gebhard Ullmann,Eddie Hayes,Uli Bartel,Matias de Oliveira Pinto,Tobias Morgenstern,Topo Gioia,Andreas Weiser
 Korhan Futacı,Burak Irmak
 İlhan Erşahin,Jon Davis,Doug Weiss,Keny Wollesen,Eddie Henderson
 Yavuz Akyazıcı,Funda Akyazıcı,Enver Muhamedi,Derin Bayhan
-Renaud Garcia-Fons,Derya Türkan
+Renaud Garcia Fons,Derya Türkan
 İlhan Erşahin,Juini Booth,Kenny Wollesen,Eddie Henderson
-Okay Temiz,Fahir Atakoğlu,Cengiz Özdemir,Oğuz Abadan,Arto Tunçboyacıyan,Gülizar Erkanat,Erkan Oğur,Lennert Aberg,Hacı Tekbilek,Nedim Nalbantoğlu,Istvan Leel-Össy
+Okay Temiz,Fahir Atakoğlu,Cengiz Özdemir,Oğuz Abadan,Arto Tunçboyacıyan,Gülizar Erkanat,Erkan Oğur,Lennert Aberg,Hacı Tekbilek,Nedim Nalbantoğlu,Istvan Leel Össy
 Çağıl Kaya,Ercüment Orkut,Matt Hall (Matthew Hall),Cem Aksel,Eylül Biçer,Tamer Temel
 Arto Tunçboyacıyan,Vahagn Hayrapetyan,Vardan Arakelyan,Arman Jalalyan,Armen Hyusnunts,David Nalchajyan,Tigran Suchyan,Ashot Harutiunyan,Norayr Kartashyan,Vardan Grigoryan,Anahit Artushyan,Armen Ayvazyan,Armenian Navy Band
 Ömür Göksel
@@ -955,7 +955,7 @@ Don Pullen,Charles Mingus,Dannie Richmond,Tülay German,George Adams,Jack Walrat
 Arto Tunçboyacıyan
 Arto Tunçboyacıyan,Vahagn Hayrapetyan,Vardan Arakelyan,Arman Jalalyan,Armen Hyusnunts,David Nalchajyan,Tigran Suchyan,Ashot Harutiunyan,Norayr Kartashyan,Vardan Grigoryan,Anahit Artushyan,Armen Ayvazyan,Armenian Navy Band
 Ara Dinkjian,Tamer Pınarbaşı,İsmail Lumanovski
-Murat Öztürk,Jacques Vidal,Jean-Marc Robin,Marcel Azzola,Eric Barret
+Murat Öztürk,Jacques Vidal,Jean Marc Robin,Marcel Azzola,Eric Barret
 Ediz Hafızoğlu,Sarp Maden,Engin Recepoğulları
 Ediz Hafızoğlu,Sarp Maden,Engin Recepoğulları
 Önder Focan,Stefan Weeke,Ernst Bier
@@ -987,7 +987,7 @@ Zeynep Oktar,Alper Yılmaz,Ahmetcan Gökçeer,Berke Köymen,Fırtına Kıral,Ezg
 Barış Demirel,Aydın Türkoğlu,Ege Türkmenler,Sumru Ağıryürüyen,Taner Yücel,Rammy Roo
 Yinon Muallem,Hakan Gürbüz,İsmail Altunbaş
 Ozan Aktuna,Anıl Eraslan,Angelika Niescier
-Senem Diyici,Okay Temiz,Alain Blesing,Yves Rousseau,David Pouradier-Duteil,Eric Seva,Franck Tortiller
+Senem Diyici,Okay Temiz,Alain Blesing,Yves Rousseau,David Pouradier Duteil,Eric Seva,Franck Tortiller
 Sevinç Tevs,Erol Pekcan
 Sinan Bakır,Warren Byrd,Thomson Kneeland,Mark Ferber
 Tolga Tüzün,Çağlayan Yıldız,Can Kozlu,Engin Recepoğulları
@@ -1050,7 +1050,7 @@ Cenk Esen,Aykan Esen,Berker Banar
 Baki Duyarlar,Janek Gwizdala,Louie Palmer,Justin Vasques
 Can Çankaya,Kağan Yıldız
 Aydın Esen,Randy Esen,Baron Browne,Steve Smith,Aykan Esen
-Uygar Çağlı,Tzu-Min Lee,Marco Mrcela,Bilge Kaan Kuş,Edith Lettner,Soner Tezcan
+Uygar Çağlı,Tzu Min Lee,Marco Mrcela,Bilge Kaan Kuş,Edith Lettner,Soner Tezcan
 Kerem Görsev,Alan Broadbent,Kağan Yıldız,Ferit Odman,The City of Prague Philharmonic Orchestra
 Serkan Özyılmaz,Eylem Pelit,Volkan Öktem,Okan Ersan,Levent Altındağ,Serdar Barçın,Şenova Ülker
 Berkant Çelen,Volkan Topakoğlu,Murat Çopur,Onur Başkurt
