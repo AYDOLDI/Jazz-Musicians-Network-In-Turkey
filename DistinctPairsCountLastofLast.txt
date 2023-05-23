@@ -2423,13 +2423,13 @@ Dimitris Klonis,Giannis Poulios-2
 Andrea Romani,Giannis Poulios-2
 Elvan Aracı,Maffy Falay (Muvaffak Falay)-2
 Ake Johansson,Maffy Falay (Muvaffak Falay)-3
-Maffy Falay (Muvaffak Falay),Per-Ola Gadd-2
+Maffy Falay (Muvaffak Falay),Per Ola Gadd-2
 Bernt Rosengren,Maffy Falay (Muvaffak Falay)-6
 Ake Johansson,Elvan Aracı-2
 Bernt Rosengren,Elvan Aracı-2
-Ake Johansson,Per-Ola Gadd-2
+Ake Johansson,Per Ola Gadd-2
 Ake Johansson,Bernt Rosengren-3
-Bernt Rosengren,Per-Ola Gadd-2
+Bernt Rosengren,Per Ola Gadd-2
 Fatih Oral,Lütfücan Kapucu-2
 Fatih Oral,Oğuz Alp Erdoğmuş-2
 Lütfücan Kapucu,Oğuz Alp Erdoğmuş-2
@@ -3110,8 +3110,8 @@ Fatih Erkoç,Kerem Görsev-2
 Fatih Erkoç,Kağan Yıldız-2
 Mahmut Yalay,Oğuz Büyükberber-2
 Baturay Yarkın,Yarkın Tuncer-2
-U-Roy,İlhan Erşahin-2
-Jesse Murphy,U-Roy-2
+U Roy,İlhan Erşahin-2
+Jesse Murphy,U Roy-2
 Onur Aymergen,Turgut Alp Bekoğlu-2
 Adem Gülşen,Enver Muhamedi-2
 Derin Bayhan,Enver Muhamedi-2

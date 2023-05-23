@@ -1,5 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+import scipy as sp
+import community as community_louvain
 
 # Boş bir graf oluşturma
 G = nx.Graph()
@@ -15,12 +17,11 @@ for i, line in enumerate(lines):
             persons.append(people)
 file.close()
 
-
 for k, person in enumerate(persons):
     G.add_node(person)
 
-filee = open('DistinctPairsCountLastofLast.txt', 'r', encoding="utf-8")
-lines2 = filee.readlines()
+file2 = open('DistinctPairsCountLastofLast.txt', 'r', encoding="utf-8")
+lines2 = file2.readlines()
 
 for i, line in enumerate(lines2):
     line = line.strip()
@@ -28,48 +29,41 @@ for i, line in enumerate(lines2):
     person1 = linePersons[0]
     nextIter = linePersons[1].split('-')
     person2 = nextIter[0]
-    weightt = nextIter[1]
-    G.add_edge(person1, person2, weight=weightt)
+    edgeWeight = int(nextIter[1])
+    G.add_edge(person1, person2, weight=edgeWeight)
 
-# Grafı çizdirme
-pos = nx.circular_layout(G)  # Düğümleri dairesel bir şekilde konumlandırma
-nx.draw(G, pos, with_labels=True)
+#spring layout , pek bi farkı yok
+"""" 
+pos = nx.spring_layout(G)
 
-# Kenar ağırlıklarını etiket olarak yazdırma
-labels = nx.get_edge_attributes(G, 'weight')
-nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
+# Determine node color and size dynamically
+node_color = ["lightblue"] * G.number_of_nodes()
+node_size = [500] * G.number_of_nodes()
 
-#node_colors = ['red', 'blue', 'green', 'yellow']
+# Modify the node color and size based on some criteria
+# For example, let's say node "A" is larger and red
 
-# Grafı çizdirme
-pos = nx.circular_layout(G)
 
-#nx.draw(G, pos, with_labels=True, node_color=node_colors)
-plt.xlim(-1.5, 1.5)
-plt.ylim(-1.5, 1.5)
+# Draw the nodes, edges, and labels
+nx.draw_networkx_nodes(G, pos, node_color=node_color, node_size=node_size)
+nx.draw_networkx_edges(G, pos, edge_color="gray", width=1)
+nx.draw_networkx_labels(G, pos, font_color="black", font_size=12)
+nx.draw_networkx_edge_labels(G, pos, edge_labels=nx.get_edge_attributes(G, "weight"))
+
+# Display the graph
+plt.axis("off")
 plt.show()
-
-
 """
-# Düğümleri ekleme
-G.add_node('A')
-G.add_node('B')
-G.add_node('C')
-G.add_node('D')
 
-# Kenarları ve ağırlıkları ekleme
-G.add_edge('A', 'B', weight=4)
-G.add_edge('B', 'C', weight=2)
-G.add_edge('C', 'D', weight=1)
-G.add_edge('D', 'A', weight=3)
-
-# Grafı çizdirme
-pos = nx.circular_layout(G)  # Düğümleri dairesel bir şekilde konumlandırma
-nx.draw(G, pos, with_labels=True)
-
-# Kenar ağırlıklarını etiket olarak yazdırma
-labels = nx.get_edge_attributes(G, 'weight')
-nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
-
+#treshold ile network değil ama diğer graflar çizilebilir. en cok kişiyle çalışanlar gibi.
+""" 
+# Retain nodes with degree greater than a threshold
+degree_threshold = 60
+H = G.copy()
+d = nx.degree(H)
+for n in list(H.nodes()):
+    if d[n] <= degree_threshold:
+        H.remove_node(n)
+nx.draw(H, pos=nx.random_layout(H), with_labels=True, font_size=10)
 plt.show()
 """
