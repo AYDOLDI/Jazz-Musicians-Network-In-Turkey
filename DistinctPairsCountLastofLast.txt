@@ -1561,17 +1561,12 @@ Cengiz Baysal,Mehmet Ali Sanlıkol-2
 Mehmet Ali Sanlıkol,Onur Türkmen-2
 Mehmet Ali Sanlıkol,Ryan Woodward-2
 Cem Mutlu,Mehmet Ali Sanlıkol-2
-Grup Adı: Audio Fact / AudioFact,Mehmet Ali Sanlıkol-2
 Cengiz Baysal,Fernando Huego-2
 Fernando Huego,Onur Türkmen-2
 Fernando Huego,Ryan Woodward-2
-Fernando Huego,Grup Adı: Audio Fact / AudioFact-2
 Cengiz Baysal,Onur Türkmen-4
 Cengiz Baysal,Ryan Woodward-2
-Cengiz Baysal,Grup Adı: Audio Fact / AudioFact-2
 Onur Türkmen,Ryan Woodward-2
-Grup Adı: Audio Fact / AudioFact,Onur Türkmen-2
-Grup Adı: Audio Fact / AudioFact,Ryan Woodward-2
 Bülent Altınbaş,Mehmet Akatay-2
 Aykut Gürel,Ercüment Orkut-2
 Ercüment Orkut,Siney Yılmaz-2
@@ -3674,7 +3669,6 @@ Burak Dursun,Ekin Cengizkan-2
 Aydın Esen,Selçuk Karaman (SelKa)-2
 Gary Husband,Selçuk Karaman (SelKa)-2
 Aydın Esen,Gary Husband-2
-,TRT İstanbul Hafif Müzik ve Caz Orkestrası-2
 Atakan Ünüvar,Serkan Özyılmaz-3
 Atakan Ünüvar,Özgür Salıcı-2
 Atakan Ünüvar,Ergun Eremkara-3

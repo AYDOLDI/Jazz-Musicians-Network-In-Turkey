@@ -89,7 +89,7 @@ Akif Ercihan Yerlioğlu,Berat İşçioğlu,Berkay Küçükbaşlar,Işık Üstün
 Eylül Biçer
 Arto Tunçboyacıyan
 Cahit Kutrafalı,Fuat Kutrafalı,Genco Arı,Derin Bayhan,Ezgi Akgürgen,Cenk Erdoğan,Tolga Erzurumlu,Andreas Panteli,Stelios Xydias,Ermis Michail,Kadir Evre,Ahmet Elmas,Charis Ioannou,Chris Byars
-Mehmet Ali Sanlıkol,Fernando Huego,Cengiz Baysal,Onur Türkmen,Ryan Woodward,Tiger Okoshi,Bob Brookmeyer,Bülent Altınbaş,Mehmet Akatay,Cem Mutlu,Ray Greene,Athene Wilson,Kutisan Kai,Joel Chriss,Grup Adı: Audio Fact / AudioFact
+Mehmet Ali Sanlıkol,Fernando Huego,Cengiz Baysal,Onur Türkmen,Ryan Woodward,Tiger Okoshi,Bob Brookmeyer,Bülent Altınbaş,Mehmet Akatay,Cem Mutlu,Ray Greene,Athene Wilson,Kutisan Kai,Joel Chriss
 Sezil Güler
 Selçuk Yöntem,Ercüment Orkut,Aykut Gürel,Ediz Hafızoğlu,Cem Tuncer,Siney Yılmaz
 Genco Arı,Caner Üstündağ,Turgut Alp Bekoğlu,Ömer Aslan,Kübra Erdoğan,Merve Erdoğan,Erkan Oğur,Serhan Yasdıman,Derya Türkan
@@ -179,7 +179,7 @@ Semih Önyer,Halil Çağlar Serin,Erkan Sönmez,Tolga Bilgin
 Volkan Ergen,Özgün Tuncer,Burak Cihangirli
 Dilan Balkay,Evrencan Gündüz,Uğurcan Mamuzlu,Yasin Soyöz
 Okay Temiz,Akay Temiz,Ergün Şenlendirici,Hari Tavitian,Zurab J. Gagnidze,Enver Izmailov,Floros Floridis,Iury Parflonov,Ivo Papazov,Alexander Alexandrov,Anatoly Stefanet,Nariman Umerov
-Mehmet Ali Sanlıkol,Fernando Huego,Cengiz Baysal,Onur Türkmen,Ryan Woodward,Ercan Irmak,Okay Temiz,Roberto Casittol,Grup Adı: Audio Fact / AudioFact
+Mehmet Ali Sanlıkol,Fernando Huego,Cengiz Baysal,Onur Türkmen,Ryan Woodward,Ercan Irmak,Okay Temiz,Roberto Casittol
 Selen Gülün,Ozan Musluoğlu,Berke Özgümüş,Engin Recepoğulları,Serhan Erkol,Barış Ertürk,Bulut Gülen,Halil İbrahim Işık,Barış Doğukan Yazıcı
 Baturay Yarkın,Gürtuğ Gök
 Sibel Demir,Erhan Öztürk
